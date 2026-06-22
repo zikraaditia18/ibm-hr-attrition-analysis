@@ -64,4 +64,4 @@ streamlit run dashboard.py
 
 ## Author
 **Zikra Aditia** — People Analytics & Data Science  
-[LinkedIn](https://linkedin.com/in/your-url)
+[LinkedIn](https://www.linkedin.com/in/zikra-aditia)

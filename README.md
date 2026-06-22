@@ -1,5 +1,5 @@
 # IBM HR Analytics — Employee Attrition Analysis
-🔗 **[Live Dashboard](https://your-username-ibm-hr-dashboard.streamlit.app)** ← ganti dengan link setelah deploy
+🔗 **[Live Dashboard](https://ibm-hr-attrition-analysis-c2nn4zswp6dzfbkddyxef6.streamlit.app/)**
 
 ## Key Findings
 - **Overtime** is the strongest attrition driver (30.5% vs 10.4%)
@@ -14,7 +14,7 @@
 - **Target:** Attrition from 16.1% → below 10%
 
 ## Dashboard Preview
-![Executive Dashboard](assets/dashboard_preview.png)
+![Executive Dashboard](assets/dashboard_preview-1.png)(assets/dashboard_preview-2.png)
 
 Two-page interactive dashboard (Streamlit):
 - **Executive View** — KPIs, driver breakdown, risk distribution, ROI

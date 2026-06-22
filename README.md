@@ -1,8 +1,4 @@
 # IBM HR Analytics — Employee Attrition Analysis
-
-End-to-end data science project analyzing employee attrition with predictive 
-modeling, risk scoring, and cost-benefit interventions.
-
 🔗 **[Live Dashboard](https://your-username-ibm-hr-dashboard.streamlit.app)** ← ganti dengan link setelah deploy
 
 ## Key Findings

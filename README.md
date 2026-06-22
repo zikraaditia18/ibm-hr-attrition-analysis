@@ -14,7 +14,7 @@
 - **Target:** Attrition from 16.1% → below 10%
 
 ## Dashboard Preview
-![Executive Dashboard](assets/dashboard_preview-1.png)(assets/dashboard_preview-2.png)
+![Executive Dashboard](assets/dashboard_preview-1.png)
 
 Two-page interactive dashboard (Streamlit):
 - **Executive View** — KPIs, driver breakdown, risk distribution, ROI

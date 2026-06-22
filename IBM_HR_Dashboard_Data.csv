@@ -1,0 +1,1471 @@
+Age,Gender,MaritalStatus,Department,JobRole,JobLevel,OverTime,OverTimeFlag,MonthlyIncome,SalaryGroup,TotalWorkingYears,ExperienceGroup,YearsAtCompany,TenureGroup,StockOptionLevel,OverTime_LowSalary,EarlyCareer,Attrition,Attrition_Prob,RiskCategory
+41,Female,Single,Sales,Sales Executive,2,Yes,1,5993,Mid-High,8,6-10,6,6-10,0,0,0,1,0.6208655634900456,Medium Risk
+49,Male,Married,Research & Development,Research Scientist,2,No,0,5130,Mid-High,10,6-10,10,6-10,1,0,0,0,0.2541326220519185,Low Risk
+37,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,2090,Low,7,6-10,0,0-1,0,1,1,1,0.9449217473013248,High Risk
+33,Female,Married,Research & Development,Research Scientist,1,Yes,1,2909,Low,8,6-10,8,6-10,0,1,0,0,0.849921554829425,High Risk
+27,Male,Married,Research & Development,Laboratory Technician,1,No,0,3468,Mid-Low,6,6-10,2,2-3,1,0,0,0,0.3375762670317439,Low Risk
+32,Male,Single,Research & Development,Laboratory Technician,1,No,0,3068,Mid-Low,8,6-10,7,6-10,0,0,0,0,0.4252260635467486,Medium Risk
+59,Female,Married,Research & Development,Laboratory Technician,1,Yes,1,2670,Low,12,11-20,1,0-1,3,1,1,0,0.708169874872642,High Risk
+30,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2693,Low,1,0-2,1,0-1,1,0,1,0,0.6571525739543078,Medium Risk
+38,Male,Single,Research & Development,Manufacturing Director,3,No,0,9526,High,10,6-10,9,6-10,0,0,0,0,0.3783662101603526,Low Risk
+36,Male,Married,Research & Development,Healthcare Representative,2,No,0,5237,Mid-High,17,11-20,7,6-10,2,0,0,0,0.18275745772032223,Low Risk
+35,Male,Married,Research & Development,Laboratory Technician,1,No,0,2426,Low,6,6-10,5,4-5,1,0,0,0,0.32161887497916725,Low Risk
+29,Female,Single,Research & Development,Laboratory Technician,2,Yes,1,4193,Mid-Low,10,6-10,9,6-10,0,0,0,0,0.6931402026601379,Medium Risk
+31,Male,Divorced,Research & Development,Research Scientist,1,No,0,2911,Low,5,3-5,5,4-5,1,0,0,0,0.3403231789480053,Low Risk
+34,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2661,Low,3,3-5,2,2-3,1,0,0,0,0.3338138727362934,Low Risk
+28,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,2028,Low,6,6-10,4,4-5,0,1,0,1,0.8687325755917085,High Risk
+29,Female,Divorced,Research & Development,Manufacturing Director,3,No,0,9980,High,10,6-10,10,6-10,1,0,0,0,0.3159573860849504,Low Risk
+32,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,3298,Mid-Low,7,6-10,6,6-10,2,0,0,0,0.4502539421124709,Medium Risk
+22,Male,Divorced,Research & Development,Laboratory Technician,1,Yes,1,2935,Mid-Low,1,0-2,1,0-1,2,0,1,0,0.7939266017783485,High Risk
+53,Female,Married,Sales,Manager,4,No,0,15427,High,31,21+,25,11+,0,0,0,0,0.20469933895106884,Low Risk
+38,Male,Single,Research & Development,Research Scientist,1,Yes,1,3944,Mid-Low,6,6-10,3,2-3,0,0,0,0,0.6299687283983658,Medium Risk
+24,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,4011,Mid-Low,5,3-5,4,4-5,1,0,0,0,0.3920220718101139,Low Risk
+36,Male,Single,Sales,Sales Representative,1,No,0,3407,Mid-Low,10,6-10,5,4-5,0,0,0,1,0.38180973500502696,Low Risk
+34,Female,Single,Research & Development,Research Director,3,No,0,11994,High,13,11-20,12,11+,0,0,0,0,0.3562366452782984,Low Risk
+21,Male,Single,Research & Development,Research Scientist,1,No,0,1232,Low,0,0-2,0,0-1,0,0,1,0,0.7984496513625333,High Risk
+34,Male,Single,Research & Development,Research Scientist,1,No,0,2960,Mid-Low,8,6-10,4,4-5,0,0,0,1,0.4076849407363437,Medium Risk
+53,Female,Divorced,Research & Development,Manager,5,No,0,19094,High,26,21+,14,11+,1,0,0,0,0.13653175142192764,Low Risk
+32,Female,Single,Research & Development,Research Scientist,1,Yes,1,3919,Mid-Low,10,6-10,10,6-10,0,0,0,1,0.6525560600104506,Medium Risk
+42,Male,Married,Sales,Sales Executive,2,No,0,6825,Mid-High,10,6-10,9,6-10,1,0,0,0,0.26215914720537886,Low Risk
+44,Female,Married,Research & Development,Healthcare Representative,3,No,0,10248,High,24,21+,22,11+,1,0,0,0,0.2076670082872133,Low Risk
+46,Female,Single,Sales,Manager,5,No,0,18947,High,22,21+,2,2-3,0,0,0,0,0.2175976037435484,Low Risk
+33,Male,Single,Research & Development,Laboratory Technician,1,No,0,2496,Low,7,6-10,1,0-1,0,0,1,0,0.7068384125516051,High Risk
+44,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,6465,Mid-High,9,6-10,4,4-5,0,0,0,0,0.5876447279806253,Medium Risk
+30,Male,Single,Research & Development,Laboratory Technician,1,No,0,2206,Low,10,6-10,10,6-10,0,0,0,0,0.4417294087766156,Medium Risk
+39,Male,Married,Sales,Sales Representative,2,No,0,2086,Low,19,11-20,1,0-1,1,0,1,1,0.5357386072926804,Medium Risk
+24,Male,Married,Research & Development,Research Scientist,1,Yes,1,2293,Low,6,6-10,2,2-3,1,1,0,1,0.8152444520912242,High Risk
+43,Female,Divorced,Research & Development,Research Scientist,1,No,0,2645,Low,6,6-10,5,4-5,2,0,0,0,0.20251115871515346,Low Risk
+50,Male,Married,Sales,Sales Representative,1,Yes,1,2683,Low,3,3-5,3,2-3,0,1,0,1,0.8139865816259539,High Risk
+35,Female,Married,Sales,Sales Representative,1,No,0,2014,Low,2,0-2,2,2-3,0,0,1,0,0.7343786977055594,High Risk
+36,Female,Married,Research & Development,Research Scientist,1,Yes,1,3419,Mid-Low,6,6-10,1,0-1,1,0,1,0,0.7932904630657348,High Risk
+33,Female,Married,Sales,Sales Executive,2,No,0,5376,Mid-High,10,6-10,5,4-5,2,0,0,0,0.21892911354912115,Low Risk
+35,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,1951,Low,1,0-2,1,0-1,1,0,1,0,0.6427269904948915,Medium Risk
+27,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,2341,Low,1,0-2,1,0-1,1,0,1,0,0.6749527590298829,Medium Risk
+26,Male,Single,Research & Development,Laboratory Technician,1,No,0,2293,Low,1,0-2,1,0-1,0,0,1,1,0.7689688380303299,High Risk
+27,Male,Single,Sales,Sales Executive,3,No,0,8726,High,9,6-10,9,6-10,0,0,0,0,0.44996492219026907,Medium Risk
+30,Female,Single,Research & Development,Laboratory Technician,2,No,0,4011,Mid-Low,12,11-20,12,11+,0,0,0,0,0.447458264738272,Medium Risk
+41,Female,Married,Research & Development,Research Director,5,No,0,19545,High,23,21+,22,11+,0,0,0,1,0.2707326155029616,Low Risk
+34,Male,Single,Sales,Sales Executive,2,No,0,4568,Mid-Low,10,6-10,9,6-10,0,0,0,0,0.42480284912852845,Medium Risk
+37,Male,Married,Research & Development,Research Scientist,1,No,0,3022,Mid-Low,8,6-10,1,0-1,0,0,1,0,0.6775057927226106,Medium Risk
+46,Male,Single,Sales,Sales Executive,2,Yes,1,5772,Mid-High,14,11-20,9,6-10,0,0,0,0,0.567342533581416,Medium Risk
+35,Male,Married,Research & Development,Laboratory Technician,1,No,0,2269,Low,1,0-2,1,0-1,0,0,1,0,0.7348295464131926,High Risk
+48,Male,Single,Research & Development,Laboratory Technician,3,Yes,1,5381,Mid-High,23,21+,1,0-1,0,0,1,1,0.7802673444505607,High Risk
+28,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,3441,Mid-Low,2,0-2,2,2-3,0,0,1,1,0.889038331445152,High Risk
+44,Female,Divorced,Sales,Sales Executive,2,Yes,1,5454,Mid-High,9,6-10,4,4-5,1,0,0,0,0.4896757873056778,Medium Risk
+35,Male,Married,Research & Development,Healthcare Representative,3,Yes,1,9884,High,10,6-10,4,4-5,1,0,0,0,0.5078910961850522,Medium Risk
+26,Female,Married,Sales,Sales Executive,2,Yes,1,4157,Mid-Low,5,3-5,2,2-3,1,0,0,0,0.6185930358231002,Medium Risk
+33,Female,Single,Research & Development,Research Director,3,Yes,1,13458,High,15,11-20,15,11+,0,0,0,0,0.5813022581435969,Medium Risk
+35,Male,Married,Sales,Sales Executive,3,No,0,9069,High,9,6-10,9,6-10,1,0,0,0,0.3032909483817273,Low Risk
+35,Female,Married,Research & Development,Laboratory Technician,1,Yes,1,4014,Mid-Low,4,3-5,2,2-3,1,0,0,0,0.5460888037800683,Medium Risk
+31,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,5915,Mid-High,10,6-10,7,6-10,1,0,0,0,0.3130434129356283,Low Risk
+37,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,5993,Mid-High,7,6-10,7,6-10,1,0,0,0,0.30387320966462844,Low Risk
+32,Male,Married,Research & Development,Manufacturing Director,2,Yes,1,6162,Mid-High,9,6-10,9,6-10,1,0,0,0,0.5569665805877931,Medium Risk
+38,Female,Single,Research & Development,Laboratory Technician,2,No,0,2406,Low,10,6-10,10,6-10,0,0,0,0,0.4356333063852814,Medium Risk
+50,Female,Divorced,Research & Development,Research Director,5,Yes,1,18740,High,29,21+,27,11+,1,0,0,0,0.33339152344326906,Low Risk
+59,Female,Single,Sales,Sales Executive,3,No,0,7637,Mid-High,28,21+,21,11+,0,0,0,0,0.23421800524121714,Low Risk
+36,Female,Divorced,Research & Development,Healthcare Representative,3,No,0,10096,High,17,11-20,17,11+,3,0,0,0,0.12676898975358958,Low Risk
+55,Female,Divorced,Research & Development,Manager,4,Yes,1,14756,High,21,21+,5,4-5,3,0,0,0,0.1572253972470008,Low Risk
+36,Male,Single,Research & Development,Manufacturing Director,2,No,0,6499,Mid-High,6,6-10,6,6-10,0,0,0,0,0.4084120341711658,Medium Risk
+45,Male,Divorced,Research & Development,Research Scientist,3,No,0,9724,High,25,21+,1,0-1,1,0,1,0,0.4011663642366338,Medium Risk
+35,Male,Married,Research & Development,Research Scientist,1,No,0,2194,Low,5,3-5,3,2-3,1,0,0,0,0.3250481494238581,Low Risk
+36,Male,Married,Research & Development,Research Scientist,1,Yes,1,3388,Mid-Low,2,0-2,1,0-1,1,0,1,1,0.8113277054437698,High Risk
+59,Female,Single,Sales,Sales Executive,2,No,0,5473,Mid-High,20,11-20,4,4-5,0,0,0,0,0.23056983770606404,Low Risk
+29,Male,Married,Research & Development,Research Scientist,1,No,0,2703,Low,6,6-10,5,4-5,1,0,0,0,0.34571319870569356,Low Risk
+31,Male,Single,Research & Development,Research Scientist,1,No,0,2501,Low,1,0-2,1,0-1,0,0,1,0,0.7482014332391437,High Risk
+32,Male,Married,Research & Development,Research Scientist,2,No,0,6220,Mid-High,10,6-10,10,6-10,2,0,0,0,0.22540963660298075,Low Risk
+36,Female,Married,Research & Development,Laboratory Technician,1,No,0,3038,Mid-Low,5,3-5,1,0-1,0,0,1,0,0.6997492527174984,Medium Risk
+31,Female,Single,Research & Development,Manufacturing Director,2,No,0,4424,Mid-Low,11,11-20,11,11+,0,0,0,0,0.4409133928608111,Medium Risk
+35,Male,Single,Sales,Sales Executive,2,No,0,4312,Mid-Low,16,11-20,15,11+,0,0,0,0,0.40021383920285203,Medium Risk
+45,Male,Married,Research & Development,Research Director,3,Yes,1,13245,High,17,11-20,0,0-1,0,0,1,0,0.7446728987843069,High Risk
+37,Male,Single,Research & Development,Research Director,3,No,0,13664,High,16,11-20,5,4-5,0,0,0,0,0.2867194415686922,Low Risk
+46,Male,Divorced,Human Resources,Human Resources,2,Yes,1,5021,Mid-High,16,11-20,4,4-5,1,0,0,0,0.43640644491780595,Medium Risk
+30,Male,Married,Research & Development,Laboratory Technician,2,Yes,1,5126,Mid-High,10,6-10,10,6-10,2,0,0,0,0.46502988156643876,Medium Risk
+35,Male,Single,Research & Development,Research Scientist,1,No,0,2859,Low,6,6-10,6,6-10,0,0,0,0,0.42358800229956384,Medium Risk
+55,Male,Married,Sales,Sales Executive,3,No,0,10239,High,24,21+,1,0-1,1,0,1,0,0.35327036406112533,Low Risk
+38,Female,Divorced,Research & Development,Research Scientist,2,Yes,1,5329,Mid-High,17,11-20,13,11+,3,0,0,0,0.28434986268180984,Low Risk
+34,Male,Married,Research & Development,Manufacturing Director,2,No,0,4325,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.4503474158044678,Medium Risk
+56,Male,Single,Research & Development,Manufacturing Director,3,No,0,7260,Mid-High,37,21+,6,6-10,0,0,0,0,0.17653222681628325,Low Risk
+23,Male,Divorced,Sales,Sales Representative,1,No,0,2322,Low,3,3-5,0,0-1,1,0,1,0,0.6781542639626873,Medium Risk
+51,Male,Married,Research & Development,Laboratory Technician,1,No,0,2075,Low,10,6-10,4,4-5,2,0,0,0,0.16395527264041626,Low Risk
+30,Male,Married,Research & Development,Healthcare Representative,2,No,0,4152,Mid-Low,11,11-20,11,11+,3,0,0,0,0.17522778880192552,Low Risk
+46,Male,Single,Sales,Sales Executive,3,No,0,9619,High,9,6-10,9,6-10,0,0,0,1,0.34584665046951346,Low Risk
+40,Male,Married,Research & Development,Healthcare Representative,4,No,0,13503,High,22,21+,22,11+,1,0,0,0,0.2274681555646108,Low Risk
+51,Male,Single,Sales,Sales Executive,2,Yes,1,5441,Mid-High,11,11-20,10,6-10,0,0,0,0,0.5701253257110153,Medium Risk
+30,Female,Divorced,Sales,Sales Executive,2,Yes,1,5209,Mid-High,11,11-20,11,11+,3,0,0,0,0.35228176664836575,Low Risk
+46,Male,Married,Research & Development,Healthcare Representative,3,Yes,1,10673,High,21,21+,10,6-10,1,0,0,0,0.3845796033851373,Low Risk
+32,Male,Single,Sales,Sales Executive,2,No,0,5010,Mid-High,12,11-20,11,11+,0,0,0,0,0.4214404439469913,Medium Risk
+54,Female,Married,Research & Development,Research Director,3,No,0,13549,High,16,11-20,4,4-5,1,0,0,0,0.152529744948424,Low Risk
+24,Female,Married,Sales,Sales Executive,2,No,0,4999,Mid-High,4,3-5,3,2-3,1,0,0,0,0.3834049011813507,Low Risk
+28,Male,Married,Sales,Sales Executive,2,No,0,4221,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.4823096428496901,Medium Risk
+58,Male,Single,Sales,Sales Executive,4,No,0,13872,High,38,21+,37,11+,0,0,0,0,0.19364213574418815,Low Risk
+44,Male,Married,Research & Development,Laboratory Technician,2,No,0,2042,Low,17,11-20,3,2-3,1,0,0,0,0.2508959170994647,Low Risk
+37,Male,Divorced,Human Resources,Human Resources,1,Yes,1,2073,Low,7,6-10,3,2-3,0,1,0,1,0.8405868354076159,High Risk
+32,Male,Single,Research & Development,Research Scientist,1,No,0,2956,Mid-Low,1,0-2,1,0-1,0,0,1,0,0.7397317298551186,High Risk
+20,Female,Single,Research & Development,Laboratory Technician,1,Yes,1,2926,Mid-Low,1,0-2,1,0-1,0,0,1,1,0.9078638425016078,High Risk
+34,Female,Single,Research & Development,Research Scientist,2,No,0,4809,Mid-Low,16,11-20,16,11+,0,0,0,0,0.40180188154114516,Medium Risk
+37,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,5163,Mid-High,17,11-20,1,0-1,1,0,1,0,0.5195359722075736,Medium Risk
+59,Female,Married,Human Resources,Manager,5,No,0,18844,High,30,21+,3,2-3,1,0,0,0,0.09960684865763016,Low Risk
+50,Female,Married,Research & Development,Research Director,5,Yes,1,18172,High,28,21+,8,6-10,0,0,0,0,0.3965908522582427,Low Risk
+25,Male,Single,Sales,Sales Executive,2,Yes,1,5744,Mid-High,6,6-10,6,6-10,0,0,0,1,0.7089748653461329,High Risk
+25,Male,Married,Research & Development,Research Scientist,1,No,0,2889,Low,2,0-2,2,2-3,2,0,1,0,0.5691197962262016,Medium Risk
+22,Female,Single,Research & Development,Laboratory Technician,1,No,0,2871,Low,1,0-2,0,0-1,0,0,1,0,0.7758694522925221,High Risk
+51,Female,Single,Research & Development,Healthcare Representative,3,No,0,7484,Mid-High,23,21+,13,11+,0,0,0,0,0.27473307797046603,Low Risk
+34,Male,Single,Research & Development,Laboratory Technician,2,Yes,1,6074,Mid-High,9,6-10,9,6-10,0,0,0,1,0.6550459189090606,Medium Risk
+54,Female,Single,Human Resources,Manager,4,Yes,1,17328,High,23,21+,5,4-5,0,0,0,0,0.3766736077186949,Low Risk
+24,Male,Married,Research & Development,Laboratory Technician,1,No,0,2774,Low,6,6-10,5,4-5,1,0,0,0,0.3683787259379824,Low Risk
+34,Female,Divorced,Research & Development,Research Scientist,2,No,0,4505,Mid-Low,12,11-20,1,0-1,1,0,1,0,0.5779919079714562,Medium Risk
+37,Male,Single,Sales,Sales Executive,3,No,0,7428,Mid-High,12,11-20,5,4-5,0,0,0,0,0.38444640594389645,Low Risk
+34,Female,Single,Research & Development,Manager,3,No,0,11631,High,14,11-20,11,11+,0,0,0,0,0.35138776868310556,Low Risk
+36,Female,Married,Sales,Sales Executive,3,No,0,9738,High,10,6-10,9,6-10,1,0,0,0,0.28588493570601925,Low Risk
+36,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,2835,Low,7,6-10,1,0-1,1,0,1,0,0.5870840532450966,Medium Risk
+43,Male,Married,Sales,Manager,4,Yes,1,16959,High,25,21+,25,11+,2,0,0,0,0.2755638574039035,Low Risk
+30,Male,Divorced,Research & Development,Research Scientist,1,No,0,2613,Low,10,6-10,10,6-10,3,0,0,0,0.1677052283994933,Low Risk
+33,Male,Married,Sales,Sales Executive,2,No,0,6146,Mid-High,8,6-10,7,6-10,1,0,0,0,0.31366920781060137,Low Risk
+56,Female,Married,Research & Development,Research Scientist,1,Yes,1,4963,Mid-High,7,6-10,5,4-5,3,0,0,1,0.2243603903572087,Low Risk
+51,Male,Single,Research & Development,Research Director,5,No,0,19537,High,23,21+,20,11+,0,0,0,0,0.22792434386979937,Low Risk
+31,Male,Married,Sales,Sales Executive,2,Yes,1,6172,Mid-High,12,11-20,7,6-10,0,0,0,1,0.643119712949907,Medium Risk
+26,Female,Married,Research & Development,Research Scientist,1,No,0,2368,Low,5,3-5,5,4-5,0,0,0,0,0.47952279928546787,Medium Risk
+58,Female,Married,Research & Development,Healthcare Representative,3,No,0,10312,High,40,21+,40,11+,1,0,0,1,0.1350819795697786,Low Risk
+19,Male,Single,Sales,Sales Representative,1,Yes,1,1675,Low,0,0-2,0,0-1,0,1,1,1,0.9686129090198698,High Risk
+22,Male,Married,Research & Development,Laboratory Technician,1,No,0,2523,Low,3,3-5,2,2-3,1,0,0,0,0.3922841994815737,Low Risk
+49,Female,Married,Research & Development,Manufacturing Director,2,No,0,6567,Mid-High,16,11-20,15,11+,0,0,0,0,0.3078142911646027,Low Risk
+43,Female,Single,Research & Development,Research Scientist,1,No,0,4739,Mid-Low,18,11-20,3,2-3,0,0,0,0,0.2800066010252682,Low Risk
+50,Female,Single,Sales,Sales Executive,3,No,0,9208,High,16,11-20,2,2-3,0,0,0,0,0.27288977170357775,Low Risk
+31,Female,Married,Sales,Sales Executive,2,Yes,1,4559,Mid-Low,4,3-5,2,2-3,1,0,0,1,0.5957877122342107,Medium Risk
+41,Male,Divorced,Sales,Sales Executive,3,Yes,1,8189,Mid-High,12,11-20,9,6-10,1,0,0,0,0.5008115209747769,Medium Risk
+26,Female,Married,Human Resources,Human Resources,1,No,0,2942,Mid-Low,8,6-10,8,6-10,1,0,0,0,0.35246406167701216,Low Risk
+36,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,4941,Mid-High,7,6-10,3,2-3,2,0,0,0,0.22253179235772802,Low Risk
+51,Male,Single,Research & Development,Manufacturing Director,3,No,0,10650,High,18,11-20,4,4-5,0,0,0,1,0.24825096428854163,Low Risk
+39,Female,Married,Sales,Sales Executive,2,No,0,5902,Mid-High,17,11-20,15,11+,1,0,0,0,0.25976960282439865,Low Risk
+25,Male,Married,Sales,Sales Executive,2,No,0,8639,High,6,6-10,2,2-3,0,0,0,0,0.4238617710577282,Medium Risk
+30,Male,Married,Human Resources,Human Resources,2,Yes,1,6347,Mid-High,12,11-20,11,11+,0,0,0,0,0.6568712598838762,Medium Risk
+32,Female,Single,Research & Development,Laboratory Technician,1,No,0,4200,Mid-Low,10,6-10,5,4-5,0,0,0,1,0.3913480714514181,Low Risk
+45,Male,Single,Research & Development,Research Scientist,1,No,0,3452,Mid-Low,9,6-10,6,6-10,0,0,0,0,0.34787117290068703,Low Risk
+38,Female,Single,Research & Development,Research Scientist,2,Yes,1,4317,Mid-Low,19,11-20,3,2-3,0,0,0,0,0.573883394938604,Medium Risk
+30,Female,Single,Research & Development,Research Scientist,1,No,0,2632,Low,5,3-5,5,4-5,0,0,0,0,0.45565183528005737,Medium Risk
+32,Male,Divorced,Sales,Sales Executive,2,No,0,4668,Mid-Low,9,6-10,8,6-10,3,0,0,0,0.16826084670179342,Low Risk
+30,Female,Divorced,Research & Development,Research Scientist,1,No,0,3204,Mid-Low,8,6-10,3,2-3,1,0,0,0,0.3174556640084981,Low Risk
+30,Male,Single,Research & Development,Laboratory Technician,1,No,0,2720,Low,6,6-10,5,4-5,0,0,0,0,0.44756008829104554,Medium Risk
+41,Male,Divorced,Research & Development,Manager,4,No,0,17181,High,21,21+,7,6-10,1,0,0,0,0.1689249901929201,Low Risk
+41,Male,Married,Research & Development,Laboratory Technician,1,No,0,2238,Low,7,6-10,5,4-5,1,0,0,0,0.29163131844815765,Low Risk
+19,Female,Single,Research & Development,Laboratory Technician,1,No,0,1483,Low,1,0-2,1,0-1,0,0,1,0,0.8003789172094257,High Risk
+40,Female,Divorced,Research & Development,Research Scientist,2,No,0,5605,Mid-High,20,11-20,20,11+,1,0,0,0,0.2545157287438061,Low Risk
+35,Male,Married,Sales,Sales Executive,3,No,0,7295,Mid-High,10,6-10,10,6-10,2,0,0,0,0.23098328332407095,Low Risk
+53,Male,Married,Sales,Sales Representative,2,Yes,1,2306,Low,13,11-20,7,6-10,1,1,0,0,0.71182274748939,High Risk
+45,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,2348,Low,20,11-20,17,11+,1,0,0,0,0.26067270422710864,Low Risk
+32,Female,Single,Sales,Sales Executive,3,No,0,8998,High,9,6-10,9,6-10,0,0,0,0,0.42125128379767246,Medium Risk
+29,Male,Married,Research & Development,Manufacturing Director,2,No,0,4319,Mid-Low,10,6-10,10,6-10,1,0,0,0,0.34887734161452216,Low Risk
+51,Male,Married,Research & Development,Manufacturing Director,2,No,0,6132,Mid-High,10,6-10,1,0-1,0,0,1,0,0.5951287798974928,Medium Risk
+58,Female,Married,Research & Development,Research Scientist,1,Yes,1,3346,Mid-Low,9,6-10,1,0-1,1,0,1,0,0.6928792422064083,Medium Risk
+40,Male,Married,Sales,Sales Executive,3,No,0,10855,High,15,11-20,12,11+,1,0,0,0,0.2387386956101797,Low Risk
+34,Female,Married,Sales,Sales Representative,1,No,0,2231,Low,6,6-10,4,4-5,1,0,0,0,0.32566386594683605,Low Risk
+22,Male,Married,Research & Development,Research Scientist,1,No,0,2323,Low,2,0-2,2,2-3,2,0,1,0,0.591356384587082,Medium Risk
+27,Male,Divorced,Research & Development,Research Scientist,1,No,0,2024,Low,6,6-10,2,2-3,1,0,0,0,0.3547906741501012,Low Risk
+28,Male,Married,Research & Development,Research Scientist,1,No,0,2713,Low,5,3-5,5,4-5,1,0,0,0,0.35665199392668323,Low Risk
+57,Male,Divorced,Research & Development,Healthcare Representative,3,Yes,1,9439,High,12,11-20,5,4-5,1,0,0,0,0.39179672761436984,Low Risk
+27,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,2566,Low,1,0-2,1,0-1,1,1,1,0,0.940138433673793,High Risk
+50,Female,Single,Research & Development,Manager,5,No,0,19926,High,21,21+,5,4-5,0,0,0,0,0.20613607086663496,Low Risk
+41,Male,Divorced,Research & Development,Research Scientist,1,No,0,2451,Low,13,11-20,9,6-10,1,0,0,0,0.26546538178228557,Low Risk
+30,Female,Married,Sales,Sales Executive,3,No,0,9419,High,12,11-20,10,6-10,1,0,0,0,0.3058833190479789,Low Risk
+38,Female,Single,Sales,Sales Executive,2,No,0,8686,High,12,11-20,8,6-10,0,0,0,0,0.3384109994596202,Low Risk
+32,Male,Single,Research & Development,Research Scientist,1,No,0,3038,Mid-Low,8,6-10,5,4-5,0,0,0,0,0.4196133129252639,Medium Risk
+27,Male,Married,Research & Development,Research Scientist,1,Yes,1,3058,Mid-Low,6,6-10,5,4-5,1,0,0,0,0.5938824987019298,Medium Risk
+19,Female,Single,Sales,Sales Representative,1,No,0,2325,Low,1,0-2,0,0-1,0,0,1,1,0.7911740109996882,High Risk
+36,Male,Single,Research & Development,Laboratory Technician,1,No,0,2088,Low,13,11-20,8,6-10,0,0,0,0,0.38707413604529706,Low Risk
+30,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,3072,Mid-Low,12,11-20,12,11+,2,0,0,0,0.25748606452306455,Low Risk
+45,Female,Divorced,Sales,Sales Executive,2,Yes,1,5006,Mid-High,9,6-10,5,4-5,1,0,0,0,0.4935229078583992,Medium Risk
+56,Female,Divorced,Research & Development,Research Scientist,1,Yes,1,4257,Mid-Low,19,11-20,2,2-3,1,0,0,0,0.3364879920628487,Low Risk
+33,Male,Single,Research & Development,Research Scientist,1,No,0,2500,Low,4,3-5,3,2-3,0,0,0,0,0.44301056457724064,Medium Risk
+19,Male,Single,Research & Development,Laboratory Technician,1,No,0,1102,Low,1,0-2,1,0-1,0,0,1,1,0.8035662838561731,High Risk
+46,Female,Divorced,Sales,Sales Executive,3,No,0,10453,High,24,21+,24,11+,3,0,0,0,0.09416115631680252,Low Risk
+38,Female,Single,Research & Development,Laboratory Technician,1,No,0,2288,Low,2,0-2,2,2-3,0,0,1,0,0.7193057725243848,High Risk
+31,Female,Married,Research & Development,Research Scientist,1,Yes,1,3929,Mid-Low,7,6-10,4,4-5,1,0,0,0,0.5527596390045091,Medium Risk
+34,Female,Single,Research & Development,Research Scientist,1,No,0,2311,Low,9,6-10,3,2-3,0,0,0,0,0.4062024348425613,Medium Risk
+41,Female,Single,Sales,Sales Representative,1,Yes,1,3140,Mid-Low,4,3-5,4,4-5,0,0,0,1,0.6413678721607494,Medium Risk
+50,Male,Married,Research & Development,Laboratory Technician,1,No,0,3690,Mid-Low,5,3-5,3,2-3,1,0,0,0,0.24657404345774156,Low Risk
+53,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,4450,Mid-Low,5,3-5,4,4-5,2,0,0,0,0.1816464830408266,Low Risk
+33,Female,Married,Research & Development,Research Scientist,1,No,0,2756,Low,8,6-10,8,6-10,1,0,0,0,0.32258340697725485,Low Risk
+40,Female,Married,Research & Development,Manager,5,No,0,19033,High,21,21+,20,11+,1,0,0,0,0.2041192972188796,Low Risk
+55,Male,Single,Research & Development,Research Director,5,No,0,18722,High,36,21+,24,11+,0,0,0,0,0.17158157964740914,Low Risk
+34,Male,Married,Research & Development,Manufacturing Director,2,No,0,9547,High,10,6-10,10,6-10,0,0,0,0,0.3651503375786472,Low Risk
+51,Female,Single,Research & Development,Healthcare Representative,4,No,0,13734,High,21,21+,7,6-10,0,0,0,0,0.23723795588970487,Low Risk
+52,Male,Married,Research & Development,Manager,5,No,0,19999,High,34,21+,33,11+,1,0,0,0,0.13443317790869597,Low Risk
+27,Female,Single,Research & Development,Research Scientist,1,No,0,2279,Low,7,6-10,7,6-10,0,0,0,0,0.4677307331624988,Medium Risk
+35,Male,Married,Research & Development,Manufacturing Director,2,Yes,1,5916,Mid-High,8,6-10,1,0-1,0,0,1,1,0.8552435809218061,High Risk
+43,Male,Divorced,Research & Development,Research Scientist,1,No,0,2089,Low,7,6-10,5,4-5,3,0,0,0,0.13964765447013852,Low Risk
+45,Male,Married,Research & Development,Manager,4,No,0,16792,High,22,21+,20,11+,1,0,0,0,0.17901950202639796,Low Risk
+37,Male,Married,Research & Development,Research Scientist,1,Yes,1,3564,Mid-Low,8,6-10,8,6-10,1,0,0,0,0.5322525921234641,Medium Risk
+35,Female,Single,Research & Development,Laboratory Technician,2,No,0,4425,Mid-Low,10,6-10,6,6-10,0,0,0,0,0.41267148039470664,Medium Risk
+42,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,5265,Mid-High,11,11-20,5,4-5,1,0,0,0,0.26312139424510683,Low Risk
+38,Male,Married,Research & Development,Manufacturing Director,2,No,0,6553,Mid-High,14,11-20,1,0-1,0,0,1,0,0.6265334044129348,Medium Risk
+38,Male,Married,Research & Development,Manufacturing Director,2,No,0,6261,Mid-High,9,6-10,7,6-10,1,0,0,0,0.28503637100994916,Low Risk
+27,Male,Married,Research & Development,Manufacturing Director,2,No,0,4298,Mid-Low,6,6-10,2,2-3,1,0,0,0,0.3616842581523376,Low Risk
+49,Male,Divorced,Research & Development,Manufacturing Director,2,Yes,1,6804,Mid-High,7,6-10,7,6-10,2,0,0,0,0.36106166865293965,Low Risk
+34,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,3815,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.5559404733443969,Medium Risk
+40,Male,Married,Research & Development,Laboratory Technician,2,Yes,1,2741,Low,15,11-20,7,6-10,1,1,0,0,0.7487123798681664,High Risk
+38,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,6673,Mid-High,17,11-20,1,0-1,0,0,1,1,0.8057479546728411,High Risk
+29,Female,Married,Sales,Sales Executive,3,No,0,7639,Mid-High,10,6-10,10,6-10,3,0,0,1,0.17556505917203108,Low Risk
+22,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,2328,Low,4,3-5,4,4-5,1,1,0,0,0.8326145577670461,High Risk
+36,Female,Single,Research & Development,Laboratory Technician,1,No,0,2153,Low,8,6-10,8,6-10,0,0,0,0,0.41997863367171506,Medium Risk
+40,Male,Married,Research & Development,Healthcare Representative,2,No,0,4876,Mid-Low,5,3-5,3,2-3,1,0,0,0,0.30477255245860746,Low Risk
+46,Male,Divorced,Research & Development,Healthcare Representative,3,No,0,9396,High,17,11-20,4,4-5,1,0,0,0,0.20421341637041973,Low Risk
+32,Male,Married,Sales,Sales Executive,3,No,0,10400,High,14,11-20,14,11+,0,0,0,1,0.3845640322860281,Low Risk
+30,Male,Single,Research & Development,Manufacturing Director,3,No,0,8474,High,12,11-20,11,11+,0,0,0,0,0.42346496480599144,Medium Risk
+27,Female,Single,Sales,Sales Executive,2,No,0,9981,High,7,6-10,7,6-10,0,0,0,0,0.40487143105023005,Medium Risk
+51,Male,Married,Research & Development,Research Director,3,No,0,12490,High,16,11-20,10,6-10,2,0,0,0,0.12210427798265666,Low Risk
+30,Female,Single,Research & Development,Research Scientist,1,Yes,1,2657,Low,8,6-10,5,4-5,0,1,0,1,0.8546914883961084,High Risk
+41,Female,Single,Sales,Manager,3,Yes,1,13591,High,16,11-20,1,0-1,0,0,1,0,0.7639578529574392,High Risk
+30,Female,Single,Sales,Sales Executive,2,No,0,6696,Mid-High,9,6-10,6,6-10,0,0,0,1,0.4153168749408316,Medium Risk
+29,Male,Single,Research & Development,Research Scientist,1,No,0,2058,Low,7,6-10,6,6-10,0,0,0,1,0.4573769978564074,Medium Risk
+45,Female,Single,Sales,Sales Executive,3,No,0,8865,High,23,21+,19,11+,0,0,0,0,0.30011837945234576,Low Risk
+54,Female,Married,Sales,Sales Executive,2,No,0,5940,Mid-High,16,11-20,6,6-10,1,0,0,0,0.19166019286003458,Low Risk
+36,Male,Single,Research & Development,Laboratory Technician,2,No,0,5914,Mid-High,16,11-20,13,11+,0,0,0,0,0.36957289935079024,Low Risk
+33,Female,Married,Research & Development,Research Scientist,1,No,0,2622,Low,7,6-10,3,2-3,0,0,0,0,0.42079911481528676,Medium Risk
+37,Male,Divorced,Research & Development,Research Director,3,Yes,1,12185,High,10,6-10,10,6-10,3,0,0,0,0.27798412435704345,Low Risk
+38,Male,Divorced,Sales,Sales Executive,3,No,0,10609,High,17,11-20,16,11+,2,0,0,0,0.17345273829594143,Low Risk
+31,Male,Married,Research & Development,Manufacturing Director,2,No,0,4345,Mid-Low,6,6-10,5,4-5,1,0,0,0,0.3507697228244047,Low Risk
+59,Male,Married,Research & Development,Research Scientist,1,No,0,2177,Low,7,6-10,1,0-1,1,0,1,0,0.4787865744708405,Medium Risk
+37,Male,Divorced,Sales,Sales Representative,1,No,0,2793,Low,13,11-20,9,6-10,1,0,0,0,0.27812723974585873,Low Risk
+29,Female,Married,Sales,Sales Executive,3,No,0,7918,Mid-High,11,11-20,11,11+,1,0,0,0,0.33636484807234046,Low Risk
+35,Female,Single,Sales,Sales Executive,3,No,0,8789,High,10,6-10,10,6-10,0,0,0,0,0.40519303131962175,Medium Risk
+29,Male,Single,Research & Development,Research Scientist,1,Yes,1,2389,Low,4,3-5,4,4-5,0,1,0,1,0.8706095018860557,High Risk
+52,Female,Single,Research & Development,Laboratory Technician,1,No,0,3212,Mid-Low,6,6-10,2,2-3,0,0,0,0,0.32644221346116375,Low Risk
+42,Male,Married,Research & Development,Manager,5,No,0,19232,High,22,21+,22,11+,0,0,0,0,0.27550242347559567,Low Risk
+59,Male,Married,Human Resources,Human Resources,1,No,0,2267,Low,7,6-10,2,2-3,0,0,0,0,0.3002567772503185,Low Risk
+50,Female,Divorced,Sales,Manager,5,No,0,19517,High,32,21+,7,6-10,1,0,0,0,0.1130997941794554,Low Risk
+33,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,2436,Low,8,6-10,5,4-5,1,1,0,1,0.7812946488008526,High Risk
+43,Female,Married,Sales,Manager,4,Yes,1,16064,High,22,21+,17,11+,1,0,0,0,0.38110582245172675,Low Risk
+33,Female,Married,Research & Development,Laboratory Technician,1,No,0,2707,Low,13,11-20,9,6-10,0,0,0,1,0.3968891594008562,Low Risk
+52,Male,Single,Sales,Manager,5,Yes,1,19068,High,33,21+,33,11+,0,0,0,0,0.41562447933165775,Medium Risk
+32,Female,Married,Sales,Sales Representative,1,No,0,3931,Mid-Low,6,6-10,4,4-5,1,0,0,0,0.31509273426617573,Low Risk
+32,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,3730,Mid-Low,4,3-5,3,2-3,0,0,0,1,0.6731418186308773,Medium Risk
+39,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,2232,Low,7,6-10,3,2-3,3,0,0,0,0.14574894576347328,Low Risk
+32,Male,Married,Sales,Sales Executive,2,No,0,4465,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.45954111888974064,Medium Risk
+41,Male,Divorced,Research & Development,Research Scientist,2,No,0,3072,Mid-Low,17,11-20,1,0-1,2,0,1,0,0.41521145870343457,Medium Risk
+40,Male,Divorced,Research & Development,Research Scientist,2,No,0,3319,Mid-Low,9,6-10,9,6-10,2,0,0,0,0.2262081587685011,Low Risk
+45,Male,Married,Research & Development,Manager,5,No,0,19202,High,25,21+,24,11+,1,0,0,0,0.17724478987284756,Low Risk
+31,Male,Divorced,Research & Development,Research Director,3,No,0,13675,High,9,6-10,2,2-3,1,0,0,0,0.2538162675665767,Low Risk
+33,Female,Married,Research & Development,Research Scientist,1,No,0,2911,Low,2,0-2,2,2-3,1,0,1,0,0.6368926643791286,Medium Risk
+34,Male,Married,Research & Development,Manufacturing Director,2,No,0,5957,Mid-High,13,11-20,11,11+,1,0,0,0,0.29222875895869654,Low Risk
+37,Female,Married,Research & Development,Research Scientist,1,No,0,3920,Mid-Low,17,11-20,3,2-3,1,0,0,0,0.2316447383381394,Low Risk
+45,Male,Married,Research & Development,Manufacturing Director,2,No,0,6434,Mid-High,9,6-10,3,2-3,1,0,0,0,0.24575237722574508,Low Risk
+37,Male,Divorced,Research & Development,Manufacturing Director,3,No,0,10048,High,17,11-20,1,0-1,2,0,1,1,0.38268413807405455,Low Risk
+39,Female,Single,Research & Development,Healthcare Representative,3,No,0,10938,High,20,11-20,19,11+,0,0,0,0,0.32107763736786465,Low Risk
+29,Male,Single,Research & Development,Research Scientist,1,No,0,2340,Low,6,6-10,6,6-10,0,0,0,0,0.4606505720996932,Medium Risk
+42,Female,Single,Research & Development,Research Scientist,2,Yes,1,6545,Mid-High,10,6-10,3,2-3,0,0,0,0,0.5867852206981945,Medium Risk
+29,Male,Divorced,Sales,Sales Executive,2,No,0,6931,Mid-High,10,6-10,3,2-3,1,0,0,0,0.2999319672004722,Low Risk
+25,Female,Married,Research & Development,Manufacturing Director,2,No,0,4898,Mid-Low,5,3-5,4,4-5,2,0,0,0,0.2779118977165403,Low Risk
+42,Female,Divorced,Research & Development,Laboratory Technician,1,Yes,1,2593,Low,10,6-10,9,6-10,1,1,0,0,0.745272337631181,High Risk
+40,Male,Divorced,Research & Development,Research Director,5,No,0,19436,High,22,21+,21,11+,1,0,0,0,0.19817826238415762,Low Risk
+51,Male,Married,Research & Development,Research Scientist,1,No,0,2723,Low,1,0-2,1,0-1,0,0,1,0,0.6609109348712486,Medium Risk
+31,Male,Single,Research & Development,Laboratory Technician,1,No,0,3479,Mid-Low,6,6-10,5,4-5,0,0,0,1,0.4326576556417085,Medium Risk
+32,Male,Married,Research & Development,Laboratory Technician,1,No,0,2794,Low,5,3-5,5,4-5,0,0,0,0,0.4433954227436693,Medium Risk
+38,Male,Married,Sales,Sales Executive,2,No,0,5249,Mid-High,13,11-20,8,6-10,1,0,0,0,0.275645653770669,Low Risk
+32,Male,Single,Research & Development,Laboratory Technician,2,No,0,2176,Low,9,6-10,6,6-10,0,0,0,0,0.46383263649234124,Medium Risk
+46,Female,Married,Sales,Manager,4,Yes,1,16872,High,28,21+,7,6-10,1,0,0,0,0.2931620242521038,Low Risk
+28,Male,Single,Research & Development,Laboratory Technician,1,No,0,3485,Mid-Low,5,3-5,0,0-1,0,0,1,1,0.7259680065715873,High Risk
+29,Male,Married,Sales,Sales Executive,2,No,0,6644,Mid-High,10,6-10,0,0-1,2,0,1,0,0.4748564811385699,Medium Risk
+31,Male,Married,Research & Development,Healthcare Representative,2,No,0,5582,Mid-High,10,6-10,9,6-10,1,0,0,0,0.3221733185463084,Low Risk
+25,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,4000,Mid-Low,6,6-10,6,6-10,2,0,0,0,0.28679713378665816,Low Risk
+45,Male,Married,Research & Development,Healthcare Representative,4,Yes,1,13496,High,21,21+,20,11+,0,0,0,0,0.5307448437354628,Medium Risk
+36,Male,Married,Research & Development,Laboratory Technician,1,No,0,3210,Mid-Low,16,11-20,15,11+,1,0,0,0,0.27575930017394673,Low Risk
+55,Male,Single,Research & Development,Manager,5,Yes,1,19045,High,37,21+,36,11+,0,0,0,0,0.3831207160518762,Low Risk
+47,Male,Married,Research & Development,Manager,3,Yes,1,11849,High,10,6-10,10,6-10,1,0,0,1,0.43925547048694885,Medium Risk
+28,Male,Married,Research & Development,Research Scientist,1,No,0,2070,Low,5,3-5,5,4-5,1,0,0,0,0.36446114055926787,Low Risk
+37,Male,Married,Sales,Sales Executive,2,No,0,6502,Mid-High,7,6-10,5,4-5,1,0,0,0,0.29311149939155023,Low Risk
+21,Male,Single,Research & Development,Research Scientist,1,No,0,3230,Mid-Low,3,3-5,3,2-3,0,0,0,0,0.501656416600816,Medium Risk
+37,Female,Divorced,Research & Development,Research Director,3,Yes,1,13603,High,15,11-20,5,4-5,2,0,0,0,0.3138809336959951,Low Risk
+35,Female,Divorced,Research & Development,Manager,3,No,0,11996,High,10,6-10,7,6-10,1,0,0,0,0.2614419109459942,Low Risk
+38,Female,Divorced,Sales,Sales Executive,2,Yes,1,5605,Mid-High,8,6-10,8,6-10,1,0,0,0,0.5376658913076747,Medium Risk
+26,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,6397,Mid-High,6,6-10,6,6-10,1,0,0,0,0.3522959699653748,Low Risk
+50,Male,Divorced,Research & Development,Research Director,5,No,0,19144,High,28,21+,10,6-10,2,0,0,0,0.08789760092866646,Low Risk
+53,Male,Married,Research & Development,Research Director,4,Yes,1,17584,High,21,21+,5,4-5,3,0,0,0,0.14344172403599295,Low Risk
+42,Male,Married,Sales,Sales Executive,2,No,0,4907,Mid-Low,20,11-20,20,11+,0,0,0,0,0.34748700631912066,Low Risk
+29,Male,Single,Sales,Sales Executive,2,No,0,4554,Mid-Low,10,6-10,10,6-10,0,0,0,0,0.45324711326397704,Medium Risk
+55,Male,Married,Research & Development,Laboratory Technician,2,Yes,1,5415,Mid-High,12,11-20,10,6-10,1,0,0,0,0.4316550072988515,Medium Risk
+26,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,4741,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.6200345411041117,Medium Risk
+37,Female,Single,Research & Development,Research Scientist,1,No,0,2115,Low,17,11-20,17,11+,0,0,0,0,0.3815279974434721,Low Risk
+44,Male,Divorced,Research & Development,Laboratory Technician,1,Yes,1,3161,Mid-Low,19,11-20,1,0-1,1,0,1,1,0.6963492440435828,Medium Risk
+38,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,5745,Mid-High,10,6-10,2,2-3,1,0,0,0,0.27250805032886005,Low Risk
+26,Male,Divorced,Research & Development,Laboratory Technician,1,Yes,1,2373,Low,5,3-5,3,2-3,1,1,0,1,0.8145079020064331,High Risk
+28,Female,Single,Research & Development,Research Scientist,1,No,0,3310,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.45696261472250543,Medium Risk
+49,Female,Single,Research & Development,Research Director,5,Yes,1,18665,High,22,21+,3,2-3,0,0,0,0,0.42106675386405873,Medium Risk
+36,Male,Single,Research & Development,Research Scientist,2,No,0,4485,Mid-Low,10,6-10,8,6-10,0,0,0,0,0.4128957354397456,Medium Risk
+31,Female,Divorced,Sales,Sales Representative,1,No,0,2789,Low,2,0-2,2,2-3,1,0,1,0,0.6477876274297029,Medium Risk
+26,Male,Single,Sales,Sales Executive,2,Yes,1,5828,Mid-High,8,6-10,8,6-10,0,0,0,1,0.6971989982490552,Medium Risk
+37,Male,Married,Research & Development,Research Scientist,1,Yes,1,2326,Low,4,3-5,4,4-5,3,1,0,0,0.5985165690666736,Medium Risk
+42,Female,Married,Sales,Sales Executive,4,No,0,13525,High,23,21+,20,11+,1,0,0,0,0.2112437443235224,Low Risk
+18,Male,Single,Research & Development,Laboratory Technician,1,No,0,1420,Low,0,0-2,0,0-1,0,0,1,1,0.8066250695765405,High Risk
+35,Male,Married,Sales,Sales Executive,3,No,0,8020,Mid-High,12,11-20,11,11+,2,0,0,0,0.21674402173472815,Low Risk
+36,Male,Married,Research & Development,Laboratory Technician,1,No,0,3688,Mid-Low,4,3-5,1,0-1,2,0,1,0,0.4855806143929865,Medium Risk
+51,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,5482,Mid-High,13,11-20,4,4-5,1,0,0,0,0.21515893992847232,Low Risk
+41,Male,Single,Sales,Manager,4,No,0,16015,High,22,21+,22,11+,0,0,0,0,0.2835962428956407,Low Risk
+18,Female,Single,Sales,Sales Representative,1,No,0,1200,Low,0,0-2,0,0-1,0,0,1,0,0.8084263405279154,High Risk
+28,Male,Single,Research & Development,Healthcare Representative,2,No,0,5661,Mid-High,9,6-10,8,6-10,0,0,0,0,0.4447461333033864,Medium Risk
+31,Male,Married,Sales,Sales Executive,2,No,0,6929,Mid-High,10,6-10,8,6-10,1,0,0,0,0.3042687581896856,Low Risk
+39,Male,Divorced,Research & Development,Healthcare Representative,3,No,0,9613,High,19,11-20,18,11+,3,0,0,0,0.11819110244118664,Low Risk
+36,Female,Married,Research & Development,Laboratory Technician,2,No,0,5674,Mid-High,11,11-20,9,6-10,1,0,0,0,0.2933468011041816,Low Risk
+32,Male,Married,Sales,Sales Executive,2,No,0,5484,Mid-High,13,11-20,13,11+,1,0,0,0,0.3112927207463717,Low Risk
+38,Female,Married,Research & Development,Research Director,3,No,0,12061,High,19,11-20,10,6-10,1,0,0,0,0.21100542133500466,Low Risk
+58,Male,Divorced,Research & Development,Healthcare Representative,2,Yes,1,5660,Mid-High,12,11-20,5,4-5,1,0,0,0,0.3986794358888566,Low Risk
+31,Male,Married,Research & Development,Research Scientist,1,Yes,1,4821,Mid-Low,6,6-10,5,4-5,1,0,0,0,0.5511131075000634,Medium Risk
+31,Male,Married,Human Resources,Human Resources,2,No,0,6410,Mid-High,9,6-10,2,2-3,0,0,0,0,0.4021216068215309,Medium Risk
+45,Male,Divorced,Research & Development,Laboratory Technician,3,No,0,5210,Mid-High,24,21+,24,11+,1,0,0,0,0.2554852673254258,Low Risk
+31,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,2695,Low,3,3-5,2,2-3,1,1,0,0,0.8028012500966729,High Risk
+33,Female,Married,Research & Development,Manager,3,No,0,11878,High,12,11-20,10,6-10,2,0,0,0,0.188579299736272,Low Risk
+39,Male,Married,Research & Development,Manager,4,Yes,1,17068,High,21,21+,21,11+,0,0,0,0,0.5175575219084961,Medium Risk
+43,Female,Single,Research & Development,Laboratory Technician,1,No,0,2455,Low,9,6-10,8,6-10,0,0,0,0,0.3751219772078977,Low Risk
+49,Female,Single,Research & Development,Healthcare Representative,4,Yes,1,13964,High,25,21+,7,6-10,0,0,0,0,0.4364763671956024,Medium Risk
+52,Male,Married,Research & Development,Research Scientist,2,No,0,4941,Mid-High,11,11-20,8,6-10,0,0,0,1,0.32474278073740054,Low Risk
+27,Female,Single,Research & Development,Research Scientist,1,Yes,1,2478,Low,4,3-5,4,4-5,0,1,0,0,0.8746451170148221,High Risk
+32,Female,Married,Sales,Sales Executive,2,Yes,1,5228,Mid-High,13,11-20,13,11+,0,0,0,0,0.6601308109518648,Medium Risk
+27,Male,Single,Sales,Sales Executive,2,Yes,1,4478,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.7174498705928805,High Risk
+31,Male,Divorced,Sales,Sales Executive,2,No,0,7547,Mid-High,13,11-20,7,6-10,3,0,0,0,0.13544967936107324,Low Risk
+32,Female,Single,Research & Development,Research Scientist,2,No,0,5055,Mid-High,10,6-10,7,6-10,0,0,0,0,0.42254656536581237,Medium Risk
+28,Male,Married,Research & Development,Research Scientist,1,Yes,1,3464,Mid-Low,5,3-5,3,2-3,0,0,0,1,0.6879177000690437,Medium Risk
+30,Female,Married,Research & Development,Research Scientist,2,No,0,5775,Mid-High,11,11-20,10,6-10,2,0,0,0,0.23182902819889556,Low Risk
+31,Female,Married,Research & Development,Manufacturing Director,3,No,0,8943,High,10,6-10,10,6-10,1,0,0,0,0.3189101344965709,Low Risk
+39,Male,Married,Research & Development,Manager,5,No,0,19272,High,21,21+,21,11+,1,0,0,0,0.2074208714340799,Low Risk
+39,Female,Married,Sales,Sales Executive,2,Yes,1,5238,Mid-High,12,11-20,1,0-1,0,0,1,1,0.8345051193207497,High Risk
+33,Male,Single,Sales,Sales Executive,2,No,0,4682,Mid-Low,9,6-10,7,6-10,0,0,0,0,0.4291939213633244,Medium Risk
+47,Male,Married,Research & Development,Research Director,5,No,0,18300,High,21,21+,3,2-3,1,0,0,0,0.15781114895803253,Low Risk
+43,Female,Divorced,Research & Development,Laboratory Technician,2,No,0,5257,Mid-High,9,6-10,9,6-10,1,0,0,0,0.27996431127076327,Low Risk
+27,Male,Married,Sales,Sales Executive,2,Yes,1,6349,Mid-High,6,6-10,5,4-5,1,0,0,0,0.5881809912245969,Medium Risk
+54,Female,Single,Research & Development,Research Scientist,2,No,0,4869,Mid-Low,20,11-20,4,4-5,0,0,0,0,0.2552546185067915,Low Risk
+43,Female,Married,Research & Development,Healthcare Representative,3,No,0,9985,High,10,6-10,1,0-1,1,0,1,0,0.5118015007118792,Medium Risk
+45,Male,Married,Research & Development,Research Scientist,2,No,0,3697,Mid-Low,12,11-20,10,6-10,2,0,0,0,0.1940228776696896,Low Risk
+40,Male,Married,Sales,Sales Executive,2,Yes,1,7457,Mid-High,6,6-10,4,4-5,3,0,0,0,0.29353036764680834,Low Risk
+29,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,2119,Low,7,6-10,7,6-10,0,1,0,1,0.8668448964182673,High Risk
+29,Male,Single,Research & Development,Laboratory Technician,1,No,0,3983,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.44396738823898374,Medium Risk
+30,Female,Divorced,Sales,Sales Executive,2,No,0,6118,Mid-High,10,6-10,10,6-10,3,0,0,0,0.16289548478091123,Low Risk
+27,Female,Married,Sales,Sales Executive,2,No,0,6214,Mid-High,8,6-10,8,6-10,1,0,0,0,0.34269381853180414,Low Risk
+37,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,6347,Mid-High,8,6-10,6,6-10,2,0,0,0,0.20805364431276,Low Risk
+38,Male,Divorced,Research & Development,Research Director,3,Yes,1,11510,High,12,11-20,11,11+,1,0,0,0,0.47860967986369196,Medium Risk
+31,Female,Single,Research & Development,Manufacturing Director,3,Yes,1,7143,Mid-High,11,11-20,11,11+,0,0,0,0,0.6823872560170704,Medium Risk
+29,Female,Divorced,Sales,Sales Executive,2,Yes,1,8268,Mid-High,7,6-10,7,6-10,2,0,0,0,0.4408069157444075,Medium Risk
+35,Male,Single,Research & Development,Manufacturing Director,3,No,0,8095,Mid-High,17,11-20,16,11+,0,0,0,0,0.3846575651681971,Low Risk
+23,Male,Divorced,Research & Development,Research Scientist,1,No,0,2904,Low,4,3-5,4,4-5,2,0,0,0,0.2828149860007835,Low Risk
+41,Male,Single,Research & Development,Manufacturing Director,2,Yes,1,6032,Mid-High,8,6-10,5,4-5,0,0,0,0,0.6174825526088693,Medium Risk
+47,Male,Single,Sales,Sales Representative,2,No,0,2976,Mid-Low,5,3-5,0,0-1,0,0,1,0,0.6816483155301445,Medium Risk
+42,Female,Single,Research & Development,Research Director,4,No,0,15992,High,16,11-20,1,0-1,0,0,1,0,0.5452808951403001,Medium Risk
+29,Male,Married,Sales,Sales Executive,2,No,0,4649,Mid-Low,4,3-5,4,4-5,1,0,0,0,0.366586509115923,Low Risk
+42,Male,Divorced,Human Resources,Human Resources,1,Yes,1,2696,Low,4,3-5,3,2-3,1,1,0,0,0.7618050780548786,High Risk
+32,Female,Married,Research & Development,Laboratory Technician,1,No,0,2370,Low,8,6-10,8,6-10,1,0,0,0,0.331570301232524,Low Risk
+48,Female,Married,Sales,Manager,3,No,0,12504,High,15,11-20,0,0-1,1,0,1,0,0.4156970779698794,Medium Risk
+37,Male,Divorced,Research & Development,Research Scientist,2,Yes,1,5974,Mid-High,13,11-20,7,6-10,2,0,0,0,0.38953433447891145,Low Risk
+30,Female,Married,Sales,Sales Executive,2,Yes,1,4736,Mid-Low,4,3-5,2,2-3,1,0,0,0,0.5984761623857308,Medium Risk
+26,Male,Married,Sales,Sales Executive,2,No,0,5296,Mid-High,8,6-10,8,6-10,1,0,0,0,0.3583680137468147,Low Risk
+42,Male,Single,Research & Development,Healthcare Representative,2,No,0,6781,Mid-High,14,11-20,1,0-1,0,0,1,0,0.6042880712070666,Medium Risk
+21,Female,Single,Sales,Sales Representative,1,Yes,1,2174,Low,3,3-5,3,2-3,0,1,0,1,0.8906528054942201,High Risk
+36,Female,Single,Sales,Sales Executive,2,No,0,6653,Mid-High,7,6-10,1,0-1,0,0,1,0,0.6790418296991915,Medium Risk
+36,Male,Married,Sales,Sales Executive,3,No,0,9699,High,16,11-20,13,11+,1,0,0,0,0.2626078070736933,Low Risk
+57,Male,Married,Research & Development,Healthcare Representative,2,No,0,6755,Mid-High,15,11-20,3,2-3,0,0,0,0,0.24904119205833683,Low Risk
+40,Female,Married,Research & Development,Laboratory Technician,1,Yes,1,2213,Low,10,6-10,7,6-10,1,1,0,0,0.7521265263550183,High Risk
+21,Male,Single,Sales,Sales Representative,1,No,0,2610,Low,3,3-5,3,2-3,0,0,0,0,0.5098202606964275,Medium Risk
+33,Female,Single,Sales,Sales Representative,1,Yes,1,2851,Low,1,0-2,1,0-1,0,1,1,1,0.9554163128684157,High Risk
+37,Female,Married,Research & Development,Laboratory Technician,1,No,0,3452,Mid-Low,17,11-20,5,4-5,1,0,0,0,0.24052405986656528,Low Risk
+46,Female,Married,Research & Development,Manufacturing Director,2,No,0,5258,Mid-High,7,6-10,1,0-1,0,0,1,0,0.64973210159937,Medium Risk
+41,Male,Single,Sales,Sales Executive,2,No,0,9355,High,8,6-10,8,6-10,0,0,0,1,0.3418701559310399,Low Risk
+50,Male,Single,Research & Development,Healthcare Representative,3,No,0,10496,High,20,11-20,4,4-5,0,0,0,0,0.2431610288361608,Low Risk
+40,Male,Married,Sales,Sales Executive,2,Yes,1,6380,Mid-High,8,6-10,6,6-10,2,0,0,1,0.400289706401475,Medium Risk
+31,Male,Single,Research & Development,Research Scientist,1,Yes,1,2657,Low,3,3-5,2,2-3,0,1,0,0,0.8646773333093314,High Risk
+21,Female,Single,Sales,Sales Representative,1,No,0,2716,Low,1,0-2,1,0-1,0,0,1,1,0.782911238147663,High Risk
+29,Male,Single,Research & Development,Research Scientist,1,No,0,2201,Low,6,6-10,3,2-3,0,0,0,0,0.45331641715927906,Medium Risk
+35,Male,Single,Research & Development,Healthcare Representative,2,No,0,6540,Mid-High,10,6-10,1,0-1,0,0,1,0,0.6663471537105159,Medium Risk
+27,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,3816,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.34807090112969896,Low Risk
+28,Male,Single,Sales,Sales Executive,2,No,0,5253,Mid-High,7,6-10,7,6-10,0,0,0,0,0.46091848689034104,Medium Risk
+49,Male,Single,Research & Development,Healthcare Representative,3,No,0,10965,High,26,21+,5,4-5,0,0,0,0,0.2149116629257669,Low Risk
+51,Female,Married,Sales,Sales Executive,2,No,0,4936,Mid-High,18,11-20,7,6-10,1,0,0,0,0.20283731482244716,Low Risk
+36,Female,Married,Research & Development,Research Scientist,1,No,0,2543,Low,6,6-10,2,2-3,1,0,0,0,0.307915396361943,Low Risk
+34,Male,Single,Sales,Sales Executive,2,Yes,1,5304,Mid-High,9,6-10,5,4-5,0,0,0,1,0.6530980816123643,Medium Risk
+55,Female,Single,Research & Development,Manager,4,Yes,1,16659,High,30,21+,5,4-5,0,0,0,0,0.3350980942329322,Low Risk
+24,Female,Divorced,Sales,Sales Executive,2,Yes,1,4260,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.6355339690916078,Medium Risk
+30,Male,Married,Sales,Sales Representative,1,No,0,2476,Low,1,0-2,1,0-1,1,0,1,0,0.6597233988942329,Medium Risk
+26,Male,Single,Research & Development,Research Scientist,1,No,0,3102,Mid-Low,7,6-10,6,6-10,0,0,0,1,0.45899134870870145,Medium Risk
+22,Female,Married,Research & Development,Research Scientist,1,No,0,2244,Low,2,0-2,2,2-3,1,0,1,0,0.694774084776866,Medium Risk
+36,Male,Married,Sales,Sales Executive,3,No,0,7596,Mid-High,10,6-10,10,6-10,2,0,0,0,0.2245886658294747,Low Risk
+30,Male,Single,Research & Development,Research Scientist,1,Yes,1,2285,Low,3,3-5,1,0-1,0,1,1,1,0.9568934645031815,High Risk
+37,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,3034,Mid-Low,18,11-20,18,11+,1,0,0,0,0.26972430612031006,Low Risk
+40,Female,Divorced,Sales,Sales Executive,2,No,0,5715,Mid-High,8,6-10,5,4-5,2,0,0,0,0.2014596010926251,Low Risk
+42,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,2576,Low,8,6-10,5,4-5,1,0,0,0,0.278117794564099,Low Risk
+37,Male,Single,Research & Development,Manufacturing Director,2,Yes,1,4197,Mid-Low,18,11-20,1,0-1,0,0,1,0,0.8242638299243007,High Risk
+43,Male,Divorced,Research & Development,Research Director,4,No,0,14336,High,25,21+,25,11+,1,0,0,0,0.2017683059334354,Low Risk
+40,Female,Married,Research & Development,Laboratory Technician,2,No,0,3448,Mid-Low,20,11-20,1,0-1,1,0,1,0,0.5057280875727291,Medium Risk
+54,Male,Married,Research & Development,Research Director,5,No,0,19406,High,24,21+,4,4-5,1,0,0,0,0.12475128381505525,Low Risk
+34,Female,Married,Sales,Sales Executive,2,No,0,6538,Mid-High,6,6-10,3,2-3,1,0,0,0,0.30634457791737557,Low Risk
+31,Female,Married,Research & Development,Manufacturing Director,2,No,0,4306,Mid-Low,13,11-20,13,11+,1,0,0,0,0.32926123619697356,Low Risk
+43,Male,Married,Research & Development,Laboratory Technician,1,No,0,2258,Low,8,6-10,3,2-3,1,0,0,0,0.2724652548748406,Low Risk
+43,Female,Divorced,Research & Development,Healthcare Representative,2,Yes,1,4522,Mid-Low,8,6-10,5,4-5,0,0,0,0,0.6265445674880493,Medium Risk
+25,Female,Single,Sales,Sales Executive,2,Yes,1,4487,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.7255920731300248,High Risk
+37,Female,Married,Research & Development,Research Scientist,2,Yes,1,4449,Mid-Low,15,11-20,13,11+,2,0,0,0,0.41307789992427085,Medium Risk
+31,Male,Married,Research & Development,Laboratory Technician,1,No,0,2218,Low,4,3-5,4,4-5,1,0,0,0,0.3521497558008269,Low Risk
+39,Male,Divorced,Research & Development,Manager,5,Yes,1,19197,High,21,21+,21,11+,1,0,0,0,0.4155872706837796,Medium Risk
+56,Female,Married,Sales,Sales Executive,4,No,0,13212,High,36,21+,7,6-10,3,0,0,0,0.04698298612752452,Low Risk
+30,Female,Single,Sales,Sales Executive,2,No,0,6577,Mid-High,6,6-10,5,4-5,0,0,0,0,0.4343959435689056,Medium Risk
+41,Male,Married,Sales,Sales Executive,3,No,0,8392,High,10,6-10,10,6-10,1,0,0,0,0.2819609672718917,Low Risk
+28,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,4558,Mid-Low,10,6-10,10,6-10,1,0,0,0,0.350676229039879,Low Risk
+25,Male,Married,Research & Development,Laboratory Technician,1,No,0,4031,Mid-Low,6,6-10,2,2-3,1,0,0,1,0.3401170775166259,Low Risk
+52,Male,Married,Research & Development,Manufacturing Director,3,Yes,1,7969,Mid-High,28,21+,5,4-5,0,0,0,0,0.4354512185740389,Medium Risk
+45,Male,Married,Research & Development,Research Scientist,1,No,0,2654,Low,8,6-10,2,2-3,2,0,0,0,0.18166601591161108,Low Risk
+52,Female,Married,Research & Development,Manager,4,No,0,16555,High,31,21+,5,4-5,0,0,0,0,0.16219938748570636,Low Risk
+42,Female,Divorced,Research & Development,Research Scientist,2,No,0,4556,Mid-Low,19,11-20,5,4-5,1,0,0,0,0.22850641682627915,Low Risk
+30,Female,Single,Research & Development,Manufacturing Director,2,No,0,6091,Mid-High,11,11-20,5,4-5,0,0,0,0,0.40648220797860124,Medium Risk
+60,Female,Married,Research & Development,Manager,5,No,0,19566,High,33,21+,29,11+,0,0,0,0,0.1713854817792028,Low Risk
+46,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,4810,Mid-Low,19,11-20,10,6-10,1,0,0,0,0.22258261322463677,Low Risk
+42,Female,Married,Research & Development,Healthcare Representative,2,No,0,4523,Mid-Low,7,6-10,6,6-10,3,0,0,0,0.14630627680449587,Low Risk
+24,Female,Single,Sales,Sales Representative,1,Yes,1,3202,Mid-Low,6,6-10,5,4-5,0,0,0,1,0.7073916891727898,High Risk
+34,Female,Divorced,Sales,Sales Representative,1,No,0,2351,Low,3,3-5,2,2-3,1,0,0,1,0.33745521969342845,Low Risk
+38,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,1702,Low,1,0-2,1,0-1,1,1,1,0,0.9291701085885491,High Risk
+40,Female,Married,Sales,Manager,5,No,0,18041,High,21,21+,20,11+,0,0,0,0,0.2974040090158824,Low Risk
+26,Female,Divorced,Research & Development,Research Scientist,1,No,0,2886,Low,3,3-5,3,2-3,2,0,0,0,0.27381619480205216,Low Risk
+30,Male,Married,Research & Development,Laboratory Technician,1,No,0,2097,Low,9,6-10,5,4-5,1,0,0,0,0.3294602262105995,Low Risk
+29,Male,Married,Research & Development,Research Director,3,No,0,11935,High,10,6-10,10,6-10,0,0,0,0,0.3949382795614524,Low Risk
+29,Female,Married,Research & Development,Research Scientist,1,No,0,2546,Low,6,6-10,2,2-3,0,0,0,1,0.4457774552490645,Medium Risk
+19,Male,Single,Human Resources,Human Resources,1,No,0,2564,Low,1,0-2,1,0-1,0,0,1,1,0.7911248822280793,High Risk
+30,Female,Married,Sales,Sales Executive,3,No,0,8412,High,10,6-10,9,6-10,0,0,0,0,0.43197236535229505,Medium Risk
+57,Male,Divorced,Sales,Manager,4,No,0,14118,High,32,21+,1,0-1,1,0,1,0,0.28402928356466733,Low Risk
+50,Male,Married,Research & Development,Manager,4,No,0,17046,High,28,21+,27,11+,1,0,0,0,0.15173434374671335,Low Risk
+30,Female,Single,Research & Development,Laboratory Technician,1,No,0,2564,Low,12,11-20,11,11+,0,0,0,0,0.4263427265123956,Medium Risk
+60,Female,Married,Sales,Sales Executive,3,No,0,10266,High,22,21+,18,11+,0,0,0,0,0.22929703764205442,Low Risk
+47,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,5070,Mid-High,20,11-20,5,4-5,3,0,0,0,0.09347100108018552,Low Risk
+46,Male,Married,Research & Development,Research Director,4,No,0,17861,High,26,21+,3,2-3,0,0,0,0,0.18661627628025157,Low Risk
+35,Male,Single,Research & Development,Laboratory Technician,1,No,0,4230,Mid-Low,6,6-10,5,4-5,0,0,0,0,0.4030973950785318,Medium Risk
+54,Female,Single,Research & Development,Laboratory Technician,2,No,0,3780,Mid-Low,19,11-20,1,0-1,0,0,1,0,0.548661857697252,Medium Risk
+34,Male,Divorced,Research & Development,Research Scientist,1,No,0,2768,Low,14,11-20,7,6-10,1,0,0,0,0.28017816358824776,Low Risk
+46,Female,Married,Sales,Sales Executive,3,Yes,1,9071,High,15,11-20,3,2-3,1,0,0,0,0.424681392791853,Medium Risk
+31,Male,Divorced,Research & Development,Manufacturing Director,3,No,0,10648,High,13,11-20,13,11+,1,0,0,0,0.2899066907572545,Low Risk
+33,Male,Married,Research & Development,Manager,3,Yes,1,13610,High,15,11-20,7,6-10,0,0,0,1,0.555217047265691,Medium Risk
+33,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,3408,Mid-Low,8,6-10,4,4-5,3,0,0,1,0.15148042257008978,Low Risk
+30,Male,Single,Sales,Sales Representative,1,No,0,2983,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.4519246375983936,Medium Risk
+35,Male,Married,Research & Development,Healthcare Representative,3,Yes,1,7632,Mid-High,10,6-10,8,6-10,0,0,0,0,0.6565971584820917,Medium Risk
+31,Male,Married,Research & Development,Healthcare Representative,3,No,0,9824,High,12,11-20,1,0-1,0,0,1,1,0.6669477609944099,Medium Risk
+34,Female,Divorced,Human Resources,Human Resources,3,Yes,1,9950,High,11,11-20,3,2-3,3,0,0,1,0.29124685901157243,Low Risk
+42,Male,Married,Research & Development,Laboratory Technician,1,No,0,2093,Low,8,6-10,2,2-3,1,0,0,0,0.27582790969046844,Low Risk
+36,Male,Single,Sales,Sales Executive,3,No,0,9980,High,10,6-10,10,6-10,0,0,0,0,0.3852998942353609,Low Risk
+22,Male,Single,Research & Development,Laboratory Technician,1,No,0,3894,Mid-Low,4,3-5,2,2-3,0,0,0,1,0.4777190111448624,Medium Risk
+48,Female,Married,Sales,Sales Executive,2,No,0,4051,Mid-Low,14,11-20,9,6-10,1,0,0,0,0.2453075462698309,Low Risk
+55,Female,Single,Sales,Manager,4,No,0,16835,High,37,21+,10,6-10,0,0,0,0,0.13883886004264756,Low Risk
+41,Male,Single,Sales,Sales Executive,2,No,0,6230,Mid-High,16,11-20,14,11+,0,0,0,0,0.3450428829765251,Low Risk
+35,Male,Married,Sales,Sales Executive,2,No,0,4717,Mid-Low,15,11-20,11,11+,0,0,0,0,0.39006438821412226,Low Risk
+40,Female,Single,Research & Development,Manufacturing Director,4,No,0,13237,High,22,21+,20,11+,0,0,0,0,0.3133640683078092,Low Risk
+39,Female,Married,Research & Development,Laboratory Technician,1,No,0,3755,Mid-Low,8,6-10,8,6-10,1,0,0,0,0.2854578314454564,Low Risk
+31,Male,Single,Sales,Sales Executive,2,Yes,1,6582,Mid-High,10,6-10,6,6-10,0,0,0,0,0.6481953443021252,Medium Risk
+42,Male,Married,Research & Development,Manufacturing Director,3,Yes,1,7406,Mid-High,10,6-10,10,6-10,1,0,0,0,0.5230742067777848,Medium Risk
+45,Male,Married,Sales,Sales Executive,2,No,0,4805,Mid-Low,9,6-10,8,6-10,1,0,0,0,0.27406004483093965,Low Risk
+26,Female,Divorced,Human Resources,Human Resources,1,Yes,1,2741,Low,8,6-10,7,6-10,1,1,0,1,0.8061590054541871,High Risk
+29,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,4262,Mid-Low,8,6-10,3,2-3,2,0,0,0,0.24978761845300593,Low Risk
+33,Female,Divorced,Research & Development,Research Director,4,No,0,16184,High,10,6-10,6,6-10,1,0,0,0,0.25338840353518666,Low Risk
+31,Male,Divorced,Sales,Manager,3,No,0,11557,High,10,6-10,5,4-5,1,0,0,0,0.27728902335893696,Low Risk
+18,Male,Single,Sales,Sales Representative,1,Yes,1,1878,Low,0,0-2,0,0-1,0,1,1,1,0.9689096629494435,High Risk
+40,Male,Divorced,Sales,Sales Executive,3,No,0,10932,High,20,11-20,1,0-1,1,0,1,0,0.4448369604452243,Medium Risk
+41,Female,Single,Research & Development,Healthcare Representative,2,Yes,1,6811,Mid-High,10,6-10,8,6-10,0,0,0,0,0.6031583000444609,Medium Risk
+26,Male,Divorced,Sales,Sales Executive,2,No,0,4306,Mid-Low,8,6-10,0,0-1,2,0,1,0,0.5349622095126796,Medium Risk
+35,Female,Single,Sales,Sales Executive,2,No,0,4859,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.43834123999082414,Medium Risk
+34,Male,Single,Sales,Sales Executive,2,No,0,5337,Mid-High,10,6-10,10,6-10,0,0,0,0,0.41792327982279337,Medium Risk
+26,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,2340,Low,1,0-2,1,0-1,0,1,1,1,0.9621374503819322,High Risk
+37,Female,Single,Research & Development,Manufacturing Director,3,No,0,7491,Mid-High,12,11-20,6,6-10,0,0,0,0,0.3865722716328016,Low Risk
+46,Female,Married,Research & Development,Healthcare Representative,3,No,0,10527,High,28,21+,2,2-3,0,0,0,0,0.2135006793593483,Low Risk
+41,Female,Married,Sales,Manager,4,No,0,16595,High,22,21+,18,11+,1,0,0,0,0.1892004106125014,Low Risk
+37,Male,Divorced,Sales,Sales Executive,3,No,0,8834,High,9,6-10,9,6-10,1,0,0,0,0.2972776786448937,Low Risk
+52,Male,Divorced,Research & Development,Research Scientist,2,Yes,1,5577,Mid-High,18,11-20,10,6-10,2,0,0,0,0.3017110156957938,Low Risk
+32,Male,Married,Sales,Sales Executive,2,No,0,4707,Mid-Low,6,6-10,4,4-5,0,0,0,1,0.4455365042040009,Medium Risk
+24,Male,Married,Sales,Sales Representative,1,No,0,2400,Low,3,3-5,2,2-3,2,0,0,0,0.2847464247750008,Low Risk
+38,Female,Married,Research & Development,Healthcare Representative,2,No,0,9824,High,18,11-20,1,0-1,1,0,1,0,0.4462370131614901,Medium Risk
+37,Female,Married,Research & Development,Manufacturing Director,2,No,0,6447,Mid-High,8,6-10,6,6-10,1,0,0,0,0.29045649880972346,Low Risk
+49,Male,Divorced,Research & Development,Research Director,5,Yes,1,19502,High,31,21+,31,11+,1,0,0,0,0.3275181151467968,Low Risk
+24,Male,Married,Research & Development,Research Scientist,1,Yes,1,2725,Low,6,6-10,6,6-10,2,1,0,0,0.7430860938067232,High Risk
+26,Male,Married,Sales,Sales Executive,2,No,0,6272,Mid-High,6,6-10,5,4-5,2,0,0,0,0.25664733169418263,Low Risk
+24,Male,Married,Research & Development,Laboratory Technician,1,No,0,2127,Low,1,0-2,1,0-1,1,0,1,0,0.690710720577838,Medium Risk
+50,Male,Married,Human Resources,Manager,5,No,0,18200,High,32,21+,32,11+,1,0,0,0,0.15672945823230652,Low Risk
+25,Male,Married,Sales,Sales Representative,1,No,0,2096,Low,7,6-10,7,6-10,0,0,0,0,0.4803557563779105,Medium Risk
+24,Female,Married,Research & Development,Laboratory Technician,1,Yes,1,2886,Low,6,6-10,6,6-10,1,1,0,1,0.8179302535510034,High Risk
+30,Male,Married,Sales,Sales Representative,1,No,0,2033,Low,1,0-2,1,0-1,1,0,1,1,0.6649424573960547,Medium Risk
+34,Male,Married,Research & Development,Research Scientist,1,Yes,1,3622,Mid-Low,6,6-10,6,6-10,1,0,0,0,0.554562866889664,Medium Risk
+31,Male,Divorced,Sales,Sales Executive,2,No,0,4233,Mid-Low,9,6-10,3,2-3,0,0,0,1,0.4329905807309449,Medium Risk
+35,Male,Single,Research & Development,Laboratory Technician,2,No,0,3681,Mid-Low,9,6-10,3,2-3,0,0,0,0,0.42004710024929165,Medium Risk
+31,Male,Divorced,Sales,Sales Executive,2,No,0,5460,Mid-High,13,11-20,7,6-10,2,0,0,0,0.2150292060372501,Low Risk
+27,Female,Divorced,Research & Development,Research Scientist,1,No,0,2187,Low,6,6-10,5,4-5,2,0,0,0,0.26530941212971776,Low Risk
+37,Male,Married,Sales,Sales Executive,2,Yes,1,9602,High,17,11-20,3,2-3,1,0,0,0,0.41267643697855183,Medium Risk
+20,Female,Single,Research & Development,Research Scientist,1,No,0,2836,Low,1,0-2,1,0-1,0,0,1,0,0.7853113203688216,High Risk
+42,Female,Married,Research & Development,Healthcare Representative,2,No,0,4089,Mid-Low,10,6-10,10,6-10,2,0,0,0,0.20963051708728953,Low Risk
+43,Male,Divorced,Research & Development,Research Director,4,Yes,1,16627,High,21,21+,1,0-1,1,0,1,0,0.6304993226454022,Medium Risk
+38,Female,Single,Research & Development,Research Scientist,1,No,0,2619,Low,8,6-10,0,0-1,0,0,1,0,0.6749741914093759,Medium Risk
+43,Male,Divorced,Research & Development,Laboratory Technician,2,Yes,1,5679,Mid-High,10,6-10,8,6-10,1,0,0,0,0.49711930091295,Medium Risk
+48,Female,Married,Research & Development,Manager,4,No,0,15402,High,21,21+,3,2-3,1,0,0,0,0.155484229820723,Low Risk
+44,Female,Single,Human Resources,Human Resources,2,No,0,5985,Mid-High,10,6-10,2,2-3,0,0,0,0,0.3387706135044911,Low Risk
+34,Female,Divorced,Sales,Sales Representative,1,Yes,1,2579,Low,8,6-10,8,6-10,2,1,0,0,0.6970469757191115,Medium Risk
+27,Male,Divorced,Sales,Sales Representative,1,No,0,3041,Mid-Low,5,3-5,4,4-5,1,0,0,1,0.354573235461334,Low Risk
+21,Male,Single,Sales,Sales Representative,1,No,0,3447,Mid-Low,3,3-5,3,2-3,0,0,0,0,0.49879863960472504,Medium Risk
+44,Male,Married,Research & Development,Manager,5,Yes,1,19513,High,26,21+,2,2-3,1,0,0,0,0.30283972449668817,Low Risk
+22,Male,Married,Research & Development,Research Scientist,1,No,0,2773,Low,3,3-5,2,2-3,0,0,0,0,0.4994768108764345,Medium Risk
+33,Male,Divorced,Sales,Sales Executive,2,No,0,7104,Mid-High,6,6-10,5,4-5,0,0,0,0,0.41260713031900315,Medium Risk
+32,Female,Married,Research & Development,Research Scientist,2,Yes,1,6322,Mid-High,6,6-10,6,6-10,1,0,0,0,0.5665202620455628,Medium Risk
+30,Female,Divorced,Research & Development,Research Scientist,1,No,0,2083,Low,1,0-2,1,0-1,1,0,1,0,0.6643553848129151,Medium Risk
+53,Female,Single,Sales,Sales Executive,2,No,0,8381,High,18,11-20,14,11+,0,0,0,0,0.25802040561106854,Low Risk
+34,Male,Married,Research & Development,Research Scientist,1,No,0,2691,Low,10,6-10,10,6-10,1,0,0,0,0.3120632380103277,Low Risk
+45,Female,Married,Sales,Sales Executive,2,No,0,4286,Mid-Low,5,3-5,1,0-1,2,0,1,1,0.46208436949946435,Medium Risk
+26,Female,Married,Research & Development,Laboratory Technician,1,Yes,1,2659,Low,3,3-5,3,2-3,1,1,0,0,0.8206241974236784,High Risk
+37,Male,Married,Research & Development,Manufacturing Director,3,No,0,9434,High,10,6-10,10,6-10,1,0,0,0,0.28748148583499744,Low Risk
+29,Female,Married,Sales,Sales Executive,2,No,0,5561,Mid-High,6,6-10,6,6-10,1,0,0,0,0.3483222502597904,Low Risk
+35,Male,Single,Research & Development,Research Scientist,2,No,0,6646,Mid-High,17,11-20,17,11+,0,0,0,0,0.3702889307678063,Low Risk
+33,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,7725,Mid-High,15,11-20,13,11+,1,0,0,0,0.27116693563509064,Low Risk
+54,Male,Married,Human Resources,Human Resources,3,No,0,10725,High,16,11-20,9,6-10,1,0,0,0,0.18173010098654277,Low Risk
+36,Male,Divorced,Research & Development,Manufacturing Director,2,Yes,1,8847,High,13,11-20,3,2-3,1,0,0,0,0.455000112119204,Medium Risk
+27,Male,Single,Research & Development,Research Scientist,1,No,0,2045,Low,5,3-5,4,4-5,0,0,0,0,0.4755864409899511,Medium Risk
+20,Male,Single,Research & Development,Research Scientist,1,Yes,1,1009,Low,1,0-2,1,0-1,0,1,1,1,0.9685775803455284,High Risk
+33,Male,Single,Research & Development,Research Scientist,1,Yes,1,3348,Mid-Low,10,6-10,10,6-10,0,0,0,1,0.654724819836717,Medium Risk
+35,Male,Married,Research & Development,Laboratory Technician,1,No,0,1281,Low,1,0-2,1,0-1,2,0,1,0,0.5433202656056885,Medium Risk
+23,Male,Married,Research & Development,Research Scientist,1,No,0,2819,Low,5,3-5,3,2-3,1,0,0,0,0.37341439281540034,Low Risk
+25,Male,Married,Sales,Sales Executive,2,No,0,4851,Mid-Low,4,3-5,3,2-3,1,0,0,0,0.38040626486551965,Low Risk
+38,Female,Single,Sales,Sales Executive,2,No,0,4028,Mid-Low,8,6-10,7,6-10,0,0,0,0,0.4194213922217545,Medium Risk
+29,Male,Divorced,Research & Development,Research Scientist,1,No,0,2720,Low,10,6-10,10,6-10,1,0,0,0,0.3341396974306912,Low Risk
+48,Male,Married,Sales,Sales Executive,2,No,0,8120,Mid-High,12,11-20,2,2-3,0,0,0,0,0.28509647840099184,Low Risk
+27,Female,Divorced,Sales,Sales Executive,2,Yes,1,4647,Mid-Low,6,6-10,6,6-10,2,0,0,0,0.5024009903460342,Medium Risk
+37,Male,Single,Research & Development,Research Scientist,1,No,0,4680,Mid-Low,4,3-5,1,0-1,0,0,1,0,0.6829030332830937,Medium Risk
+50,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,3221,Mid-Low,20,11-20,20,11+,3,0,0,0,0.23044920085463738,Low Risk
+34,Female,Single,Research & Development,Healthcare Representative,3,No,0,8621,High,9,6-10,8,6-10,0,0,0,0,0.41312269387037187,Medium Risk
+24,Female,Single,Sales,Sales Executive,2,No,0,4577,Mid-Low,4,3-5,2,2-3,0,0,0,1,0.49590358928694955,Medium Risk
+39,Female,Single,Research & Development,Healthcare Representative,2,No,0,4553,Mid-Low,20,11-20,20,11+,0,0,0,0,0.3658743982503084,Low Risk
+32,Male,Single,Sales,Sales Executive,2,No,0,5396,Mid-High,10,6-10,10,6-10,0,0,0,0,0.42716846694623195,Medium Risk
+50,Male,Married,Sales,Sales Executive,2,Yes,1,6796,Mid-High,18,11-20,4,4-5,1,0,0,1,0.38052096490632575,Low Risk
+38,Female,Single,Research & Development,Healthcare Representative,2,No,0,7625,Mid-High,10,6-10,9,6-10,0,0,0,0,0.3667643838687151,Low Risk
+27,Female,Married,Research & Development,Manufacturing Director,3,No,0,7412,Mid-High,9,6-10,9,6-10,0,0,0,0,0.4671490327224148,Medium Risk
+32,Female,Single,Research & Development,Research Director,3,No,0,11159,High,10,6-10,7,6-10,0,0,0,0,0.38128449323857755,Low Risk
+47,Male,Single,Sales,Sales Executive,2,No,0,4960,Mid-High,20,11-20,7,6-10,0,0,0,0,0.29003806843830804,Low Risk
+40,Male,Married,Sales,Sales Executive,3,Yes,1,10475,High,20,11-20,18,11+,1,0,0,0,0.4476062932017079,Medium Risk
+53,Male,Married,Research & Development,Research Director,4,No,0,14814,High,32,21+,5,4-5,0,0,0,0,0.1681523362781522,Low Risk
+41,Male,Divorced,Human Resources,Manager,5,No,0,19141,High,23,21+,21,11+,3,0,0,0,0.08880514884569211,Low Risk
+60,Male,Single,Sales,Sales Executive,2,No,0,5405,Mid-High,10,6-10,2,2-3,0,0,0,0,0.2756349968799064,Low Risk
+27,Male,Divorced,Research & Development,Manufacturing Director,3,No,0,8793,High,9,6-10,9,6-10,2,0,0,0,0.24937715288342444,Low Risk
+41,Male,Married,Human Resources,Manager,5,No,0,19189,High,22,21+,22,11+,1,0,0,0,0.19894283983707065,Low Risk
+50,Male,Married,Sales,Sales Representative,1,No,0,3875,Mid-Low,4,3-5,2,2-3,1,0,0,0,0.24769038437950644,Low Risk
+28,Female,Single,Research & Development,Research Scientist,1,Yes,1,2216,Low,10,6-10,7,6-10,0,1,0,1,0.8587104938626754,High Risk
+36,Female,Married,Research & Development,Research Director,3,No,0,11713,High,10,6-10,8,6-10,1,0,0,0,0.2627378783322556,Low Risk
+38,Female,Single,Research & Development,Manufacturing Director,3,Yes,1,7861,Mid-High,10,6-10,1,0-1,0,0,1,0,0.8463265333194067,High Risk
+44,Male,Single,Research & Development,Laboratory Technician,1,No,0,3708,Mid-Low,9,6-10,5,4-5,0,0,0,0,0.3466746243536263,Low Risk
+47,Female,Divorced,Sales,Sales Executive,4,Yes,1,13770,High,28,21+,22,11+,2,0,0,0,0.26863189582643193,Low Risk
+30,Male,Divorced,Sales,Sales Executive,2,No,0,5304,Mid-High,10,6-10,8,6-10,1,0,0,0,0.32718369094637817,Low Risk
+29,Male,Single,Sales,Sales Representative,1,No,0,2642,Low,1,0-2,1,0-1,0,0,1,0,0.7544733385100166,High Risk
+42,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,2759,Low,7,6-10,2,2-3,0,1,0,1,0.8193090172768741,High Risk
+43,Male,Married,Sales,Sales Executive,2,No,0,6804,Mid-High,7,6-10,2,2-3,1,0,0,0,0.2580546085306193,Low Risk
+34,Female,Single,Research & Development,Healthcare Representative,2,No,0,6142,Mid-High,10,6-10,5,4-5,0,0,0,0,0.3928915387306358,Low Risk
+23,Male,Married,Research & Development,Laboratory Technician,1,No,0,2500,Low,5,3-5,4,4-5,1,0,0,0,0.38024708691881687,Low Risk
+39,Female,Married,Human Resources,Human Resources,2,No,0,6389,Mid-High,12,11-20,8,6-10,1,0,0,0,0.2652847990037218,Low Risk
+56,Male,Married,Research & Development,Healthcare Representative,4,No,0,11103,High,30,21+,10,6-10,0,0,0,0,0.20632040068825766,Low Risk
+40,Female,Single,Research & Development,Research Scientist,1,Yes,1,2342,Low,5,3-5,4,4-5,0,1,0,0,0.8396061722659274,High Risk
+27,Female,Single,Research & Development,Healthcare Representative,2,No,0,6811,Mid-High,9,6-10,7,6-10,0,0,0,0,0.431853056880099,Medium Risk
+29,Male,Divorced,Sales,Sales Representative,1,No,0,2297,Low,2,0-2,2,2-3,2,0,1,0,0.5566180941581125,Medium Risk
+53,Male,Single,Research & Development,Laboratory Technician,2,No,0,2450,Low,19,11-20,2,2-3,0,0,0,0,0.285080104011549,Low Risk
+35,Female,Divorced,Research & Development,Healthcare Representative,2,No,0,5093,Mid-High,16,11-20,1,0-1,1,0,1,0,0.5376556894509525,Medium Risk
+32,Male,Married,Research & Development,Laboratory Technician,2,No,0,5309,Mid-High,10,6-10,10,6-10,2,0,0,0,0.23389888662799366,Low Risk
+38,Male,Married,Research & Development,Research Scientist,1,Yes,1,3057,Mid-Low,6,6-10,1,0-1,1,0,1,0,0.7896712765341154,High Risk
+34,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,5121,Mid-High,7,6-10,0,0-1,1,0,1,0,0.6010839655218627,Medium Risk
+52,Male,Married,Sales,Manager,4,No,0,16856,High,34,21+,34,11+,0,0,0,0,0.20013749752664464,Low Risk
+33,Male,Single,Research & Development,Research Scientist,1,Yes,1,2686,Low,10,6-10,10,6-10,0,1,0,1,0.8473857217689095,High Risk
+25,Female,Single,Sales,Sales Executive,2,No,0,6180,Mid-High,6,6-10,6,6-10,0,0,0,0,0.46798537426622394,Medium Risk
+45,Male,Single,Sales,Sales Representative,2,No,0,6632,Mid-High,9,6-10,8,6-10,0,0,0,0,0.34942551098436,Low Risk
+23,Male,Single,Research & Development,Research Scientist,1,No,0,3505,Mid-Low,2,0-2,2,2-3,0,0,1,0,0.7657389822884838,High Risk
+47,Female,Single,Sales,Sales Executive,2,Yes,1,6397,Mid-High,8,6-10,5,4-5,0,0,0,1,0.5833768924210887,Medium Risk
+34,Male,Single,Sales,Sales Executive,2,No,0,6274,Mid-High,6,6-10,6,6-10,0,0,0,0,0.42124074845752857,Medium Risk
+55,Male,Married,Research & Development,Manager,5,Yes,1,19859,High,24,21+,5,4-5,1,0,0,1,0.2719840821707741,Low Risk
+36,Male,Single,Sales,Sales Executive,3,No,0,7587,Mid-High,10,6-10,10,6-10,0,0,0,0,0.41555349143349907,Medium Risk
+52,Male,Married,Research & Development,Research Scientist,1,No,0,4258,Mid-Low,5,3-5,4,4-5,1,0,0,0,0.2358449643805834,Low Risk
+26,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,4364,Mid-Low,5,3-5,2,2-3,1,0,0,0,0.33787557645654814,Low Risk
+29,Female,Married,Research & Development,Healthcare Representative,2,No,0,4335,Mid-Low,11,11-20,8,6-10,1,0,0,0,0.3368319953128276,Low Risk
+26,Male,Single,Sales,Sales Executive,2,No,0,5326,Mid-High,6,6-10,4,4-5,0,0,0,1,0.4679609796240599,Medium Risk
+34,Female,Single,Research & Development,Research Scientist,1,No,0,3280,Mid-Low,10,6-10,4,4-5,0,0,0,0,0.39019864844313307,Low Risk
+54,Female,Divorced,Research & Development,Manufacturing Director,2,Yes,1,5485,Mid-High,9,6-10,5,4-5,2,0,0,0,0.33527183462876875,Low Risk
+27,Male,Married,Sales,Sales Executive,2,No,0,4342,Mid-Low,5,3-5,4,4-5,1,0,0,0,0.37337718145165183,Low Risk
+37,Female,Divorced,Research & Development,Research Scientist,1,Yes,1,2782,Low,6,6-10,5,4-5,2,1,0,0,0.6857406096090692,Medium Risk
+38,Female,Single,Research & Development,Manufacturing Director,2,Yes,1,5980,Mid-High,17,11-20,15,11+,0,0,0,0,0.6019743965311558,Medium Risk
+34,Female,Single,Research & Development,Research Scientist,1,No,0,4381,Mid-Low,6,6-10,6,6-10,0,0,0,0,0.4090877584280243,Medium Risk
+35,Female,Married,Sales,Sales Representative,1,No,0,2572,Low,3,3-5,3,2-3,1,0,0,0,0.33303187375298177,Low Risk
+30,Male,Married,Research & Development,Laboratory Technician,1,No,0,3833,Mid-Low,7,6-10,2,2-3,2,0,0,0,0.2258882329577902,Low Risk
+40,Female,Married,Research & Development,Healthcare Representative,2,No,0,4244,Mid-Low,8,6-10,8,6-10,1,0,0,0,0.30703206464888594,Low Risk
+34,Female,Married,Sales,Sales Executive,2,No,0,6500,Mid-High,6,6-10,3,2-3,1,0,0,0,0.3067701133117474,Low Risk
+42,Male,Divorced,Research & Development,Manager,5,No,0,18430,High,24,21+,24,11+,1,0,0,0,0.19703614107623107,Low Risk
+23,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,1601,Low,1,0-2,0,0-1,2,1,1,1,0.9187687886838886,High Risk
+24,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2694,Low,1,0-2,1,0-1,3,0,1,0,0.4690348200708873,Medium Risk
+52,Female,Married,Research & Development,Laboratory Technician,2,No,0,3149,Mid-Low,9,6-10,5,4-5,1,0,0,0,0.25592439654736043,Low Risk
+50,Male,Married,Research & Development,Research Director,4,No,0,17639,High,30,21+,4,4-5,0,0,0,0,0.1621506883197619,Low Risk
+29,Female,Married,Research & Development,Laboratory Technician,1,Yes,1,2319,Low,1,0-2,1,0-1,1,1,1,1,0.938543797180049,High Risk
+33,Male,Married,Research & Development,Research Director,3,No,0,11691,High,14,11-20,13,11+,0,0,0,0,0.3610014258869586,Low Risk
+33,Female,Single,Sales,Sales Executive,2,No,0,5324,Mid-High,6,6-10,3,2-3,0,0,0,1,0.42946935754580084,Medium Risk
+47,Female,Married,Research & Development,Manager,4,Yes,1,16752,High,26,21+,26,11+,1,0,0,0,0.3532883008554472,Low Risk
+36,Female,Married,Research & Development,Manufacturing Director,2,No,0,5228,Mid-High,10,6-10,9,6-10,1,0,0,0,0.3041417867784639,Low Risk
+29,Male,Married,Research & Development,Research Scientist,1,No,0,2700,Low,10,6-10,10,6-10,1,0,0,0,0.33437414563838047,Low Risk
+58,Male,Single,Research & Development,Research Director,5,Yes,1,19246,High,40,21+,31,11+,0,0,0,1,0.3331464247838807,Low Risk
+35,Female,Single,Research & Development,Research Scientist,1,No,0,2506,Low,7,6-10,2,2-3,0,0,0,0,0.4093446828104138,Medium Risk
+42,Female,Married,Research & Development,Manufacturing Director,2,Yes,1,6062,Mid-High,8,6-10,4,4-5,1,0,0,0,0.49892659019132596,Medium Risk
+28,Male,Single,Research & Development,Research Scientist,1,No,0,4382,Mid-Low,5,3-5,2,2-3,0,0,0,1,0.43390761199574274,Medium Risk
+36,Male,Married,Human Resources,Human Resources,1,No,0,2143,Low,8,6-10,5,4-5,1,0,0,0,0.30831470872329847,Low Risk
+32,Female,Married,Research & Development,Manufacturing Director,2,No,0,6162,Mid-High,14,11-20,14,11+,1,0,0,0,0.3003684844821878,Low Risk
+40,Male,Single,Research & Development,Laboratory Technician,2,No,0,5094,Mid-High,10,6-10,1,0-1,0,0,1,0,0.6604688373940103,Medium Risk
+30,Female,Single,Research & Development,Manufacturing Director,2,Yes,1,6877,Mid-High,12,11-20,0,0-1,0,0,1,0,0.8460255558620652,High Risk
+45,Female,Single,Research & Development,Research Scientist,1,No,0,2274,Low,1,0-2,1,0-1,0,0,1,0,0.6929625727118283,Medium Risk
+42,Male,Married,Research & Development,Manufacturing Director,2,No,0,4434,Mid-Low,10,6-10,9,6-10,1,0,0,0,0.28724072061690653,Low Risk
+38,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,6288,Mid-High,13,11-20,4,4-5,1,0,0,0,0.25539016266954845,Low Risk
+34,Female,Single,Research & Development,Research Scientist,1,No,0,2553,Low,6,6-10,5,4-5,0,0,0,0,0.4295383234614286,Medium Risk
+49,Female,Married,Sales,Sales Executive,3,No,0,7654,Mid-High,9,6-10,9,6-10,2,0,0,1,0.18348269177709495,Low Risk
+55,Male,Single,Sales,Sales Executive,2,No,0,5160,Mid-High,12,11-20,9,6-10,0,0,0,1,0.3055851740891204,Low Risk
+43,Male,Married,Research & Development,Research Director,4,No,0,17159,High,22,21+,4,4-5,1,0,0,0,0.15472379422278917,Low Risk
+27,Male,Divorced,Research & Development,Research Director,3,Yes,1,12808,High,9,6-10,9,6-10,1,0,0,0,0.5327119326977595,Medium Risk
+35,Male,Single,Research & Development,Manufacturing Director,3,No,0,10221,High,17,11-20,8,6-10,0,0,0,0,0.3362254112032176,Low Risk
+28,Female,Married,Sales,Sales Executive,2,Yes,1,4779,Mid-Low,8,6-10,8,6-10,0,0,0,0,0.7002009912187586,High Risk
+34,Male,Married,Human Resources,Human Resources,1,No,0,3737,Mid-Low,4,3-5,3,2-3,1,0,0,0,0.31790582296959186,Low Risk
+26,Female,Married,Research & Development,Research Scientist,1,Yes,1,2366,Low,8,6-10,8,6-10,1,1,0,1,0.8111178062385206,High Risk
+27,Male,Married,Research & Development,Research Scientist,1,No,0,1706,Low,0,0-2,0,0-1,3,0,1,0,0.47060222494012716,Medium Risk
+51,Female,Married,Sales,Manager,4,No,0,16307,High,29,21+,20,11+,1,0,0,0,0.1398278711289054,Low Risk
+44,Male,Single,Research & Development,Healthcare Representative,2,No,0,5933,Mid-High,10,6-10,5,4-5,0,0,0,0,0.34770099641882996,Low Risk
+25,Male,Single,Research & Development,Research Scientist,1,No,0,3424,Mid-Low,6,6-10,4,4-5,0,0,0,0,0.46072757187351854,Medium Risk
+33,Male,Divorced,Sales,Sales Executive,2,No,0,4037,Mid-Low,9,6-10,9,6-10,1,0,0,0,0.3372942454822712,Low Risk
+35,Female,Single,Research & Development,Research Scientist,1,No,0,2559,Low,6,6-10,6,6-10,0,0,0,0,0.4274511693814459,Medium Risk
+36,Male,Married,Sales,Sales Executive,2,Yes,1,6201,Mid-High,18,11-20,18,11+,1,0,0,0,0.5007746089812206,Medium Risk
+32,Male,Divorced,Sales,Sales Executive,2,No,0,4403,Mid-Low,8,6-10,5,4-5,1,0,0,0,0.33285760127730524,Low Risk
+30,Male,Divorced,Research & Development,Research Scientist,1,No,0,3761,Mid-Low,10,6-10,5,4-5,1,0,0,0,0.3044233594304865,Low Risk
+53,Female,Married,Sales,Sales Executive,3,Yes,1,10934,High,35,21+,5,4-5,1,0,0,0,0.2532414302656341,Low Risk
+45,Male,Divorced,Sales,Sales Executive,3,Yes,1,10761,High,18,11-20,5,4-5,1,0,0,0,0.39373476329313245,Low Risk
+32,Female,Married,Research & Development,Research Scientist,2,No,0,5175,Mid-High,9,6-10,5,4-5,1,0,0,0,0.31777967749089864,Low Risk
+52,Female,Married,Research & Development,Manufacturing Director,4,No,0,13826,High,31,21+,9,6-10,0,0,0,0,0.19015175570818513,Low Risk
+37,Male,Divorced,Sales,Sales Executive,2,No,0,6334,Mid-High,9,6-10,1,0-1,2,0,1,0,0.4481879794954833,Medium Risk
+28,Male,Divorced,Human Resources,Human Resources,1,No,0,4936,Mid-High,6,6-10,5,4-5,1,0,0,0,0.32408383992891304,Low Risk
+22,Male,Married,Research & Development,Manufacturing Director,2,No,0,4775,Mid-Low,4,3-5,2,2-3,2,0,0,0,0.29247120379031954,Low Risk
+44,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,2818,Low,10,6-10,3,2-3,1,1,0,0,0.7205006991836269,High Risk
+42,Male,Single,Research & Development,Research Scientist,1,Yes,1,2515,Low,8,6-10,2,2-3,0,1,0,0,0.8170501394997832,High Risk
+36,Male,Married,Human Resources,Human Resources,1,No,0,2342,Low,6,6-10,5,4-5,0,0,0,0,0.4222315915592067,Medium Risk
+25,Male,Married,Sales,Sales Executive,2,Yes,1,4194,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.7286545196672134,High Risk
+35,Female,Married,Research & Development,Manufacturing Director,3,Yes,1,10685,High,17,11-20,17,11+,1,0,0,0,0.4882297534954692,Medium Risk
+35,Female,Divorced,Research & Development,Research Scientist,1,Yes,1,2022,Low,10,6-10,10,6-10,1,1,0,1,0.7789269063345625,High Risk
+32,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2314,Low,4,3-5,3,2-3,1,0,0,0,0.3435638493680459,Low Risk
+25,Male,Married,Sales,Sales Executive,2,No,0,4256,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.49721605101028393,Medium Risk
+49,Female,Married,Research & Development,Research Scientist,1,No,0,3580,Mid-Low,7,6-10,4,4-5,1,0,0,0,0.24333936951169355,Low Risk
+24,Male,Married,Research & Development,Laboratory Technician,1,No,0,3162,Mid-Low,6,6-10,5,4-5,0,0,0,0,0.47232332496850377,Medium Risk
+32,Male,Married,Sales,Sales Executive,2,No,0,6524,Mid-High,10,6-10,10,6-10,1,0,0,0,0.3096766159303862,Low Risk
+38,Male,Married,Sales,Sales Representative,1,No,0,2899,Low,3,3-5,2,2-3,1,0,0,0,0.3131311389638623,Low Risk
+42,Female,Married,Research & Development,Laboratory Technician,2,Yes,1,5231,Mid-High,17,11-20,5,4-5,1,0,0,0,0.4500252350242089,Medium Risk
+31,Male,Married,Research & Development,Research Scientist,1,Yes,1,2356,Low,8,6-10,6,6-10,1,1,0,0,0.7909618765620616,High Risk
+29,Female,Divorced,Sales,Sales Representative,1,Yes,1,2800,Low,5,3-5,3,2-3,3,1,0,1,0.6219855559247819,Medium Risk
+53,Male,Married,Sales,Sales Executive,4,No,0,11836,High,28,21+,2,2-3,1,0,0,0,0.1399835226105993,Low Risk
+35,Male,Married,Research & Development,Manufacturing Director,3,No,0,10903,High,16,11-20,13,11+,0,0,0,0,0.3482851721311136,Low Risk
+37,Female,Married,Sales,Sales Representative,1,No,0,2973,Mid-Low,10,6-10,5,4-5,1,0,0,0,0.28326796564979106,Low Risk
+53,Female,Single,Research & Development,Research Director,4,No,0,14275,High,33,21+,12,11+,0,0,0,0,0.18058714857674454,Low Risk
+43,Female,Married,Research & Development,Healthcare Representative,2,No,0,5562,Mid-High,12,11-20,5,4-5,1,0,0,0,0.25086753096128217,Low Risk
+47,Female,Married,Sales,Sales Executive,2,Yes,1,4537,Mid-Low,8,6-10,7,6-10,1,0,0,0,0.5026051254942933,Medium Risk
+37,Male,Single,Sales,Sales Executive,3,Yes,1,7642,Mid-High,10,6-10,10,6-10,0,0,0,0,0.6527673857825869,Medium Risk
+50,Male,Divorced,Research & Development,Manager,4,No,0,17924,High,31,21+,31,11+,1,0,0,0,0.14157648575723794,Low Risk
+39,Female,Married,Human Resources,Human Resources,2,No,0,5204,Mid-High,13,11-20,5,4-5,2,0,0,0,0.1869472780169904,Low Risk
+33,Male,Divorced,Human Resources,Human Resources,1,Yes,1,2277,Low,7,6-10,4,4-5,1,1,0,0,0.7853883485568023,High Risk
+32,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,2795,Low,1,0-2,1,0-1,0,1,1,1,0.9564045711840197,High Risk
+29,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,2532,Low,8,6-10,4,4-5,3,0,0,0,0.16869668680816205,Low Risk
+44,Male,Married,Research & Development,Research Scientist,1,Yes,1,2559,Low,8,6-10,8,6-10,0,1,0,0,0.8215563496928199,High Risk
+28,Male,Single,Sales,Sales Executive,2,No,0,4908,Mid-Low,4,3-5,4,4-5,0,0,0,0,0.47720695959373394,Medium Risk
+58,Male,Divorced,Research & Development,Laboratory Technician,1,Yes,1,2380,Low,3,3-5,1,0-1,1,1,1,1,0.8881743115310595,High Risk
+43,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,4765,Mid-Low,4,3-5,1,0-1,1,0,1,0,0.5843478814493177,Medium Risk
+20,Female,Single,Sales,Sales Representative,1,No,0,2044,Low,2,0-2,2,2-3,0,0,1,1,0.7896582825804546,High Risk
+21,Female,Single,Research & Development,Research Scientist,1,No,0,2693,Low,1,0-2,1,0-1,0,0,1,1,0.7831170918479827,High Risk
+36,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,6586,Mid-High,17,11-20,16,11+,1,0,0,0,0.49656757163621446,Medium Risk
+47,Female,Single,Sales,Sales Representative,1,Yes,1,3294,Mid-Low,3,3-5,3,2-3,0,0,0,0,0.6144227016715487,Medium Risk
+22,Female,Married,Research & Development,Manufacturing Director,2,Yes,1,4171,Mid-Low,4,3-5,3,2-3,1,0,0,1,0.6468387821721687,Medium Risk
+41,Female,Divorced,Research & Development,Laboratory Technician,1,Yes,1,2778,Low,10,6-10,7,6-10,1,1,0,1,0.7426376877375743,High Risk
+28,Female,Divorced,Research & Development,Research Scientist,1,No,0,2377,Low,6,6-10,2,2-3,1,0,0,0,0.3458929262926667,Low Risk
+39,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,2404,Low,8,6-10,2,2-3,0,1,0,1,0.8269028759005252,High Risk
+27,Female,Single,Research & Development,Research Scientist,1,No,0,2318,Low,1,0-2,1,0-1,0,0,1,0,0.7650702799371233,High Risk
+34,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2008,Low,1,0-2,1,0-1,2,0,1,0,0.5389010348367992,Medium Risk
+42,Female,Single,Sales,Sales Executive,2,No,0,6244,Mid-High,10,6-10,5,4-5,0,0,0,0,0.353304826962688,Low Risk
+33,Male,Single,Research & Development,Research Scientist,1,Yes,1,2799,Low,6,6-10,3,2-3,0,1,0,0,0.8499734929739755,High Risk
+58,Female,Divorced,Research & Development,Healthcare Representative,3,Yes,1,10552,High,24,21+,6,6-10,1,0,0,0,0.30089043197998155,Low Risk
+31,Male,Married,Sales,Sales Representative,1,No,0,2329,Low,13,11-20,7,6-10,0,0,0,0,0.4056161887934502,Medium Risk
+35,Female,Married,Research & Development,Healthcare Representative,2,Yes,1,4014,Mid-Low,10,6-10,10,6-10,1,0,0,0,0.5658080858392909,Medium Risk
+49,Female,Married,Research & Development,Laboratory Technician,3,No,0,7403,Mid-High,29,21+,26,11+,1,0,0,0,0.20057658888405797,Low Risk
+48,Male,Married,Research & Development,Research Scientist,1,No,0,2259,Low,13,11-20,0,0-1,2,0,1,0,0.3791758490493754,Low Risk
+31,Female,Married,Sales,Sales Executive,2,No,0,6932,Mid-High,9,6-10,9,6-10,1,0,0,0,0.31283915420465197,Low Risk
+36,Male,Single,Research & Development,Research Scientist,1,No,0,4678,Mid-Low,8,6-10,6,6-10,0,0,0,0,0.38214381869748915,Low Risk
+38,Female,Married,Research & Development,Research Director,3,No,0,13582,High,15,11-20,15,11+,1,0,0,0,0.22699057242344015,Low Risk
+32,Female,Married,Research & Development,Laboratory Technician,1,No,0,2332,Low,5,3-5,3,2-3,0,0,0,0,0.44333417255627,Medium Risk
+25,Male,Married,Sales,Sales Representative,1,Yes,1,2413,Low,1,0-2,1,0-1,3,1,1,1,0.8705078326388718,High Risk
+40,Male,Divorced,Sales,Sales Executive,3,No,0,9705,High,11,11-20,1,0-1,1,0,1,0,0.5238382351743955,Medium Risk
+26,Male,Single,Sales,Sales Executive,2,No,0,4294,Mid-Low,7,6-10,7,6-10,0,0,0,0,0.4837237250570798,Medium Risk
+41,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,4721,Mid-Low,20,11-20,18,11+,0,0,0,0,0.5551521462450786,Medium Risk
+36,Male,Single,Research & Development,Laboratory Technician,1,No,0,2519,Low,16,11-20,11,11+,0,0,0,0,0.37061759305803293,Low Risk
+19,Male,Single,Sales,Sales Representative,1,Yes,1,2121,Low,1,0-2,1,0-1,0,1,1,1,0.9673977530731509,High Risk
+20,Male,Single,Research & Development,Laboratory Technician,1,No,0,2973,Mid-Low,1,0-2,1,0-1,0,0,1,1,0.7840920649114579,High Risk
+31,Female,Married,Research & Development,Healthcare Representative,2,Yes,1,5855,Mid-High,10,6-10,9,6-10,2,0,0,0,0.4473697131331134,Medium Risk
+40,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,3617,Mid-Low,3,3-5,1,0-1,1,0,1,0,0.7919237658676253,High Risk
+32,Female,Married,Research & Development,Manufacturing Director,2,No,0,6725,Mid-High,8,6-10,8,6-10,1,0,0,0,0.31416278244674395,Low Risk
+36,Male,Married,Sales,Sales Executive,3,Yes,1,10325,High,16,11-20,16,11+,1,0,0,1,0.4917807998056014,Medium Risk
+33,Female,Single,Research & Development,Healthcare Representative,2,No,0,6949,Mid-High,6,6-10,5,4-5,0,0,0,0,0.4145874466060757,Medium Risk
+37,Male,Married,Sales,Sales Executive,3,No,0,10609,High,17,11-20,14,11+,0,0,0,1,0.33898005461191255,Low Risk
+45,Male,Married,Research & Development,Laboratory Technician,2,No,0,4447,Mid-Low,9,6-10,9,6-10,0,0,0,0,0.3789114611587304,Low Risk
+29,Female,Married,Sales,Sales Representative,1,No,0,2157,Low,3,3-5,3,2-3,1,0,0,0,0.3659467619270641,Low Risk
+35,Female,Married,Sales,Sales Executive,2,No,0,4601,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.4416900602739099,Medium Risk
+52,Male,Married,Research & Development,Manager,4,No,0,17099,High,26,21+,9,6-10,1,0,0,0,0.1267454287205311,Low Risk
+58,Male,Single,Research & Development,Research Scientist,1,No,0,2479,Low,7,6-10,1,0-1,0,0,1,1,0.5910925302557382,Medium Risk
+53,Male,Divorced,Sales,Manager,4,No,0,14852,High,22,21+,17,11+,1,0,0,0,0.1649727398369825,Low Risk
+30,Male,Divorced,Sales,Sales Executive,3,No,0,7264,Mid-High,10,6-10,8,6-10,1,0,0,0,0.3375068798640892,Low Risk
+38,Female,Single,Sales,Sales Executive,2,Yes,1,5666,Mid-High,6,6-10,5,4-5,0,0,0,0,0.6492471934411588,Medium Risk
+35,Male,Divorced,Sales,Sales Executive,3,No,0,7823,Mid-High,12,11-20,10,6-10,1,0,0,0,0.30198565215698653,Low Risk
+39,Male,Single,Sales,Sales Executive,3,No,0,7880,Mid-High,9,6-10,8,6-10,0,0,0,0,0.39782528577186727,Low Risk
+40,Female,Single,Sales,Sales Executive,4,Yes,1,13194,High,22,21+,1,0-1,0,0,1,1,0.7680728915737334,High Risk
+47,Male,Divorced,Research & Development,Manufacturing Director,2,Yes,1,5067,Mid-High,20,11-20,19,11+,0,0,0,0,0.5602936097189549,Medium Risk
+36,Male,Divorced,Sales,Sales Executive,2,No,0,5079,Mid-High,12,11-20,7,6-10,2,0,0,0,0.20599102586627469,Low Risk
+31,Male,Single,Research & Development,Research Scientist,1,Yes,1,2321,Low,4,3-5,3,2-3,0,1,0,1,0.8649058573333475,High Risk
+33,Male,Single,Sales,Manager,4,No,0,17444,High,10,6-10,10,6-10,0,0,0,0,0.3432087139481552,Low Risk
+29,Female,Single,Research & Development,Research Scientist,1,Yes,1,2404,Low,3,3-5,0,0-1,0,1,1,1,0.9569733405795174,High Risk
+33,Female,Single,Research & Development,Research Scientist,1,No,0,3452,Mid-Low,5,3-5,3,2-3,0,0,0,0,0.4238129066181845,Medium Risk
+45,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,2270,Low,8,6-10,5,4-5,2,0,0,0,0.19031047371050142,Low Risk
+50,Male,Divorced,Research & Development,Research Director,4,No,0,17399,High,32,21+,5,4-5,1,0,0,0,0.10695292264313683,Low Risk
+33,Female,Married,Research & Development,Healthcare Representative,2,Yes,1,5488,Mid-High,6,6-10,6,6-10,1,0,0,0,0.5722658269686289,Medium Risk
+41,Male,Divorced,Research & Development,Research Director,5,No,0,19419,High,21,21+,18,11+,1,0,0,0,0.1936971624975311,Low Risk
+27,Female,Married,Research & Development,Laboratory Technician,1,No,0,2811,Low,4,3-5,2,2-3,1,0,0,0,0.35814414938232036,Low Risk
+45,Male,Married,Research & Development,Laboratory Technician,2,Yes,1,3633,Mid-Low,9,6-10,9,6-10,1,0,0,0,0.5238788413161328,Medium Risk
+47,Female,Single,Sales,Sales Executive,2,Yes,1,4163,Mid-Low,9,6-10,9,6-10,0,0,0,0,0.616676909918499,Medium Risk
+30,Female,Married,Research & Development,Research Scientist,1,Yes,1,2132,Low,7,6-10,5,4-5,0,1,0,1,0.8614726529816039,High Risk
+50,Male,Married,Research & Development,Manufacturing Director,4,Yes,1,13973,High,22,21+,12,11+,1,0,0,0,0.35900894452281756,Low Risk
+38,Male,Married,Research & Development,Research Scientist,1,No,0,2684,Low,3,3-5,2,2-3,1,0,0,0,0.31557222951763747,Low Risk
+46,Male,Divorced,Research & Development,Manufacturing Director,3,No,0,10845,High,13,11-20,8,6-10,1,0,0,0,0.21837309551677547,Low Risk
+24,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,4377,Mid-Low,5,3-5,4,4-5,2,0,0,0,0.2876349942455315,Low Risk
+35,Male,Divorced,Research & Development,Laboratory Technician,1,Yes,1,3743,Mid-Low,5,3-5,4,4-5,1,0,0,1,0.5487702167905787,Medium Risk
+31,Female,Married,Research & Development,Manufacturing Director,2,No,0,4148,Mid-Low,4,3-5,4,4-5,1,0,0,0,0.3632012961706549,Low Risk
+18,Male,Single,Research & Development,Research Scientist,1,No,0,1051,Low,0,0-2,0,0-1,0,0,1,0,0.8096390033693259,High Risk
+54,Female,Married,Research & Development,Manufacturing Director,3,No,0,10739,High,22,21+,10,6-10,1,0,0,0,0.15958176583231679,Low Risk
+35,Female,Divorced,Research & Development,Healthcare Representative,3,Yes,1,10388,High,16,11-20,16,11+,1,0,0,0,0.4960753602096058,Medium Risk
+30,Female,Married,Research & Development,Research Director,3,Yes,1,11416,High,9,6-10,8,6-10,3,0,0,0,0.3171232698081697,Low Risk
+20,Female,Single,Research & Development,Research Scientist,1,Yes,1,2600,Low,1,0-2,1,0-1,0,1,1,1,0.965924141532209,High Risk
+30,Female,Single,Research & Development,Laboratory Technician,1,No,0,2422,Low,4,3-5,3,2-3,0,0,0,1,0.45925431454414856,Medium Risk
+26,Male,Married,Research & Development,Manufacturing Director,2,No,0,5472,Mid-High,8,6-10,8,6-10,0,0,0,0,0.46432863140525843,Medium Risk
+22,Male,Married,Research & Development,Laboratory Technician,1,No,0,2451,Low,4,3-5,4,4-5,1,0,0,0,0.3923652888200127,Low Risk
+48,Male,Single,Research & Development,Healthcare Representative,2,No,0,4240,Mid-Low,19,11-20,2,2-3,0,0,0,0,0.28675515172348653,Low Risk
+48,Male,Single,Research & Development,Healthcare Representative,3,No,0,10999,High,27,21+,15,11+,0,0,0,0,0.2346979007907789,Low Risk
+41,Female,Single,Research & Development,Manufacturing Director,2,No,0,5003,Mid-High,8,6-10,2,2-3,0,0,0,0,0.37766460955777886,Low Risk
+39,Female,Married,Research & Development,Manufacturing Director,4,No,0,12742,High,21,21+,21,11+,1,0,0,0,0.241160071199601,Low Risk
+27,Female,Married,Research & Development,Manufacturing Director,2,No,0,4227,Mid-Low,4,3-5,3,2-3,1,0,0,0,0.37849236842024686,Low Risk
+35,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,3917,Mid-Low,3,3-5,3,2-3,1,0,0,0,0.31748453849027175,Low Risk
+42,Male,Married,Sales,Manager,5,No,0,18303,High,21,21+,1,0-1,0,0,1,0,0.5173597142676317,Medium Risk
+50,Male,Married,Research & Development,Laboratory Technician,1,No,0,2380,Low,8,6-10,1,0-1,0,0,1,0,0.6247261709346901,Medium Risk
+59,Female,Single,Research & Development,Manufacturing Director,4,Yes,1,13726,High,30,21+,5,4-5,0,0,0,0,0.3514412978342909,Low Risk
+37,Female,Married,Research & Development,Healthcare Representative,2,No,0,4777,Mid-Low,15,11-20,1,0-1,0,0,1,1,0.6464317842152508,Medium Risk
+55,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,6385,Mid-High,17,11-20,8,6-10,2,0,0,0,0.28094612359651466,Low Risk
+41,Female,Divorced,Research & Development,Research Director,5,No,0,19973,High,21,21+,21,11+,2,0,0,0,0.13385833119993923,Low Risk
+38,Male,Single,Sales,Sales Executive,2,Yes,1,6861,Mid-High,19,11-20,1,0-1,0,0,1,0,0.7952122036517594,High Risk
+26,Male,Single,Sales,Sales Executive,2,No,0,4969,Mid-High,7,6-10,2,2-3,0,0,0,1,0.4595512249446258,Medium Risk
+52,Female,Married,Sales,Manager,5,No,0,19845,High,33,21+,32,11+,1,0,0,1,0.13723358892407986,Low Risk
+44,Female,Married,Sales,Sales Executive,4,Yes,1,13320,High,23,21+,12,11+,1,0,0,0,0.3892870714372964,Low Risk
+50,Female,Married,Sales,Sales Executive,2,No,0,6347,Mid-High,19,11-20,18,11+,1,0,0,0,0.2116010079781078,Low Risk
+36,Female,Single,Research & Development,Laboratory Technician,1,No,0,2743,Low,18,11-20,17,11+,0,0,0,1,0.3719902467661048,Low Risk
+39,Female,Single,Research & Development,Manufacturing Director,3,Yes,1,10880,High,21,21+,21,11+,0,0,0,0,0.5613038993057384,Medium Risk
+33,Female,Single,Sales,Sales Representative,1,No,0,2342,Low,3,3-5,2,2-3,0,0,0,0,0.4489574027929953,Medium Risk
+45,Female,Married,Sales,Manager,4,No,0,17650,High,26,21+,9,6-10,1,0,0,0,0.13996568999550593,Low Risk
+32,Female,Single,Research & Development,Laboratory Technician,1,No,0,4025,Mid-Low,10,6-10,8,6-10,0,0,0,0,0.40238140482331236,Medium Risk
+34,Male,Divorced,Sales,Sales Executive,2,No,0,9725,High,16,11-20,15,11+,1,0,0,0,0.2463790135731225,Low Risk
+59,Male,Married,Sales,Manager,3,Yes,1,11904,High,14,11-20,6,6-10,1,0,0,0,0.3419986467244371,Low Risk
+45,Male,Single,Human Resources,Human Resources,1,No,0,2177,Low,6,6-10,6,6-10,0,0,0,0,0.3829298406664997,Low Risk
+53,Female,Married,Sales,Sales Executive,3,No,0,7525,Mid-High,30,21+,15,11+,1,0,0,0,0.1632315244281265,Low Risk
+36,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,4834,Mid-Low,9,6-10,1,0-1,1,0,1,1,0.5842681376144382,Medium Risk
+26,Male,Married,Research & Development,Research Scientist,1,Yes,1,2042,Low,6,6-10,3,2-3,1,1,0,1,0.8129008026285413,High Risk
+34,Female,Married,Sales,Sales Representative,1,Yes,1,2220,Low,1,0-2,1,0-1,1,1,1,0,0.9326873513992349,High Risk
+28,Male,Married,Sales,Sales Representative,1,No,0,1052,Low,1,0-2,1,0-1,0,0,1,0,0.7732706553328289,High Risk
+38,Male,Married,Research & Development,Research Scientist,1,No,0,2821,Low,8,6-10,2,2-3,1,0,0,0,0.2846313560801562,Low Risk
+50,Male,Married,Research & Development,Research Director,5,Yes,1,19237,High,29,21+,8,6-10,1,0,0,0,0.27835658697199767,Low Risk
+37,Female,Single,Research & Development,Healthcare Representative,2,No,0,4107,Mid-Low,8,6-10,4,4-5,0,0,0,0,0.414428160174455,Medium Risk
+40,Male,Married,Sales,Sales Executive,2,No,0,8396,High,8,6-10,7,6-10,1,0,0,0,0.2601779969285221,Low Risk
+26,Female,Divorced,Research & Development,Research Scientist,1,No,0,2007,Low,5,3-5,5,4-5,2,0,0,0,0.27677151056711913,Low Risk
+46,Male,Divorced,Research & Development,Research Director,5,No,0,19627,High,23,21+,2,2-3,2,0,0,0,0.09611333106006098,Low Risk
+54,Female,Married,Sales,Sales Executive,3,No,0,10686,High,13,11-20,9,6-10,1,0,0,0,0.19489672928113785,Low Risk
+56,Female,Married,Research & Development,Research Scientist,1,No,0,2942,Mid-Low,18,11-20,5,4-5,1,0,0,0,0.17646649078813945,Low Risk
+36,Female,Single,Research & Development,Manufacturing Director,3,No,0,8858,High,15,11-20,14,11+,0,0,0,0,0.3777692243660842,Low Risk
+55,Male,Single,Research & Development,Manager,4,No,0,16756,High,31,21+,9,6-10,0,0,0,0,0.15910934583422068,Low Risk
+43,Male,Divorced,Sales,Sales Executive,3,No,0,10798,High,18,11-20,1,0-1,1,0,1,0,0.44524110516827314,Medium Risk
+20,Female,Single,Sales,Sales Representative,1,Yes,1,2323,Low,2,0-2,2,2-3,0,1,1,1,0.9658861510175759,High Risk
+21,Female,Single,Research & Development,Laboratory Technician,1,No,0,1416,Low,1,0-2,1,0-1,0,0,1,1,0.7943248474033326,High Risk
+46,Female,Divorced,Research & Development,Research Scientist,2,Yes,1,4615,Mid-Low,19,11-20,16,11+,3,0,0,0,0.2556753576023838,Low Risk
+51,Male,Married,Research & Development,Research Scientist,1,Yes,1,2461,Low,18,11-20,10,6-10,3,1,0,1,0.44680318653462836,Medium Risk
+28,Male,Single,Research & Development,Healthcare Representative,3,No,0,8722,High,10,6-10,10,6-10,0,0,0,1,0.4410635704800638,Medium Risk
+26,Male,Married,Research & Development,Laboratory Technician,1,No,0,3955,Mid-Low,6,6-10,5,4-5,2,0,0,0,0.2513946486080335,Low Risk
+30,Male,Married,Research & Development,Manufacturing Director,2,No,0,9957,High,7,6-10,6,6-10,1,0,0,0,0.2877098822905227,Low Risk
+41,Female,Married,Research & Development,Research Scientist,1,No,0,3376,Mid-Low,10,6-10,10,6-10,0,0,0,0,0.37255409389962935,Low Risk
+38,Female,Married,Research & Development,Healthcare Representative,3,No,0,8823,High,20,11-20,19,11+,1,0,0,0,0.25622023106917713,Low Risk
+40,Male,Married,Research & Development,Healthcare Representative,3,No,0,10322,High,14,11-20,11,11+,1,0,0,0,0.24679410640382382,Low Risk
+27,Male,Married,Research & Development,Laboratory Technician,1,No,0,4621,Mid-Low,3,3-5,3,2-3,3,0,0,0,0.17711172705363748,Low Risk
+55,Male,Married,Research & Development,Manufacturing Director,3,No,0,10976,High,23,21+,3,2-3,1,0,0,0,0.14082982409910647,Low Risk
+28,Female,Single,Research & Development,Research Scientist,2,No,0,3660,Mid-Low,10,6-10,8,6-10,0,0,0,0,0.4639250144276503,Medium Risk
+44,Male,Married,Human Resources,Human Resources,3,No,0,10482,High,24,21+,20,11+,1,0,0,1,0.2016589480568747,Low Risk
+33,Male,Divorced,Research & Development,Healthcare Representative,3,No,0,7119,Mid-High,9,6-10,3,2-3,1,0,0,0,0.3182750682073313,Low Risk
+35,Male,Single,Sales,Sales Executive,3,Yes,1,9582,High,9,6-10,8,6-10,0,0,0,1,0.6395663224444158,Medium Risk
+33,Female,Single,Research & Development,Research Scientist,2,No,0,4508,Mid-Low,14,11-20,13,11+,0,0,0,1,0.41522440654721016,Medium Risk
+28,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2207,Low,4,3-5,4,4-5,1,0,0,0,0.3664388693918157,Low Risk
+34,Male,Single,Research & Development,Healthcare Representative,2,No,0,7756,Mid-High,7,6-10,6,6-10,0,0,0,0,0.39561040422204585,Low Risk
+37,Female,Divorced,Sales,Sales Executive,2,Yes,1,6694,Mid-High,8,6-10,1,0-1,3,0,1,0,0.586122444281264,Medium Risk
+25,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,3691,Mid-Low,7,6-10,7,6-10,1,0,0,1,0.5948953903460555,Medium Risk
+26,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2377,Low,1,0-2,1,0-1,1,0,1,1,0.6790207837175796,Medium Risk
+33,Male,Single,Research & Development,Research Scientist,1,Yes,1,2313,Low,5,3-5,2,2-3,0,1,0,1,0.8551700610637384,High Risk
+42,Male,Married,Research & Development,Manager,4,No,0,17665,High,23,21+,22,11+,1,0,0,0,0.18079857121851933,Low Risk
+28,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2596,Low,1,0-2,1,0-1,2,0,1,1,0.5616699271110631,Medium Risk
+50,Male,Single,Sales,Sales Executive,2,Yes,1,4728,Mid-Low,5,3-5,0,0-1,0,0,1,1,0.8324711676009285,High Risk
+33,Female,Married,Sales,Sales Executive,2,No,0,4302,Mid-Low,4,3-5,3,2-3,1,0,0,0,0.3491220128969214,Low Risk
+34,Male,Married,Research & Development,Research Scientist,1,No,0,2979,Mid-Low,6,6-10,0,0-1,3,0,1,0,0.37836068124733924,Low Risk
+48,Male,Single,Research & Development,Manager,4,No,0,16885,High,27,21+,5,4-5,0,0,0,0,0.18767533518636081,Low Risk
+45,Female,Married,Sales,Sales Executive,2,No,0,5593,Mid-High,15,11-20,15,11+,1,0,0,0,0.25015042639280155,Low Risk
+52,Male,Single,Research & Development,Healthcare Representative,3,No,0,10445,High,18,11-20,8,6-10,0,0,0,0,0.2556899624392037,Low Risk
+38,Male,Divorced,Sales,Sales Executive,3,Yes,1,8740,High,9,6-10,8,6-10,2,0,0,0,0.4155042780008348,Medium Risk
+29,Female,Divorced,Research & Development,Research Scientist,1,No,0,2514,Low,11,11-20,7,6-10,1,0,0,0,0.322220619374132,Low Risk
+28,Female,Divorced,Research & Development,Manufacturing Director,3,No,0,7655,Mid-High,10,6-10,9,6-10,3,0,0,0,0.17663349022902622,Low Risk
+46,Male,Married,Sales,Manager,4,No,0,17465,High,23,21+,12,11+,1,0,0,0,0.15376957113643677,Low Risk
+38,Male,Single,Sales,Sales Executive,3,No,0,7351,Mid-High,10,6-10,1,0-1,0,0,1,0,0.6763973518492228,Medium Risk
+43,Female,Married,Research & Development,Manufacturing Director,3,No,0,10820,High,18,11-20,8,6-10,1,0,0,0,0.20545420790542598,Low Risk
+39,Male,Divorced,Research & Development,Healthcare Representative,4,No,0,12169,High,21,21+,18,11+,3,0,0,1,0.11398988576202512,Low Risk
+40,Male,Single,Research & Development,Research Director,5,No,0,19626,High,21,21+,20,11+,0,0,0,0,0.2802573836208881,Low Risk
+21,Female,Single,Research & Development,Research Scientist,1,Yes,1,2070,Low,2,0-2,2,2-3,0,1,1,0,0.9656490401212584,High Risk
+39,Male,Single,Research & Development,Laboratory Technician,2,No,0,6782,Mid-High,9,6-10,5,4-5,0,0,0,0,0.36740916901314996,Low Risk
+36,Male,Single,Research & Development,Manufacturing Director,2,No,0,7779,Mid-High,18,11-20,11,11+,0,0,0,0,0.3289460326803897,Low Risk
+31,Male,Married,Sales,Sales Representative,1,No,0,2791,Low,3,3-5,2,2-3,1,0,0,0,0.34607551353396987,Low Risk
+28,Male,Married,Research & Development,Research Scientist,1,No,0,3201,Mid-Low,6,6-10,5,4-5,0,0,0,0,0.45143538640051223,Medium Risk
+35,Male,Divorced,Sales,Sales Executive,2,No,0,4968,Mid-High,5,3-5,5,4-5,1,0,0,0,0.3312723086594991,Low Risk
+49,Male,Married,Sales,Sales Executive,4,No,0,13120,High,22,21+,9,6-10,1,0,0,0,0.17555050256539523,Low Risk
+34,Male,Single,Research & Development,Manufacturing Director,2,No,0,4033,Mid-Low,5,3-5,3,2-3,0,0,0,0,0.44807029819330674,Medium Risk
+29,Female,Divorced,Research & Development,Research Scientist,1,No,0,3291,Mid-Low,8,6-10,7,6-10,2,0,0,0,0.24063535956530901,Low Risk
+42,Male,Single,Research & Development,Laboratory Technician,2,No,0,4272,Mid-Low,16,11-20,1,0-1,0,0,1,0,0.622331838508873,Medium Risk
+29,Male,Married,Research & Development,Manufacturing Director,2,Yes,1,5056,Mid-High,10,6-10,10,6-10,1,0,0,0,0.5824588317022131,Medium Risk
+38,Male,Married,Human Resources,Human Resources,1,No,0,2844,Low,7,6-10,7,6-10,1,0,0,0,0.30294501885424985,Low Risk
+28,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,2703,Low,3,3-5,3,2-3,1,1,0,0,0.8141591456905333,High Risk
+18,Male,Single,Research & Development,Laboratory Technician,1,No,0,1904,Low,0,0-2,0,0-1,0,0,1,1,0.8026170303984422,High Risk
+33,Female,Single,Sales,Sales Executive,2,Yes,1,8224,Mid-High,6,6-10,5,4-5,0,0,0,1,0.6418675992942157,Medium Risk
+41,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,4766,Mid-Low,6,6-10,1,0-1,1,0,1,0,0.7634014965113661,High Risk
+31,Male,Married,Research & Development,Laboratory Technician,1,No,0,2610,Low,2,0-2,2,2-3,1,0,1,1,0.6499360126324284,Medium Risk
+37,Female,Divorced,Research & Development,Healthcare Representative,2,No,0,5731,Mid-High,9,6-10,6,6-10,2,0,0,0,0.20878145948660873,Low Risk
+27,Male,Married,Research & Development,Research Scientist,1,No,0,2539,Low,4,3-5,4,4-5,1,0,0,0,0.3671380672867658,Low Risk
+34,Female,Married,Sales,Sales Executive,2,No,0,5714,Mid-High,6,6-10,6,6-10,0,0,0,0,0.4284489156514617,Medium Risk
+35,Male,Single,Human Resources,Human Resources,1,No,0,4323,Mid-Low,6,6-10,5,4-5,0,0,0,0,0.4019191943486611,Medium Risk
+29,Female,Married,Sales,Sales Executive,3,No,0,7336,Mid-High,11,11-20,11,11+,1,0,0,1,0.34324254309000446,Low Risk
+40,Female,Single,Research & Development,Research Director,3,No,0,13499,High,20,11-20,18,11+,0,0,0,0,0.2856665410437934,Low Risk
+42,Male,Single,Sales,Sales Executive,4,Yes,1,13758,High,22,21+,21,11+,0,0,0,1,0.5386940880272522,Medium Risk
+42,Male,Single,Sales,Sales Executive,2,No,0,5155,Mid-High,9,6-10,6,6-10,0,0,0,0,0.37593306127555914,Low Risk
+35,Male,Married,Research & Development,Laboratory Technician,1,No,0,2258,Low,10,6-10,8,6-10,1,0,0,0,0.3073012819941312,Low Risk
+24,Male,Single,Research & Development,Laboratory Technician,1,No,0,3597,Mid-Low,6,6-10,4,4-5,0,0,0,0,0.4635578188344615,Medium Risk
+28,Female,Married,Research & Development,Laboratory Technician,1,Yes,1,2515,Low,1,0-2,1,0-1,0,1,1,1,0.9602650036365096,High Risk
+26,Male,Married,Research & Development,Laboratory Technician,1,No,0,4420,Mid-Low,8,6-10,8,6-10,1,0,0,0,0.3349048124135461,Low Risk
+30,Male,Married,Sales,Sales Executive,2,No,0,6578,Mid-High,10,6-10,10,6-10,1,0,0,0,0.3178918486483565,Low Risk
+40,Female,Married,Research & Development,Research Scientist,2,Yes,1,4422,Mid-Low,16,11-20,1,0-1,1,0,1,0,0.7463869003505856,High Risk
+35,Male,Divorced,Research & Development,Manufacturing Director,3,No,0,10274,High,15,11-20,7,6-10,1,0,0,0,0.25200135224979325,Low Risk
+34,Male,Single,Research & Development,Healthcare Representative,2,No,0,5343,Mid-High,14,11-20,13,11+,0,0,0,0,0.3996569113001765,Low Risk
+35,Male,Married,Research & Development,Laboratory Technician,1,No,0,2376,Low,2,0-2,2,2-3,1,0,1,0,0.633923562895506,Medium Risk
+43,Female,Single,Sales,Sales Executive,2,No,0,5346,Mid-High,7,6-10,4,4-5,0,0,0,1,0.376151206227456,Low Risk
+32,Female,Divorced,Sales,Sales Representative,1,No,0,2827,Low,1,0-2,1,0-1,3,0,1,0,0.4267747436999046,Medium Risk
+56,Female,Divorced,Research & Development,Manager,5,No,0,19943,High,28,21+,5,4-5,1,0,0,0,0.10742350180660432,Low Risk
+29,Female,Married,Research & Development,Laboratory Technician,1,No,0,3131,Mid-Low,10,6-10,10,6-10,1,0,0,0,0.3293400511832103,Low Risk
+19,Male,Single,Research & Development,Research Scientist,1,No,0,2552,Low,1,0-2,1,0-1,0,0,1,0,0.7912293212829327,High Risk
+45,Female,Married,Research & Development,Research Scientist,1,Yes,1,4477,Mid-Low,7,6-10,3,2-3,1,0,0,0,0.4709508467195403,Medium Risk
+37,Female,Married,Research & Development,Manufacturing Director,2,No,0,6474,Mid-High,14,11-20,14,11+,1,0,0,0,0.2759826522951979,Low Risk
+20,Male,Single,Research & Development,Laboratory Technician,1,No,0,3033,Mid-Low,2,0-2,2,2-3,0,0,1,0,0.7808742315609489,High Risk
+44,Male,Single,Research & Development,Research Scientist,1,Yes,1,2936,Mid-Low,6,6-10,6,6-10,0,0,0,1,0.6222390464773252,Medium Risk
+53,Female,Divorced,Research & Development,Manager,5,No,0,18606,High,26,21+,7,6-10,1,0,0,0,0.12957270105124613,Low Risk
+29,Female,Married,Research & Development,Research Scientist,1,Yes,1,2168,Low,6,6-10,5,4-5,1,1,0,0,0.806186595980958,High Risk
+22,Male,Married,Research & Development,Research Scientist,1,Yes,1,2853,Low,1,0-2,0,0-1,1,1,1,1,0.9442271267999117,High Risk
+46,Female,Married,Sales,Manager,4,No,0,17048,High,28,21+,26,11+,0,0,0,0,0.23100150827449087,Low Risk
+44,Male,Single,Research & Development,Research Scientist,1,No,0,2290,Low,6,6-10,0,0-1,0,0,1,0,0.6640019301971205,Medium Risk
+33,Male,Married,Human Resources,Human Resources,1,No,0,3600,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.3231903172421909,Low Risk
+41,Male,Divorced,Research & Development,Research Scientist,1,No,0,2107,Low,5,3-5,1,0-1,1,0,1,1,0.585125884543179,Medium Risk
+30,Male,Divorced,Sales,Sales Executive,2,No,0,4115,Mid-Low,8,6-10,4,4-5,3,0,0,0,0.17522987447858862,Low Risk
+40,Male,Married,Sales,Sales Executive,2,No,0,4327,Mid-Low,5,3-5,0,0-1,3,0,1,0,0.3745593227347105,Low Risk
+50,Female,Married,Research & Development,Manager,4,No,0,17856,High,32,21+,2,2-3,1,0,0,0,0.10126907561322628,Low Risk
+28,Male,Married,Research & Development,Laboratory Technician,1,No,0,3196,Mid-Low,6,6-10,6,6-10,3,0,0,0,0.1781826128328621,Low Risk
+46,Male,Married,Research & Development,Research Director,5,No,0,19081,High,25,21+,4,4-5,1,0,0,0,0.14244772585559792,Low Risk
+35,Male,Married,Sales,Sales Executive,2,Yes,1,8966,High,15,11-20,7,6-10,3,0,0,0,0.2552590662268927,Low Risk
+24,Female,Married,Research & Development,Laboratory Technician,1,No,0,2210,Low,1,0-2,1,0-1,1,0,1,1,0.6897758949440316,Medium Risk
+33,Female,Married,Sales,Sales Executive,2,No,0,4539,Mid-Low,10,6-10,10,6-10,1,0,0,0,0.32792936549469515,Low Risk
+36,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2741,Low,7,6-10,7,6-10,1,0,0,0,0.3128372843382568,Low Risk
+30,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,3491,Mid-Low,10,6-10,10,6-10,3,0,0,0,0.18265609191959492,Low Risk
+44,Male,Single,Research & Development,Research Scientist,2,No,0,4541,Mid-Low,20,11-20,20,11+,0,0,0,0,0.342578889983664,Low Risk
+20,Male,Single,Sales,Sales Representative,1,No,0,2678,Low,2,0-2,2,2-3,0,0,1,0,0.7840572927635813,High Risk
+46,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,7379,Mid-High,12,11-20,6,6-10,1,0,0,0,0.22462526416905762,Low Risk
+42,Male,Married,Human Resources,Human Resources,2,No,0,6272,Mid-High,10,6-10,4,4-5,1,0,0,0,0.2559532487674813,Low Risk
+60,Male,Divorced,Sales,Sales Executive,2,Yes,1,5220,Mid-High,12,11-20,11,11+,1,0,0,0,0.4121619845544225,Medium Risk
+32,Female,Married,Research & Development,Laboratory Technician,1,No,0,2743,Low,2,0-2,2,2-3,1,0,1,0,0.6436524009786808,Medium Risk
+32,Female,Single,Research & Development,Research Scientist,2,Yes,1,4998,Mid-High,10,6-10,8,6-10,0,0,0,0,0.667887052414351,Medium Risk
+36,Female,Divorced,Research & Development,Manufacturing Director,3,Yes,1,10252,High,17,11-20,7,6-10,1,0,0,0,0.45817125486056054,Medium Risk
+33,Male,Married,Research & Development,Research Scientist,1,No,0,2781,Low,15,11-20,14,11+,1,0,0,0,0.29613892740318504,Low Risk
+40,Female,Divorced,Sales,Sales Executive,2,No,0,6852,Mid-High,7,6-10,5,4-5,1,0,0,0,0.276826944632625,Low Risk
+25,Male,Single,Sales,Sales Executive,2,No,0,4950,Mid-High,5,3-5,4,4-5,0,0,0,0,0.48500769063557814,Medium Risk
+30,Male,Married,Research & Development,Research Scientist,1,Yes,1,3579,Mid-Low,12,11-20,11,11+,1,0,0,0,0.5489978407916879,Medium Risk
+42,Female,Married,Research & Development,Research Director,3,Yes,1,13191,High,20,11-20,1,0-1,0,0,1,0,0.7432484129912331,High Risk
+35,Female,Married,Sales,Sales Executive,3,Yes,1,10377,High,16,11-20,13,11+,1,0,0,0,0.4870035272087936,Medium Risk
+27,Male,Married,Research & Development,Research Scientist,1,Yes,1,2235,Low,9,6-10,9,6-10,2,1,0,0,0.7269391448025662,High Risk
+54,Female,Divorced,Research & Development,Manufacturing Director,3,No,0,10502,High,33,21+,5,4-5,1,0,0,0,0.117249159221612,Low Risk
+44,Female,Married,Research & Development,Research Scientist,1,No,0,2011,Low,10,6-10,10,6-10,1,0,0,0,0.27694507795230056,Low Risk
+19,Female,Single,Research & Development,Research Scientist,1,Yes,1,1859,Low,1,0-2,1,0-1,0,1,1,1,0.9678302513064954,High Risk
+29,Female,Divorced,Research & Development,Research Scientist,1,No,0,3760,Mid-Low,3,3-5,3,2-3,3,0,0,0,0.1777475681198701,Low Risk
+54,Male,Married,Research & Development,Research Director,4,No,0,17779,High,36,21+,10,6-10,0,0,0,0,0.13869659913087332,Low Risk
+31,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,6833,Mid-High,6,6-10,6,6-10,0,0,0,0,0.6704114171925444,Medium Risk
+31,Female,Single,Research & Development,Healthcare Representative,2,No,0,6812,Mid-High,10,6-10,10,6-10,0,0,0,0,0.4139874023701564,Medium Risk
+59,Female,Single,Sales,Sales Executive,2,No,0,5171,Mid-High,13,11-20,6,6-10,0,0,0,0,0.2752124657967205,Low Risk
+43,Male,Married,Research & Development,Research Director,5,No,0,19740,High,25,21+,8,6-10,1,0,0,0,0.1519803998745132,Low Risk
+49,Male,Married,Research & Development,Manager,5,No,0,18711,High,23,21+,1,0-1,1,0,1,0,0.3542528985038334,Low Risk
+36,Male,Married,Research & Development,Research Scientist,1,No,0,3692,Mid-Low,12,11-20,11,11+,0,0,0,0,0.38243938634880537,Low Risk
+48,Male,Single,Research & Development,Laboratory Technician,1,No,0,2559,Low,7,6-10,1,0-1,0,0,1,0,0.6385936585286788,Medium Risk
+27,Male,Divorced,Research & Development,Research Scientist,1,No,0,2517,Low,5,3-5,5,4-5,3,0,0,0,0.18897320696902203,Low Risk
+29,Male,Divorced,Research & Development,Healthcare Representative,2,Yes,1,6623,Mid-High,6,6-10,6,6-10,2,0,0,0,0.46617996146737795,Medium Risk
+48,Male,Single,Research & Development,Research Director,5,No,0,18265,High,25,21+,1,0-1,0,0,1,0,0.4591707096491356,Medium Risk
+29,Female,Divorced,Research & Development,Research Director,4,No,0,16124,High,9,6-10,7,6-10,2,0,0,0,0.19719335230614904,Low Risk
+34,Female,Married,Research & Development,Research Scientist,1,No,0,2585,Low,2,0-2,1,0-1,0,0,1,0,0.7300903277860058,High Risk
+44,Male,Married,Sales,Manager,5,No,0,18213,High,26,21+,22,11+,1,0,0,0,0.18017647219454955,Low Risk
+33,Male,Divorced,Sales,Sales Executive,3,Yes,1,8380,High,10,6-10,9,6-10,2,0,0,0,0.4413857718259998,Medium Risk
+19,Female,Single,Research & Development,Research Scientist,1,Yes,1,2994,Mid-Low,1,0-2,1,0-1,0,0,1,0,0.9092692106927912,High Risk
+23,Male,Married,Research & Development,Research Scientist,1,No,0,1223,Low,1,0-2,1,0-1,1,0,1,0,0.7050711658126239,High Risk
+25,Male,Single,Sales,Sales Representative,1,Yes,1,1118,Low,1,0-2,1,0-1,0,1,1,1,0.9651108487703297,High Risk
+26,Male,Single,Research & Development,Research Scientist,1,Yes,1,2875,Low,8,6-10,8,6-10,0,1,0,0,0.8675277353258747,High Risk
+45,Female,Single,Sales,Manager,5,Yes,1,18824,High,26,21+,24,11+,0,0,0,1,0.4753254290757252,Medium Risk
+55,Male,Divorced,Research & Development,Healthcare Representative,4,Yes,1,13577,High,34,21+,33,11+,1,0,0,0,0.3230880889402494,Low Risk
+21,Female,Single,Research & Development,Laboratory Technician,1,No,0,2625,Low,2,0-2,2,2-3,0,0,1,1,0.781044105231711,High Risk
+46,Female,Married,Sales,Manager,5,No,0,18789,High,26,21+,11,11+,1,0,0,0,0.1516505084545504,Low Risk
+34,Female,Single,Sales,Sales Executive,2,Yes,1,4538,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.6875396465515189,Medium Risk
+51,Male,Divorced,Sales,Manager,5,Yes,1,19847,High,31,21+,29,11+,1,0,0,0,0.3093434764749097,Low Risk
+59,Male,Single,Research & Development,Manufacturing Director,3,No,0,10512,High,25,21+,9,6-10,0,0,0,0,0.1978965855497091,Low Risk
+34,Female,Divorced,Research & Development,Laboratory Technician,2,No,0,4444,Mid-Low,15,11-20,11,11+,2,0,0,0,0.21252769226038506,Low Risk
+28,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,2154,Low,5,3-5,4,4-5,0,1,0,0,0.8711538338659609,High Risk
+44,Male,Divorced,Research & Development,Manager,5,No,0,19190,High,26,21+,25,11+,2,0,0,0,0.12147475777773775,Low Risk
+34,Male,Married,Human Resources,Human Resources,2,No,0,4490,Mid-Low,14,11-20,10,6-10,2,0,0,0,0.21476583403887345,Low Risk
+35,Male,Married,Research & Development,Research Scientist,1,Yes,1,3506,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.662114348145229,Medium Risk
+42,Female,Married,Research & Development,Research Scientist,2,Yes,1,2372,Low,18,11-20,1,0-1,0,1,1,0,0.9294743297402768,High Risk
+43,Female,Single,Sales,Sales Executive,3,No,0,10231,High,23,21+,21,11+,0,0,0,0,0.2987813312091412,Low Risk
+36,Female,Single,Research & Development,Manufacturing Director,2,Yes,1,5410,Mid-High,18,11-20,16,11+,0,0,0,0,0.6151420384893826,Medium Risk
+44,Female,Married,Research & Development,Healthcare Representative,3,No,0,7978,Mid-High,10,6-10,10,6-10,1,0,0,1,0.27399533489015165,Low Risk
+28,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,3867,Mid-Low,2,0-2,2,2-3,1,0,1,0,0.8333721135870507,High Risk
+51,Female,Single,Research & Development,Laboratory Technician,1,No,0,2838,Low,8,6-10,7,6-10,0,0,0,0,0.3365442983567443,Low Risk
+30,Female,Single,Research & Development,Manufacturing Director,2,Yes,1,4695,Mid-Low,10,6-10,8,6-10,0,0,0,0,0.6803986886059062,Medium Risk
+29,Female,Divorced,Research & Development,Laboratory Technician,1,Yes,1,3339,Mid-Low,10,6-10,7,6-10,2,0,0,1,0.447166113479844,Medium Risk
+28,Male,Single,Research & Development,Research Scientist,1,No,0,2080,Low,5,3-5,3,2-3,0,0,0,0,0.4669562304663002,Medium Risk
+25,Female,Single,Research & Development,Research Scientist,1,No,0,2096,Low,2,0-2,2,2-3,0,0,1,0,0.7716461352797512,High Risk
+32,Male,Married,Sales,Sales Executive,2,No,0,6209,Mid-High,10,6-10,10,6-10,2,0,0,0,0.2255108262812277,Low Risk
+45,Female,Single,Research & Development,Manager,5,No,0,18061,High,22,21+,0,0-1,0,0,1,0,0.49509645786511347,Medium Risk
+39,Female,Divorced,Research & Development,Manager,4,Yes,1,17123,High,21,21+,19,11+,2,0,0,0,0.29842297785793365,Low Risk
+58,Male,Divorced,Research & Development,Research Scientist,1,No,0,2372,Low,2,0-2,2,2-3,2,0,1,0,0.4083014927025179,Medium Risk
+32,Male,Married,Research & Development,Laboratory Technician,2,No,0,4883,Mid-Low,10,6-10,10,6-10,1,0,0,1,0.3284537468923399,Low Risk
+39,Male,Single,Research & Development,Research Scientist,1,No,0,3904,Mid-Low,6,6-10,5,4-5,0,0,0,1,0.38760253640620296,Low Risk
+30,Female,Married,Research & Development,Laboratory Technician,2,No,0,4627,Mid-Low,10,6-10,9,6-10,1,0,0,0,0.3378265777591043,Low Risk
+36,Female,Married,Research & Development,Healthcare Representative,3,No,0,7094,Mid-High,10,6-10,7,6-10,0,0,0,0,0.41290676921469854,Medium Risk
+46,Female,Single,Human Resources,Human Resources,1,No,0,3423,Mid-Low,10,6-10,7,6-10,0,0,0,0,0.3400374653724929,Low Risk
+28,Female,Married,Research & Development,Laboratory Technician,2,No,0,6674,Mid-High,10,6-10,9,6-10,3,0,0,0,0.16281606550717634,Low Risk
+50,Female,Married,Research & Development,Research Director,4,Yes,1,16880,High,25,21+,3,2-3,0,0,0,0,0.38254620345315654,Low Risk
+40,Male,Single,Sales,Sales Executive,3,Yes,1,9094,High,9,6-10,5,4-5,0,0,0,1,0.6129698324670964,Medium Risk
+52,Male,Single,Sales,Sales Executive,3,Yes,1,8446,High,10,6-10,8,6-10,0,0,0,1,0.5638478542911657,Medium Risk
+30,Female,Married,Research & Development,Manager,3,Yes,1,11916,High,9,6-10,9,6-10,2,0,0,0,0.41768777168506593,Medium Risk
+39,Male,Single,Research & Development,Manufacturing Director,2,No,0,4534,Mid-Low,9,6-10,8,6-10,0,0,0,0,0.4041870035725373,Medium Risk
+31,Female,Divorced,Sales,Sales Executive,3,Yes,1,9852,High,10,6-10,10,6-10,1,0,0,0,0.5471116985942672,Medium Risk
+41,Male,Single,Sales,Sales Executive,2,No,0,6151,Mid-High,19,11-20,19,11+,0,0,0,0,0.34087658895944617,Low Risk
+31,Female,Single,Sales,Sales Representative,1,Yes,1,2302,Low,3,3-5,3,2-3,0,1,0,1,0.868263074456548,High Risk
+44,Male,Married,Research & Development,Laboratory Technician,1,No,0,2362,Low,10,6-10,3,2-3,0,0,0,1,0.3508266541745932,Low Risk
+42,Male,Married,Research & Development,Manager,4,Yes,1,17861,High,21,21+,20,11+,0,0,0,0,0.4886753718394744,Medium Risk
+55,Female,Married,Research & Development,Manager,5,No,0,19187,High,23,21+,19,11+,1,0,0,0,0.14871438336418144,Low Risk
+56,Male,Single,Human Resources,Manager,5,No,0,19717,High,36,21+,7,6-10,0,0,0,0,0.13512903709143906,Low Risk
+40,Male,Divorced,Research & Development,Research Scientist,1,No,0,3544,Mid-Low,6,6-10,4,4-5,1,0,0,0,0.2849524248677892,Low Risk
+34,Male,Divorced,Research & Development,Healthcare Representative,3,No,0,8500,High,10,6-10,9,6-10,1,0,0,0,0.3080524610565807,Low Risk
+40,Male,Single,Research & Development,Research Scientist,2,No,0,4661,Mid-Low,9,6-10,9,6-10,0,0,0,0,0.4006046923335055,Medium Risk
+41,Female,Divorced,Sales,Sales Executive,2,No,0,4103,Mid-Low,10,6-10,9,6-10,1,0,0,0,0.29506974978133854,Low Risk
+35,Male,Single,Research & Development,Research Scientist,2,Yes,1,4249,Mid-Low,9,6-10,9,6-10,0,0,0,0,0.6719310450871231,Medium Risk
+51,Male,Divorced,Human Resources,Manager,4,Yes,1,14026,High,33,21+,33,11+,1,0,0,0,0.34226157167677734,Low Risk
+38,Female,Divorced,Sales,Sales Executive,2,No,0,6893,Mid-High,11,11-20,7,6-10,1,0,0,0,0.26717878707027476,Low Risk
+34,Female,Single,Sales,Sales Executive,2,No,0,6125,Mid-High,10,6-10,10,6-10,0,0,0,0,0.4078610647949035,Medium Risk
+25,Male,Married,Research & Development,Laboratory Technician,1,No,0,3669,Mid-Low,7,6-10,3,2-3,3,0,0,0,0.1740712908507582,Low Risk
+58,Female,Married,Research & Development,Manufacturing Director,3,Yes,1,10008,High,31,21+,10,6-10,0,0,0,1,0.3745600936173708,Low Risk
+40,Male,Married,Research & Development,Laboratory Technician,1,No,0,2387,Low,7,6-10,4,4-5,1,0,0,0,0.29170524742057546,Low Risk
+36,Female,Married,Sales,Sales Executive,2,No,0,4639,Mid-Low,17,11-20,15,11+,1,0,0,0,0.28513413856543274,Low Risk
+48,Male,Single,Research & Development,Manufacturing Director,3,No,0,7898,Mid-High,11,11-20,10,6-10,0,0,0,0,0.3471772645332468,Low Risk
+27,Female,Married,Sales,Sales Representative,1,No,0,2534,Low,5,3-5,1,0-1,1,0,1,0,0.6475649460210272,Medium Risk
+51,Female,Single,Research & Development,Manufacturing Director,4,No,0,13142,High,29,21+,5,4-5,0,0,0,0,0.20011310100335775,Low Risk
+18,Female,Single,Research & Development,Laboratory Technician,1,No,0,1611,Low,0,0-2,0,0-1,0,0,1,0,0.8050508208091613,High Risk
+35,Female,Married,Research & Development,Laboratory Technician,2,No,0,5363,Mid-High,10,6-10,9,6-10,1,0,0,0,0.3069826366198675,Low Risk
+27,Male,Single,Sales,Sales Executive,2,No,0,5071,Mid-High,8,6-10,6,6-10,0,0,0,0,0.4583742082577616,Medium Risk
+55,Male,Single,Sales,Sales Executive,4,Yes,1,13695,High,24,21+,19,11+,0,0,0,1,0.45295175774201346,Medium Risk
+56,Male,Married,Research & Development,Manufacturing Director,4,Yes,1,13402,High,33,21+,19,11+,1,0,0,0,0.2900879139258113,Low Risk
+34,Female,Divorced,Research & Development,Research Scientist,1,No,0,2029,Low,5,3-5,5,4-5,3,0,0,0,0.17157779635209033,Low Risk
+40,Female,Divorced,Research & Development,Healthcare Representative,2,No,0,6377,Mid-High,15,11-20,12,11+,3,0,0,0,0.12227239327855226,Low Risk
+34,Male,Married,Research & Development,Laboratory Technician,2,No,0,5429,Mid-High,10,6-10,8,6-10,2,0,0,0,0.22126128841083387,Low Risk
+31,Female,Single,Sales,Sales Representative,1,No,0,2785,Low,3,3-5,1,0-1,0,0,1,1,0.7345840003463552,High Risk
+35,Female,Married,Sales,Sales Executive,2,Yes,1,4614,Mid-Low,5,3-5,4,4-5,1,0,0,1,0.5743437110050534,Medium Risk
+38,Male,Divorced,Research & Development,Research Scientist,1,No,0,2610,Low,4,3-5,4,4-5,3,0,0,0,0.1582449263504262,Low Risk
+34,Female,Single,Research & Development,Healthcare Representative,2,No,0,6687,Mid-High,14,11-20,14,11+,0,0,0,0,0.3857052346588132,Low Risk
+28,Male,Married,Sales,Sales Executive,2,No,0,4724,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.3667730623695206,Low Risk
+31,Male,Married,Research & Development,Manufacturing Director,2,Yes,1,6179,Mid-High,10,6-10,10,6-10,2,0,0,1,0.44618949635111693,Medium Risk
+39,Male,Married,Sales,Sales Executive,2,Yes,1,6120,Mid-High,8,6-10,5,4-5,2,0,0,0,0.40555903211451766,Medium Risk
+51,Male,Married,Sales,Sales Executive,3,No,0,10596,High,14,11-20,4,4-5,0,0,0,0,0.27032680090620026,Low Risk
+41,Female,Divorced,Research & Development,Research Scientist,2,Yes,1,5467,Mid-High,12,11-20,6,6-10,2,0,0,0,0.3801727066474128,Low Risk
+37,Male,Married,Research & Development,Research Scientist,1,Yes,1,2996,Mid-Low,8,6-10,6,6-10,0,0,0,0,0.6418316616010771,Medium Risk
+33,Male,Married,Sales,Sales Executive,2,No,0,9998,High,8,6-10,5,4-5,0,0,0,0,0.3631485089822694,Low Risk
+32,Male,Married,Sales,Sales Executive,2,Yes,1,4078,Mid-Low,4,3-5,3,2-3,3,0,0,0,0.3793002042683024,Low Risk
+39,Male,Married,Research & Development,Healthcare Representative,3,No,0,10920,High,13,11-20,6,6-10,1,0,0,0,0.23862884065190199,Low Risk
+25,Male,Married,Sales,Sales Executive,2,No,0,6232,Mid-High,6,6-10,3,2-3,0,0,0,0,0.45813540084676835,Medium Risk
+52,Female,Married,Research & Development,Manufacturing Director,4,Yes,1,13247,High,24,21+,5,4-5,1,0,0,0,0.32639216072992844,Low Risk
+43,Female,Single,Research & Development,Research Scientist,2,Yes,1,4081,Mid-Low,20,11-20,20,11+,0,0,0,0,0.5959421272509274,Medium Risk
+27,Female,Married,Sales,Sales Executive,2,Yes,1,5769,Mid-High,6,6-10,6,6-10,0,0,0,0,0.7001672230344018,High Risk
+27,Female,Single,Research & Development,Research Scientist,1,Yes,1,2394,Low,8,6-10,8,6-10,0,1,0,1,0.8680828099142306,High Risk
+26,Male,Single,Research & Development,Research Scientist,1,No,0,3904,Mid-Low,5,3-5,4,4-5,0,0,0,0,0.45632139750750284,Medium Risk
+42,Female,Married,Human Resources,Manager,4,No,0,16799,High,21,21+,20,11+,1,0,0,0,0.19250163089621866,Low Risk
+52,Female,Married,Research & Development,Laboratory Technician,1,No,0,2950,Mid-Low,12,11-20,5,4-5,0,0,0,0,0.30114111294838747,Low Risk
+37,Female,Single,Research & Development,Laboratory Technician,1,No,0,3629,Mid-Low,8,6-10,3,2-3,0,0,0,0,0.3816437487359611,Low Risk
+35,Male,Single,Research & Development,Manufacturing Director,3,No,0,9362,High,10,6-10,2,2-3,0,0,0,0,0.3746311468799435,Low Risk
+25,Male,Married,Research & Development,Laboratory Technician,1,No,0,3229,Mid-Low,7,6-10,3,2-3,1,0,0,0,0.346090167839839,Low Risk
+26,Male,Single,Research & Development,Laboratory Technician,1,No,0,3578,Mid-Low,8,6-10,7,6-10,0,0,0,0,0.4488732940389538,Medium Risk
+29,Male,Single,Human Resources,Human Resources,3,No,0,7988,Mid-High,10,6-10,10,6-10,0,0,0,0,0.44554667319651875,Medium Risk
+49,Male,Single,Research & Development,Laboratory Technician,2,No,0,4284,Mid-Low,20,11-20,4,4-5,0,0,0,1,0.28141244846807545,Low Risk
+29,Female,Single,Research & Development,Healthcare Representative,3,Yes,1,7553,Mid-High,9,6-10,8,6-10,0,0,0,1,0.6906935624316889,Medium Risk
+54,Female,Single,Research & Development,Research Director,4,No,0,17328,High,29,21+,20,11+,0,0,0,0,0.18494367077543755,Low Risk
+58,Female,Married,Research & Development,Research Director,5,Yes,1,19701,High,32,21+,9,6-10,1,0,0,0,0.22919022612323092,Low Risk
+55,Male,Divorced,Research & Development,Research Director,4,No,0,14732,High,31,21+,7,6-10,2,0,0,0,0.077241545120625,Low Risk
+36,Female,Single,Sales,Sales Executive,2,Yes,1,9278,High,15,11-20,5,4-5,0,0,0,0,0.5533250609341973,Medium Risk
+31,Female,Single,Sales,Sales Representative,1,No,0,1359,Low,1,0-2,1,0-1,0,0,1,1,0.759364976280564,High Risk
+30,Female,Divorced,Sales,Sales Executive,2,No,0,4779,Mid-Low,8,6-10,3,2-3,2,0,0,0,0.24094976858710848,Low Risk
+31,Female,Single,Research & Development,Research Director,4,No,0,16422,High,9,6-10,3,2-3,0,0,0,0,0.35155698956186093,Low Risk
+34,Male,Divorced,Research & Development,Research Scientist,1,No,0,2996,Mid-Low,10,6-10,4,4-5,2,0,0,0,0.20930632806842547,Low Risk
+31,Female,Single,Research & Development,Research Scientist,1,No,0,1261,Low,1,0-2,1,0-1,0,0,1,1,0.7603070464781423,High Risk
+27,Male,Married,Research & Development,Laboratory Technician,1,No,0,2099,Low,6,6-10,5,4-5,0,0,0,0,0.4709522495559175,Medium Risk
+36,Male,Single,Research & Development,Laboratory Technician,2,No,0,5810,Mid-High,10,6-10,10,6-10,0,0,0,0,0.4019803724309579,Medium Risk
+36,Female,Married,Sales,Sales Executive,2,No,0,5647,Mid-High,11,11-20,3,2-3,2,0,0,0,0.19776596100263158,Low Risk
+47,Male,Married,Research & Development,Research Scientist,1,No,0,3420,Mid-Low,17,11-20,6,6-10,1,0,0,0,0.2073742416414609,Low Risk
+25,Male,Married,Sales,Sales Representative,1,No,0,4400,Mid-Low,6,6-10,3,2-3,0,0,0,1,0.44494402362195545,Medium Risk
+37,Male,Single,Research & Development,Laboratory Technician,1,No,0,3500,Mid-Low,7,6-10,6,6-10,0,0,0,0,0.39870463857130223,Low Risk
+56,Female,Married,Research & Development,Research Scientist,1,No,0,2066,Low,5,3-5,3,2-3,1,0,0,0,0.2396832561657934,Low Risk
+47,Female,Married,Research & Development,Research Director,4,No,0,17169,High,26,21+,20,11+,2,0,0,0,0.10481687401940352,Low Risk
+24,Female,Married,Sales,Sales Executive,2,Yes,1,4162,Mid-Low,5,3-5,5,4-5,2,0,0,0,0.5280697343423025,Medium Risk
+32,Male,Married,Sales,Sales Executive,2,No,0,9204,High,7,6-10,4,4-5,1,0,0,0,0.28242777647391987,Low Risk
+34,Female,Married,Research & Development,Laboratory Technician,1,No,0,3294,Mid-Low,7,6-10,5,4-5,1,0,0,0,0.3101099885010765,Low Risk
+41,Male,Married,Research & Development,Research Scientist,1,Yes,1,2127,Low,7,6-10,4,4-5,0,1,0,0,0.8306232252818327,High Risk
+40,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,3975,Mid-Low,11,11-20,8,6-10,2,0,0,0,0.20870103256687098,Low Risk
+31,Male,Divorced,Sales,Sales Executive,3,No,0,10793,High,13,11-20,13,11+,1,0,0,0,0.28833678696281434,Low Risk
+46,Male,Divorced,Sales,Sales Executive,3,No,0,10096,High,28,21+,7,6-10,1,0,0,1,0.15861339542456904,Low Risk
+39,Female,Single,Research & Development,Laboratory Technician,1,Yes,1,3646,Mid-Low,11,11-20,1,0-1,0,0,1,1,0.8292080469290238,High Risk
+31,Female,Single,Research & Development,Manufacturing Director,3,No,0,7446,Mid-High,10,6-10,10,6-10,0,0,0,1,0.4424737840747486,Medium Risk
+45,Male,Divorced,Research & Development,Healthcare Representative,3,Yes,1,10851,High,24,21+,7,6-10,1,0,0,0,0.3589269522677018,Low Risk
+31,Female,Single,Human Resources,Human Resources,1,No,0,2109,Low,8,6-10,3,2-3,0,0,0,0,0.4305741784618097,Medium Risk
+31,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,3722,Mid-Low,7,6-10,2,2-3,1,0,0,1,0.5493750578864491,Medium Risk
+45,Male,Married,Research & Development,Manufacturing Director,3,Yes,1,9380,High,10,6-10,3,2-3,2,0,0,0,0.35252252316712746,Low Risk
+48,Male,Divorced,Sales,Sales Executive,2,No,0,5486,Mid-High,15,11-20,2,2-3,3,0,0,0,0.09876053485764758,Low Risk
+34,Female,Married,Human Resources,Human Resources,1,No,0,2742,Low,2,0-2,2,2-3,0,0,1,1,0.7308822160498002,High Risk
+40,Male,Divorced,Research & Development,Research Director,3,No,0,13757,High,16,11-20,9,6-10,1,0,0,0,0.20142767971946715,Low Risk
+28,Male,Single,Sales,Sales Executive,2,No,0,8463,High,6,6-10,5,4-5,0,0,0,0,0.42011788087698476,Medium Risk
+44,Male,Single,Research & Development,Laboratory Technician,1,No,0,3162,Mid-Low,7,6-10,5,4-5,0,0,0,0,0.3661312332336464,Low Risk
+53,Male,Single,Research & Development,Research Director,4,No,0,16598,High,35,21+,9,6-10,0,0,0,0,0.15088198603713326,Low Risk
+49,Male,Married,Research & Development,Healthcare Representative,2,No,0,6651,Mid-High,20,11-20,3,2-3,1,0,0,0,0.1789841124907565,Low Risk
+40,Male,Divorced,Research & Development,Research Scientist,1,No,0,2345,Low,8,6-10,3,2-3,1,0,0,0,0.2838924592791964,Low Risk
+44,Male,Single,Research & Development,Research Scientist,1,No,0,3420,Mid-Low,6,6-10,5,4-5,0,0,0,0,0.36949056613277204,Low Risk
+33,Male,Married,Sales,Sales Executive,2,No,0,4373,Mid-Low,5,3-5,4,4-5,2,0,0,0,0.25139542355660033,Low Risk
+34,Male,Single,Sales,Sales Executive,2,No,0,4759,Mid-Low,15,11-20,13,11+,0,0,0,0,0.4003111064158998,Medium Risk
+30,Male,Married,Sales,Sales Executive,2,No,0,5301,Mid-High,4,3-5,2,2-3,2,0,0,0,0.25443108109599216,Low Risk
+42,Female,Single,Research & Development,Laboratory Technician,1,No,0,3673,Mid-Low,12,11-20,12,11+,0,0,0,0,0.35688475208457165,Low Risk
+44,Female,Married,Sales,Sales Executive,2,No,0,4768,Mid-Low,11,11-20,1,0-1,1,0,1,0,0.5308914032053758,Medium Risk
+30,Male,Divorced,Research & Development,Research Scientist,1,No,0,1274,Low,1,0-2,1,0-1,2,0,1,0,0.5687083890530653,Medium Risk
+57,Male,Married,Research & Development,Research Scientist,2,No,0,4900,Mid-Low,13,11-20,12,11+,1,0,0,0,0.21617434882887915,Low Risk
+49,Male,Divorced,Research & Development,Healthcare Representative,3,No,0,10466,High,29,21+,8,6-10,2,0,0,0,0.0984901779854458,Low Risk
+34,Male,Divorced,Research & Development,Research Director,4,No,0,17007,High,16,11-20,14,11+,2,0,0,0,0.15933828472456002,Low Risk
+28,Male,Married,Sales,Sales Representative,1,No,0,2909,Low,5,3-5,3,2-3,1,0,0,1,0.3486824572305389,Low Risk
+29,Female,Single,Sales,Sales Executive,2,No,0,5765,Mid-High,7,6-10,5,4-5,0,0,0,1,0.4430724629819424,Medium Risk
+34,Female,Single,Sales,Sales Executive,2,Yes,1,4599,Mid-Low,16,11-20,15,11+,0,0,0,1,0.6448513838103694,Medium Risk
+35,Male,Married,Sales,Sales Representative,1,No,0,2404,Low,1,0-2,1,0-1,1,0,1,0,0.6372288500264509,Medium Risk
+24,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,3172,Mid-Low,4,3-5,0,0-1,0,0,1,1,0.890558886172093,High Risk
+24,Female,Married,Sales,Sales Representative,1,No,0,2033,Low,1,0-2,1,0-1,1,0,1,0,0.691767557466871,Medium Risk
+44,Male,Single,Research & Development,Manufacturing Director,3,Yes,1,10209,High,16,11-20,2,2-3,0,0,0,0,0.5214701503554546,Medium Risk
+29,Male,Divorced,Sales,Sales Executive,2,No,0,8620,High,10,6-10,10,6-10,2,0,0,0,0.2142755180222757,Low Risk
+30,Male,Divorced,Human Resources,Human Resources,1,No,0,2064,Low,6,6-10,5,4-5,1,0,0,0,0.34869632911011883,Low Risk
+55,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,4035,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.5949935045478285,Medium Risk
+33,Female,Married,Research & Development,Laboratory Technician,1,No,0,3838,Mid-Low,8,6-10,5,4-5,0,0,0,0,0.40443896644728744,Medium Risk
+47,Female,Married,Sales,Sales Executive,2,Yes,1,4591,Mid-Low,11,11-20,5,4-5,1,0,0,0,0.47474054541997435,Medium Risk
+28,Male,Single,Research & Development,Laboratory Technician,1,No,0,2561,Low,8,6-10,0,0-1,0,0,1,1,0.7188614814335806,High Risk
+28,Male,Divorced,Research & Development,Research Scientist,1,No,0,1563,Low,1,0-2,1,0-1,1,0,1,0,0.6794305582446551,Medium Risk
+28,Male,Single,Sales,Sales Executive,2,No,0,4898,Mid-Low,5,3-5,4,4-5,0,0,0,0,0.47034814512663,Medium Risk
+49,Female,Married,Research & Development,Laboratory Technician,2,No,0,4789,Mid-Low,10,6-10,3,2-3,1,0,0,0,0.24144430316808463,Low Risk
+29,Female,Married,Research & Development,Laboratory Technician,1,No,0,3180,Mid-Low,4,3-5,3,2-3,3,0,0,0,0.1781154619288172,Low Risk
+28,Male,Married,Research & Development,Manufacturing Director,2,No,0,6549,Mid-High,8,6-10,8,6-10,2,0,0,0,0.24264055360428924,Low Risk
+33,Male,Single,Research & Development,Healthcare Representative,2,Yes,1,6388,Mid-High,14,11-20,0,0-1,0,0,1,0,0.8336815840242816,High Risk
+32,Male,Single,Research & Development,Manager,3,No,0,11244,High,10,6-10,5,4-5,0,0,0,0,0.37445237101708717,Low Risk
+54,Female,Divorced,Research & Development,Manager,4,No,0,16032,High,26,21+,14,11+,1,0,0,0,0.1354771664889126,Low Risk
+29,Male,Single,Research & Development,Research Scientist,1,No,0,2362,Low,11,11-20,9,6-10,0,0,0,1,0.43482412460364206,Medium Risk
+44,Male,Married,Research & Development,Research Director,4,No,0,16328,High,24,21+,20,11+,1,0,0,0,0.17738895596497772,Low Risk
+39,Female,Single,Research & Development,Manufacturing Director,3,No,0,8376,Mid-High,9,6-10,2,2-3,0,0,0,0,0.3741580918011028,Low Risk
+46,Female,Married,Sales,Manager,4,No,0,16606,High,23,21+,13,11+,1,0,0,0,0.161407412255159,Low Risk
+35,Female,Single,Research & Development,Healthcare Representative,3,No,0,8606,High,11,11-20,11,11+,0,0,0,0,0.40372243156396376,Medium Risk
+23,Male,Single,Research & Development,Laboratory Technician,2,No,0,2272,Low,5,3-5,4,4-5,0,0,0,0,0.5304831118017528,Medium Risk
+40,Male,Single,Research & Development,Laboratory Technician,1,No,0,2018,Low,15,11-20,5,4-5,0,0,0,1,0.3473080463754585,Low Risk
+34,Male,Married,Sales,Sales Executive,3,Yes,1,7083,Mid-High,10,6-10,10,6-10,0,0,0,0,0.6730850760004132,Medium Risk
+31,Female,Single,Research & Development,Research Scientist,1,No,0,4084,Mid-Low,7,6-10,7,6-10,0,0,0,1,0.4240085870923762,Medium Risk
+50,Male,Single,Research & Development,Research Director,4,Yes,1,14411,High,32,21+,32,11+,0,0,0,0,0.45302133668410227,Medium Risk
+34,Male,Married,Sales,Sales Representative,1,Yes,1,2308,Low,12,11-20,11,11+,1,1,0,0,0.7722524866988569,High Risk
+42,Male,Married,Research & Development,Laboratory Technician,1,No,0,4841,Mid-Low,4,3-5,1,0-1,1,0,1,0,0.5516571629773712,Medium Risk
+37,Male,Married,Research & Development,Research Scientist,2,No,0,4285,Mid-Low,10,6-10,10,6-10,0,0,0,0,0.4164446239070176,Medium Risk
+29,Female,Married,Research & Development,Healthcare Representative,2,No,0,9715,High,9,6-10,7,6-10,1,0,0,0,0.2855555746339317,Low Risk
+33,Male,Single,Research & Development,Manufacturing Director,2,No,0,4320,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.4554920936409884,Medium Risk
+45,Male,Married,Research & Development,Research Scientist,1,No,0,2132,Low,8,6-10,5,4-5,1,0,0,0,0.2705316341075014,Low Risk
+42,Male,Married,Research & Development,Healthcare Representative,3,Yes,1,10124,High,24,21+,20,11+,1,0,0,0,0.4205725873684586,Medium Risk
+40,Male,Married,Sales,Sales Executive,2,No,0,5473,Mid-High,9,6-10,8,6-10,0,0,0,0,0.3874571799558393,Low Risk
+33,Male,Married,Research & Development,Laboratory Technician,2,Yes,1,5207,Mid-High,15,11-20,15,11+,1,0,0,0,0.540956896889486,Medium Risk
+40,Male,Single,Human Resources,Manager,4,Yes,1,16437,High,21,21+,21,11+,0,0,0,0,0.5207379059502676,Medium Risk
+24,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2296,Low,2,0-2,1,0-1,3,0,1,0,0.46727392635984755,Medium Risk
+40,Male,Divorced,Research & Development,Healthcare Representative,2,Yes,1,4069,Mid-Low,8,6-10,2,2-3,0,0,0,0,0.6378177438501572,Medium Risk
+45,Male,Divorced,Research & Development,Healthcare Representative,3,No,0,7441,Mid-High,10,6-10,10,6-10,3,0,0,0,0.13420822959859915,Low Risk
+35,Female,Married,Sales,Sales Representative,1,No,0,2430,Low,6,6-10,5,4-5,2,0,0,0,0.23230340995775126,Low Risk
+32,Female,Married,Research & Development,Research Scientist,2,No,0,5878,Mid-High,12,11-20,7,6-10,1,0,0,0,0.2972231909947793,Low Risk
+36,Male,Single,Sales,Sales Representative,1,Yes,1,2644,Low,7,6-10,3,2-3,0,1,0,0,0.8392989739454265,High Risk
+48,Female,Divorced,Sales,Sales Executive,2,No,0,6439,Mid-High,18,11-20,8,6-10,1,0,0,0,0.20196820715582753,Low Risk
+29,Male,Married,Research & Development,Research Scientist,1,No,0,2451,Low,5,3-5,1,0-1,2,0,1,0,0.5306934298058986,Medium Risk
+33,Male,Married,Sales,Sales Executive,2,No,0,6392,Mid-High,8,6-10,2,2-3,1,0,0,0,0.2978738102706557,Low Risk
+30,Male,Married,Sales,Sales Executive,2,No,0,9714,High,10,6-10,10,6-10,1,0,0,1,0.28319351825432554,Low Risk
+38,Male,Married,Human Resources,Human Resources,2,No,0,6077,Mid-High,10,6-10,6,6-10,0,0,0,0,0.37719869019217556,Low Risk
+35,Male,Single,Research & Development,Laboratory Technician,1,No,0,2450,Low,3,3-5,3,2-3,0,0,0,0,0.4404638386372499,Medium Risk
+30,Male,Married,Sales,Sales Executive,3,No,0,9250,High,9,6-10,4,4-5,1,0,0,0,0.3099879379372247,Low Risk
+35,Female,Divorced,Research & Development,Laboratory Technician,1,Yes,1,2074,Low,1,0-2,1,0-1,1,1,1,1,0.9318787358227958,High Risk
+53,Female,Married,Research & Development,Manufacturing Director,3,No,0,10169,High,34,21+,33,11+,1,0,0,1,0.15915321027965823,Low Risk
+38,Male,Married,Research & Development,Manufacturing Director,2,No,0,4855,Mid-Low,7,6-10,5,4-5,2,0,0,1,0.2204826042587683,Low Risk
+32,Male,Married,Research & Development,Research Scientist,2,No,0,4087,Mid-Low,9,6-10,6,6-10,1,0,0,0,0.3330576780304296,Low Risk
+48,Female,Married,Research & Development,Research Scientist,1,No,0,2367,Low,10,6-10,8,6-10,1,0,0,0,0.2525603725422196,Low Risk
+34,Male,Single,Research & Development,Research Scientist,1,No,0,2972,Mid-Low,1,0-2,1,0-1,0,0,1,0,0.7315955084742891,High Risk
+55,Male,Married,Sales,Manager,5,No,0,19586,High,36,21+,36,11+,1,0,0,0,0.12772132828052388,Low Risk
+34,Male,Married,Research & Development,Research Scientist,2,No,0,5484,Mid-High,9,6-10,2,2-3,1,0,0,0,0.29772616355049875,Low Risk
+26,Female,Married,Research & Development,Research Scientist,1,No,0,2061,Low,1,0-2,1,0-1,0,0,1,0,0.7711328841644903,High Risk
+38,Male,Married,Sales,Sales Executive,2,No,0,9924,High,10,6-10,9,6-10,1,0,0,0,0.24674891297261908,Low Risk
+38,Female,Single,Sales,Sales Executive,2,No,0,4198,Mid-Low,8,6-10,3,2-3,0,0,0,0,0.4053371872051809,Medium Risk
+36,Female,Single,Sales,Sales Executive,2,No,0,6815,Mid-High,15,11-20,1,0-1,0,0,1,0,0.6263366922110631,Medium Risk
+29,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,4723,Mid-Low,10,6-10,10,6-10,0,0,0,0,0.6568841108572395,Medium Risk
+35,Female,Single,Research & Development,Healthcare Representative,2,Yes,1,6142,Mid-High,10,6-10,5,4-5,0,0,0,0,0.6318131780478176,Medium Risk
+39,Male,Married,Sales,Sales Executive,3,No,0,8237,Mid-High,11,11-20,7,6-10,1,0,0,0,0.2787828096894815,Low Risk
+29,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,8853,High,6,6-10,6,6-10,1,0,0,0,0.31006009976558374,Low Risk
+50,Male,Married,Sales,Manager,5,Yes,1,19331,High,27,21+,1,0-1,1,0,1,0,0.5572397804235247,Medium Risk
+23,Male,Married,Research & Development,Research Scientist,1,No,0,2073,Low,4,3-5,2,2-3,1,0,0,0,0.3863802674521254,Low Risk
+36,Male,Married,Research & Development,Laboratory Technician,2,Yes,1,5562,Mid-High,9,6-10,3,2-3,1,0,0,0,0.526154135845426,Medium Risk
+42,Male,Single,Research & Development,Manager,5,No,0,19613,High,24,21+,1,0-1,0,0,1,0,0.47909820679072945,Medium Risk
+35,Male,Married,Research & Development,Laboratory Technician,2,No,0,3407,Mid-Low,10,6-10,10,6-10,2,0,0,0,0.24090388690055098,Low Risk
+34,Male,Married,Research & Development,Healthcare Representative,2,No,0,5063,Mid-High,8,6-10,8,6-10,1,0,0,0,0.32427872121350737,Low Risk
+40,Female,Married,Sales,Sales Executive,2,No,0,4639,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.3126835556446384,Low Risk
+43,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,4876,Mid-Low,8,6-10,6,6-10,1,0,0,0,0.25290401030275605,Low Risk
+35,Male,Married,Research & Development,Laboratory Technician,1,No,0,2690,Low,1,0-2,1,0-1,1,0,1,0,0.6337389365212791,Medium Risk
+46,Male,Single,Sales,Manager,4,No,0,17567,High,27,21+,26,11+,0,0,0,0,0.2311255641008179,Low Risk
+28,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,2408,Low,1,0-2,1,0-1,3,1,1,1,0.8634471477734217,High Risk
+22,Female,Married,Research & Development,Research Scientist,1,Yes,1,2814,Low,4,3-5,4,4-5,0,1,0,0,0.8836509709157492,High Risk
+50,Male,Married,Research & Development,Healthcare Representative,4,Yes,1,11245,High,32,21+,30,11+,1,0,0,0,0.37869881136127925,Low Risk
+32,Female,Married,Research & Development,Research Scientist,1,No,0,3312,Mid-Low,6,6-10,3,2-3,2,0,0,0,0.23060486089714308,Low Risk
+44,Female,Divorced,Research & Development,Research Director,5,Yes,1,19049,High,23,21+,22,11+,1,0,0,0,0.38239380818039176,Low Risk
+30,Male,Married,Research & Development,Research Scientist,1,No,0,2141,Low,6,6-10,6,6-10,1,0,0,0,0.3505692245148856,Low Risk
+45,Female,Single,Research & Development,Laboratory Technician,2,Yes,1,5769,Mid-High,10,6-10,10,6-10,0,0,0,0,0.602554387167662,Medium Risk
+45,Male,Married,Sales,Sales Executive,2,No,0,4385,Mid-Low,10,6-10,10,6-10,1,0,0,0,0.27779050996020443,Low Risk
+31,Male,Single,Sales,Sales Executive,2,No,0,5332,Mid-High,10,6-10,5,4-5,0,0,0,0,0.4179959088697082,Medium Risk
+36,Female,Married,Research & Development,Manufacturing Director,2,Yes,1,4663,Mid-Low,7,6-10,3,2-3,2,0,0,0,0.4401257966044688,Medium Risk
+34,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,4724,Mid-Low,9,6-10,9,6-10,1,0,0,0,0.3247417771097686,Low Risk
+49,Female,Married,Research & Development,Laboratory Technician,1,No,0,3211,Mid-Low,10,6-10,9,6-10,1,0,0,0,0.2427483384849008,Low Risk
+39,Male,Married,Research & Development,Manufacturing Director,2,No,0,5377,Mid-High,10,6-10,7,6-10,3,0,0,0,0.13953226437094585,Low Risk
+27,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,4066,Mid-Low,7,6-10,7,6-10,2,0,0,0,0.24582816028821017,Low Risk
+35,Male,Married,Research & Development,Research Scientist,2,No,0,5208,Mid-High,16,11-20,16,11+,0,0,0,0,0.3918646397793633,Low Risk
+28,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,4877,Mid-Low,6,6-10,5,4-5,1,0,0,0,0.3584303344982387,Low Risk
+21,Male,Single,Research & Development,Research Scientist,1,No,0,3117,Mid-Low,3,3-5,2,2-3,0,0,0,0,0.5000713964307073,Medium Risk
+18,Female,Single,Sales,Sales Representative,1,Yes,1,1569,Low,0,0-2,0,0-1,0,1,1,1,0.9693962777324197,High Risk
+47,Female,Married,Human Resources,Manager,5,No,0,19658,High,27,21+,5,4-5,1,0,0,0,0.131268934301276,Low Risk
+39,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,3069,Mid-Low,11,11-20,10,6-10,1,0,0,0,0.3119187508125656,Low Risk
+40,Female,Married,Research & Development,Manufacturing Director,3,No,0,10435,High,18,11-20,18,11+,2,0,0,0,0.1684520474386375,Low Risk
+35,Female,Married,Research & Development,Healthcare Representative,2,No,0,4148,Mid-Low,15,11-20,14,11+,1,0,0,0,0.303859286349411,Low Risk
+37,Male,Married,Research & Development,Manufacturing Director,2,No,0,5768,Mid-High,9,6-10,4,4-5,3,0,0,0,0.14092623140635596,Low Risk
+39,Female,Single,Research & Development,Manufacturing Director,2,No,0,5042,Mid-High,10,6-10,9,6-10,0,0,0,0,0.3939937914900447,Low Risk
+45,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,5770,Mid-High,10,6-10,10,6-10,2,0,0,0,0.18585001418186592,Low Risk
+38,Female,Married,Research & Development,Manufacturing Director,3,Yes,1,7756,Mid-High,10,6-10,5,4-5,1,0,0,0,0.523597424100729,Medium Risk
+35,Male,Married,Sales,Sales Executive,3,No,0,10306,High,15,11-20,13,11+,0,0,0,1,0.3619065933519808,Low Risk
+37,Female,Married,Research & Development,Research Scientist,1,No,0,3936,Mid-Low,8,6-10,8,6-10,1,0,0,0,0.2919187724385458,Low Risk
+40,Female,Single,Research & Development,Manufacturing Director,3,Yes,1,7945,Mid-High,18,11-20,4,4-5,0,0,0,0,0.5635799879399218,Medium Risk
+44,Male,Married,Human Resources,Human Resources,2,Yes,1,5743,Mid-High,14,11-20,10,6-10,0,0,0,0,0.5807459854525446,Medium Risk
+48,Male,Married,Research & Development,Manager,4,No,0,15202,High,23,21+,2,2-3,1,0,0,0,0.14804057637664644,Low Risk
+35,Male,Divorced,Sales,Sales Executive,2,Yes,1,5440,Mid-High,7,6-10,2,2-3,2,0,0,1,0.432078597445106,Medium Risk
+24,Female,Single,Research & Development,Research Scientist,1,Yes,1,3760,Mid-Low,6,6-10,6,6-10,0,0,0,0,0.7038393311171182,High Risk
+27,Female,Married,Research & Development,Research Scientist,1,No,0,3517,Mid-Low,5,3-5,3,2-3,0,0,0,0,0.45324529384747464,Medium Risk
+27,Male,Single,Research & Development,Research Scientist,1,No,0,2580,Low,6,6-10,4,4-5,0,0,0,0,0.4615876230811901,Medium Risk
+40,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,2166,Low,10,6-10,4,4-5,0,1,0,1,0.8211827502827123,High Risk
+29,Male,Single,Sales,Sales Executive,2,No,0,5869,Mid-High,8,6-10,5,4-5,0,0,0,0,0.4348184376377145,Medium Risk
+36,Female,Married,Research & Development,Healthcare Representative,3,No,0,8008,Mid-High,9,6-10,3,2-3,2,0,0,0,0.2110117889424049,Low Risk
+25,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,5206,Mid-High,7,6-10,7,6-10,2,0,0,0,0.2708595486252589,Low Risk
+39,Male,Married,Research & Development,Manufacturing Director,2,No,0,5295,Mid-High,7,6-10,5,4-5,0,0,0,0,0.39916653043056527,Low Risk
+49,Female,Married,Research & Development,Research Director,4,No,0,16413,High,27,21+,4,4-5,2,0,0,0,0.08543365608329198,Low Risk
+50,Female,Divorced,Research & Development,Research Director,3,No,0,13269,High,19,11-20,14,11+,3,0,0,0,0.07749137629288012,Low Risk
+20,Female,Single,Sales,Sales Representative,1,No,0,2783,Low,2,0-2,2,2-3,0,0,1,0,0.7831193263526625,High Risk
+34,Female,Divorced,Research & Development,Research Scientist,2,No,0,5433,Mid-High,11,11-20,11,11+,1,0,0,0,0.3098320875059289,Low Risk
+36,Male,Single,Research & Development,Laboratory Technician,1,No,0,2013,Low,15,11-20,4,4-5,0,0,0,0,0.3633336704508601,Low Risk
+49,Female,Married,Research & Development,Healthcare Representative,4,Yes,1,13966,High,30,21+,15,11+,1,0,0,0,0.32164401234846257,Low Risk
+36,Female,Married,Research & Development,Manufacturing Director,2,No,0,4374,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.4404354912129043,Medium Risk
+36,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,6842,Mid-High,13,11-20,5,4-5,1,0,0,0,0.2600017089522391,Low Risk
+54,Female,Married,Research & Development,Manager,4,No,0,17426,High,36,21+,10,6-10,1,0,0,0,0.09480225884893731,Low Risk
+43,Male,Married,Research & Development,Research Director,4,No,0,17603,High,14,11-20,14,11+,1,0,0,0,0.20194558035817103,Low Risk
+35,Male,Single,Sales,Sales Executive,2,Yes,1,4581,Mid-Low,13,11-20,11,11+,0,0,0,1,0.6483685484809547,Medium Risk
+38,Male,Married,Research & Development,Research Scientist,2,No,0,4735,Mid-Low,19,11-20,13,11+,2,0,0,0,0.18322470161616156,Low Risk
+29,Male,Divorced,Sales,Sales Executive,2,Yes,1,4187,Mid-Low,10,6-10,10,6-10,1,0,0,0,0.5935480867223127,Medium Risk
+33,Male,Divorced,Sales,Sales Executive,2,No,0,5505,Mid-High,6,6-10,6,6-10,2,0,0,0,0.2397103639190102,Low Risk
+32,Male,Divorced,Research & Development,Research Scientist,2,No,0,5470,Mid-High,10,6-10,9,6-10,2,0,0,0,0.23019700499263607,Low Risk
+31,Female,Married,Sales,Sales Executive,2,No,0,5476,Mid-High,10,6-10,10,6-10,2,0,0,0,0.23600236135352798,Low Risk
+49,Female,Divorced,Research & Development,Laboratory Technician,1,Yes,1,2587,Low,17,11-20,2,2-3,1,1,0,0,0.6565725908321719,Medium Risk
+38,Female,Single,Research & Development,Laboratory Technician,1,No,0,2440,Low,4,3-5,4,4-5,0,0,0,0,0.42165155929283876,Medium Risk
+47,Female,Divorced,Sales,Manager,4,No,0,15972,High,29,21+,3,2-3,3,0,0,0,0.05605967505560655,Low Risk
+49,Male,Single,Research & Development,Manager,4,No,0,15379,High,23,21+,8,6-10,0,0,0,0,0.22143519944626003,Low Risk
+41,Male,Single,Sales,Sales Executive,3,Yes,1,7082,Mid-High,21,21+,2,2-3,0,0,0,0,0.5428858292381991,Medium Risk
+20,Male,Single,Sales,Sales Representative,1,No,0,2728,Low,2,0-2,2,2-3,0,0,1,0,0.7836110090779236,High Risk
+33,Female,Divorced,Sales,Sales Executive,2,Yes,1,5368,Mid-High,7,6-10,6,6-10,1,0,0,0,0.5669418997082152,Medium Risk
+36,Male,Married,Research & Development,Healthcare Representative,2,No,0,5347,Mid-High,10,6-10,3,2-3,2,0,0,0,0.2048138854278161,Low Risk
+44,Female,Divorced,Human Resources,Human Resources,1,Yes,1,3195,Mid-Low,8,6-10,2,2-3,3,0,0,0,0.2756344478198766,Low Risk
+23,Male,Single,Research & Development,Laboratory Technician,1,Yes,1,3989,Mid-Low,5,3-5,5,4-5,0,0,0,1,0.7088550352137029,High Risk
+38,Female,Married,Research & Development,Laboratory Technician,1,No,0,3306,Mid-Low,7,6-10,0,0-1,1,0,1,0,0.5680306273897832,Medium Risk
+53,Male,Married,Research & Development,Healthcare Representative,3,No,0,7005,Mid-High,11,11-20,4,4-5,0,0,0,0,0.3184980035192185,Low Risk
+48,Female,Married,Sales,Sales Representative,1,Yes,1,2655,Low,19,11-20,9,6-10,2,1,0,1,0.561228724313821,Medium Risk
+32,Male,Single,Research & Development,Laboratory Technician,1,No,0,1393,Low,1,0-2,1,0-1,0,0,1,1,0.7552682943515917,High Risk
+26,Male,Single,Research & Development,Laboratory Technician,1,No,0,2570,Low,7,6-10,7,6-10,0,0,0,0,0.4690181314337769,Medium Risk
+55,Male,Divorced,Research & Development,Research Scientist,1,No,0,3537,Mid-Low,8,6-10,4,4-5,1,0,0,0,0.2170011835258604,Low Risk
+34,Male,Married,Research & Development,Laboratory Technician,2,No,0,3986,Mid-Low,15,11-20,15,11+,1,0,0,0,0.3126711357260667,Low Risk
+60,Male,Divorced,Research & Development,Healthcare Representative,3,No,0,10883,High,19,11-20,1,0-1,1,0,1,0,0.3541317258046566,Low Risk
+33,Male,Married,Research & Development,Laboratory Technician,1,No,0,2028,Low,14,11-20,14,11+,3,0,0,0,0.15503522122432048,Low Risk
+37,Male,Divorced,Sales,Sales Executive,2,No,0,9525,High,6,6-10,6,6-10,2,0,0,0,0.19030457739889337,Low Risk
+34,Female,Married,Research & Development,Research Scientist,1,No,0,2929,Mid-Low,10,6-10,10,6-10,0,0,0,0,0.41235681099083477,Medium Risk
+23,Male,Divorced,Sales,Sales Representative,1,Yes,1,2275,Low,3,3-5,3,2-3,1,1,0,1,0.832340905981325,High Risk
+44,Female,Married,Research & Development,Healthcare Representative,3,Yes,1,7879,Mid-High,9,6-10,8,6-10,1,0,0,0,0.5074742419291627,Medium Risk
+35,Male,Single,Research & Development,Research Scientist,1,Yes,1,4930,Mid-High,6,6-10,5,4-5,0,0,0,0,0.6378919664630563,Medium Risk
+43,Male,Married,Sales,Sales Executive,2,Yes,1,7847,Mid-High,10,6-10,10,6-10,1,0,0,0,0.47473565209797863,Medium Risk
+24,Male,Married,Research & Development,Research Scientist,1,No,0,4401,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.3550652697513682,Low Risk
+41,Male,Single,Sales,Sales Executive,3,No,0,9241,High,10,6-10,10,6-10,0,0,0,0,0.37035796660541215,Low Risk
+29,Female,Married,Research & Development,Laboratory Technician,1,No,0,2974,Mid-Low,9,6-10,5,4-5,1,0,0,0,0.3238079692127503,Low Risk
+36,Female,Single,Sales,Sales Representative,2,No,0,4502,Mid-Low,17,11-20,13,11+,0,0,0,0,0.38043407189996975,Low Risk
+45,Male,Married,Research & Development,Healthcare Representative,3,No,0,10748,High,25,21+,23,11+,1,0,0,0,0.19755759444036652,Low Risk
+24,Male,Married,Human Resources,Human Resources,1,No,0,1555,Low,1,0-2,1,0-1,1,0,1,1,0.6971105112981282,Medium Risk
+47,Male,Married,Sales,Sales Executive,4,No,0,12936,High,25,21+,23,11+,0,0,0,1,0.2770151863915171,Low Risk
+26,Male,Married,Research & Development,Laboratory Technician,1,No,0,2305,Low,3,3-5,3,2-3,3,0,0,0,0.19884358957984227,Low Risk
+45,Female,Single,Research & Development,Research Director,4,No,0,16704,High,21,21+,21,11+,0,0,0,0,0.26323136778034195,Low Risk
+32,Male,Married,Research & Development,Research Scientist,1,No,0,3433,Mid-Low,10,6-10,5,4-5,1,0,0,0,0.2994239150825665,Low Risk
+31,Male,Married,Research & Development,Laboratory Technician,1,No,0,3477,Mid-Low,6,6-10,5,4-5,1,0,0,0,0.32745722274923866,Low Risk
+41,Male,Married,Human Resources,Human Resources,2,No,0,6430,Mid-High,10,6-10,3,2-3,1,0,0,0,0.2559311081838384,Low Risk
+40,Female,Married,Research & Development,Manufacturing Director,2,Yes,1,6516,Mid-High,18,11-20,1,0-1,1,0,1,0,0.71362389243309,High Risk
+24,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,3907,Mid-Low,6,6-10,6,6-10,3,0,0,0,0.18479914696529848,Low Risk
+46,Male,Single,Research & Development,Healthcare Representative,2,No,0,5562,Mid-High,19,11-20,10,6-10,0,0,0,0,0.30121992037284706,Low Risk
+35,Male,Married,Research & Development,Manufacturing Director,2,No,0,6883,Mid-High,17,11-20,7,6-10,1,0,0,0,0.24690513737605937,Low Risk
+30,Male,Married,Research & Development,Research Scientist,1,No,0,2862,Low,10,6-10,10,6-10,1,0,0,0,0.3279436013749177,Low Risk
+47,Male,Married,Sales,Sales Executive,2,No,0,4978,Mid-High,4,3-5,1,0-1,1,0,1,0,0.561543591488062,Medium Risk
+46,Male,Divorced,Sales,Sales Executive,3,Yes,1,10368,High,13,11-20,10,6-10,1,0,0,0,0.4428057231279558,Medium Risk
+36,Male,Divorced,Sales,Sales Executive,2,Yes,1,6134,Mid-High,16,11-20,2,2-3,3,0,0,1,0.26277896394880074,Low Risk
+32,Male,Single,Sales,Sales Executive,2,No,0,6735,Mid-High,10,6-10,0,0-1,0,0,1,1,0.6749464824085312,Medium Risk
+23,Female,Single,Research & Development,Laboratory Technician,1,No,0,3295,Mid-Low,3,3-5,3,2-3,0,0,0,0,0.4905517290831995,Medium Risk
+31,Female,Single,Research & Development,Manufacturing Director,2,No,0,5238,Mid-High,9,6-10,5,4-5,0,0,0,0,0.4260425723107844,Medium Risk
+39,Male,Married,Research & Development,Laboratory Technician,2,Yes,1,6472,Mid-High,9,6-10,9,6-10,1,0,0,0,0.5172513082305328,Medium Risk
+32,Male,Married,Sales,Sales Executive,3,No,0,9610,High,10,6-10,4,4-5,1,0,0,0,0.29148614485844737,Low Risk
+40,Male,Single,Sales,Manager,5,No,0,19833,High,21,21+,21,11+,0,0,0,0,0.28053752080896155,Low Risk
+45,Female,Married,Human Resources,Human Resources,3,No,0,9756,High,9,6-10,5,4-5,2,0,0,0,0.17209815989477614,Low Risk
+30,Female,Single,Research & Development,Research Scientist,1,No,0,4968,Mid-High,10,6-10,9,6-10,0,0,0,0,0.4032513741125214,Medium Risk
+24,Male,Married,Human Resources,Human Resources,1,No,0,2145,Low,3,3-5,2,2-3,1,0,0,0,0.3872687201285979,Low Risk
+30,Female,Divorced,Human Resources,Human Resources,1,No,0,2180,Low,6,6-10,4,4-5,1,0,0,1,0.34452851120363703,Low Risk
+31,Male,Married,Sales,Sales Executive,2,No,0,8346,Mid-High,6,6-10,5,4-5,1,0,0,0,0.30440204729484394,Low Risk
+27,Female,Single,Research & Development,Research Scientist,1,No,0,3445,Mid-Low,6,6-10,6,6-10,0,0,0,0,0.45637770142194867,Medium Risk
+29,Female,Single,Sales,Sales Representative,1,No,0,2760,Low,2,0-2,2,2-3,0,0,1,1,0.7503824324263045,High Risk
+29,Male,Single,Research & Development,Healthcare Representative,2,Yes,1,6294,Mid-High,10,6-10,3,2-3,0,0,0,0,0.6525820473376269,Medium Risk
+30,Male,Divorced,Sales,Sales Executive,3,No,0,7140,Mid-High,12,11-20,7,6-10,1,0,0,0,0.3238222541756021,Low Risk
+34,Male,Married,Research & Development,Research Scientist,1,Yes,1,2932,Mid-Low,6,6-10,5,4-5,3,0,0,0,0.34199512637651475,Low Risk
+33,Female,Single,Sales,Sales Executive,2,No,0,5147,Mid-High,13,11-20,11,11+,0,0,0,0,0.40790865495960626,Medium Risk
+49,Female,Single,Sales,Sales Executive,2,No,0,4507,Mid-Low,8,6-10,5,4-5,0,0,0,0,0.3542377905903678,Low Risk
+33,Female,Single,Sales,Sales Executive,3,Yes,1,8564,High,11,11-20,0,0-1,0,0,1,1,0.8495670882185391,High Risk
+38,Female,Married,Research & Development,Laboratory Technician,1,No,0,2468,Low,9,6-10,6,6-10,1,0,0,0,0.29278938005691413,Low Risk
+31,Male,Married,Sales,Sales Executive,3,No,0,8161,Mid-High,10,6-10,1,0-1,3,0,1,1,0.3755920639957336,Low Risk
+29,Female,Divorced,Research & Development,Research Scientist,1,No,0,2109,Low,1,0-2,1,0-1,1,0,1,0,0.6686076260322682,Medium Risk
+30,Male,Married,Research & Development,Healthcare Representative,2,No,0,5294,Mid-High,10,6-10,7,6-10,1,0,0,0,0.3245988856015452,Low Risk
+32,Male,Single,Research & Development,Research Scientist,1,No,0,2718,Low,12,11-20,7,6-10,0,0,0,0,0.4024971306066641,Medium Risk
+38,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,5811,Mid-High,15,11-20,1,0-1,1,0,1,0,0.7456038491466273,High Risk
+43,Male,Married,Research & Development,Research Scientist,1,Yes,1,2437,Low,6,6-10,1,0-1,1,1,1,1,0.9082626191215919,High Risk
+42,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2766,Low,7,6-10,5,4-5,3,0,0,0,0.13783575845327187,Low Risk
+55,Male,Married,Research & Development,Research Director,5,No,0,19038,High,34,21+,1,0-1,3,0,1,0,0.12492075849724794,Low Risk
+33,Male,Divorced,Research & Development,Research Scientist,2,No,0,3055,Mid-Low,11,11-20,9,6-10,2,0,0,0,0.24443445368552189,Low Risk
+41,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2289,Low,5,3-5,5,4-5,2,0,0,0,0.21706002299103264,Low Risk
+34,Male,Divorced,Sales,Sales Executive,2,Yes,1,4001,Mid-Low,15,11-20,15,11+,1,0,0,0,0.5516218126340761,Medium Risk
+53,Female,Married,Research & Development,Manufacturing Director,4,Yes,1,12965,High,27,21+,3,2-3,3,0,0,0,0.1497595973022904,Low Risk
+43,Male,Single,Human Resources,Human Resources,1,No,0,3539,Mid-Low,10,6-10,9,6-10,0,0,0,0,0.35820725806110604,Low Risk
+34,Female,Single,Sales,Sales Executive,2,No,0,6029,Mid-High,6,6-10,2,2-3,0,0,0,0,0.4124256481385817,Medium Risk
+21,Male,Single,Sales,Sales Representative,1,No,0,2679,Low,1,0-2,1,0-1,0,0,1,1,0.783242324980108,High Risk
+38,Female,Married,Research & Development,Laboratory Technician,1,No,0,3702,Mid-Low,5,3-5,5,4-5,1,0,0,0,0.3000583731400437,Low Risk
+22,Female,Married,Research & Development,Laboratory Technician,1,Yes,1,2398,Low,1,0-2,1,0-1,0,1,1,1,0.9649106521190218,High Risk
+31,Female,Married,Sales,Sales Executive,2,No,0,5468,Mid-High,13,11-20,12,11+,2,0,0,0,0.2255117122625696,Low Risk
+51,Female,Married,Research & Development,Manager,3,No,0,13116,High,15,11-20,2,2-3,0,0,0,0,0.23535125016367156,Low Risk
+37,Male,Married,Sales,Sales Executive,2,No,0,4189,Mid-Low,5,3-5,5,4-5,2,0,0,0,0.2402705646760888,Low Risk
+46,Male,Divorced,Research & Development,Research Director,5,Yes,1,19328,High,24,21+,2,2-3,1,0,0,0,0.30810595430201265,Low Risk
+36,Male,Married,Research & Development,Healthcare Representative,3,Yes,1,8321,Mid-High,15,11-20,12,11+,1,0,0,0,0.5128857281595932,Medium Risk
+44,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,2342,Low,6,6-10,5,4-5,3,1,0,1,0.5525957907154783,Medium Risk
+37,Male,Divorced,Human Resources,Human Resources,2,No,0,4071,Mid-Low,19,11-20,10,6-10,0,0,0,0,0.3592879359323851,Low Risk
+35,Male,Single,Sales,Sales Executive,2,Yes,1,5813,Mid-High,10,6-10,10,6-10,0,0,0,1,0.6499451205353263,Medium Risk
+33,Male,Married,Research & Development,Research Scientist,1,No,0,3143,Mid-Low,14,11-20,10,6-10,1,0,0,0,0.28782837857188626,Low Risk
+28,Male,Married,Research & Development,Research Scientist,1,No,0,2044,Low,5,3-5,5,4-5,1,0,0,0,0.3647784457049482,Low Risk
+39,Male,Single,Research & Development,Research Director,3,No,0,13464,High,9,6-10,4,4-5,0,0,0,0,0.3191110732000598,Low Risk
+46,Male,Single,Sales,Sales Executive,2,No,0,7991,Mid-High,6,6-10,2,2-3,0,0,0,0,0.33108177433285757,Low Risk
+40,Female,Married,Research & Development,Laboratory Technician,1,No,0,3377,Mid-Low,7,6-10,4,4-5,1,0,0,0,0.28104827759525325,Low Risk
+42,Male,Married,Research & Development,Healthcare Representative,2,No,0,5538,Mid-High,10,6-10,0,0-1,2,0,1,0,0.42338525414432004,Medium Risk
+35,Male,Divorced,Research & Development,Manufacturing Director,2,No,0,5762,Mid-High,15,11-20,7,6-10,1,0,0,0,0.26892990199962885,Low Risk
+38,Male,Divorced,Human Resources,Human Resources,1,No,0,2592,Low,13,11-20,11,11+,3,0,0,0,0.13744310212164207,Low Risk
+34,Male,Married,Research & Development,Laboratory Technician,2,No,0,5346,Mid-High,11,11-20,7,6-10,1,0,0,1,0.3003792966496473,Low Risk
+37,Male,Single,Research & Development,Manufacturing Director,2,No,0,4213,Mid-Low,10,6-10,10,6-10,0,0,0,1,0.4173666406978174,Medium Risk
+39,Male,Divorced,Sales,Sales Executive,2,No,0,4127,Mid-Low,7,6-10,2,2-3,1,0,0,0,0.30299277300219274,Low Risk
+43,Male,Single,Research & Development,Research Scientist,1,No,0,2438,Low,7,6-10,3,2-3,0,0,0,0,0.3740696620432756,Low Risk
+41,Male,Single,Research & Development,Healthcare Representative,2,No,0,6870,Mid-High,11,11-20,3,2-3,0,0,0,0,0.33857649287076425,Low Risk
+41,Female,Divorced,Sales,Sales Executive,3,Yes,1,10447,High,23,21+,22,11+,1,0,0,0,0.4343032510962984,Medium Risk
+30,Female,Single,Research & Development,Manufacturing Director,3,No,0,9667,High,9,6-10,7,6-10,0,0,0,0,0.41666800203261767,Medium Risk
+26,Female,Married,Human Resources,Human Resources,1,Yes,1,2148,Low,6,6-10,5,4-5,0,1,0,1,0.8739967819738832,High Risk
+46,Female,Married,Research & Development,Healthcare Representative,2,No,0,8926,High,13,11-20,9,6-10,1,0,0,1,0.21222493693711286,Low Risk
+40,Female,Divorced,Research & Development,Healthcare Representative,2,No,0,6513,Mid-High,12,11-20,5,4-5,1,0,0,0,0.2530164151219345,Low Risk
+34,Male,Married,Sales,Sales Executive,2,No,0,6799,Mid-High,10,6-10,10,6-10,2,0,0,0,0.21317125309540924,Low Risk
+58,Male,Divorced,Sales,Manager,4,No,0,16291,High,37,21+,16,11+,1,0,0,0,0.09683902408881334,Low Risk
+35,Male,Married,Research & Development,Laboratory Technician,1,No,0,2705,Low,6,6-10,5,4-5,1,0,0,0,0.3184206835406051,Low Risk
+47,Female,Divorced,Research & Development,Manufacturing Director,3,Yes,1,10333,High,28,21+,22,11+,1,0,0,0,0.37250198379661326,Low Risk
+40,Female,Divorced,Research & Development,Healthcare Representative,2,No,0,4448,Mid-Low,15,11-20,7,6-10,1,0,0,0,0.262437552245648,Low Risk
+54,Female,Married,Research & Development,Research Scientist,2,No,0,6854,Mid-High,14,11-20,7,6-10,1,0,0,0,0.19481255038573778,Low Risk
+31,Female,Married,Sales,Sales Executive,3,No,0,9637,High,9,6-10,3,2-3,2,0,0,0,0.21380306905740654,Low Risk
+28,Female,Married,Research & Development,Research Scientist,1,No,0,3591,Mid-Low,3,3-5,3,2-3,1,0,0,0,0.35327238658000615,Low Risk
+38,Female,Married,Sales,Sales Representative,2,Yes,1,5405,Mid-High,20,11-20,4,4-5,2,0,0,0,0.3378386136281134,Low Risk
+26,Male,Single,Sales,Sales Executive,2,No,0,4684,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.48645788149414826,Medium Risk
+58,Male,Married,Research & Development,Research Director,4,Yes,1,15787,High,23,21+,2,2-3,0,0,0,0,0.3678640813509159,Low Risk
+18,Female,Single,Research & Development,Research Scientist,1,No,0,1514,Low,0,0-2,0,0-1,0,0,1,0,0.8058515191697829,High Risk
+31,Male,Married,Human Resources,Human Resources,1,No,0,2956,Mid-Low,2,0-2,1,0-1,0,0,1,1,0.7382777228931655,High Risk
+29,Male,Divorced,Human Resources,Human Resources,1,Yes,1,2335,Low,4,3-5,2,2-3,3,1,0,1,0.6313994537491415,Medium Risk
+45,Female,Married,Sales,Sales Executive,2,No,0,5154,Mid-High,10,6-10,8,6-10,2,0,0,0,0.18704289126420232,Low Risk
+36,Female,Married,Research & Development,Research Scientist,2,Yes,1,6962,Mid-High,15,11-20,1,0-1,1,0,1,0,0.7418619133142594,High Risk
+43,Male,Married,Sales,Sales Executive,2,No,0,5675,Mid-High,7,6-10,7,6-10,1,0,0,0,0.28187756977653766,Low Risk
+27,Female,Single,Research & Development,Laboratory Technician,1,Yes,1,2379,Low,6,6-10,5,4-5,0,1,0,0,0.8703549757039595,High Risk
+29,Male,Married,Research & Development,Laboratory Technician,1,No,0,3812,Mid-Low,11,11-20,11,11+,0,0,0,0,0.42214037426953493,Medium Risk
+32,Male,Single,Sales,Sales Executive,2,No,0,4648,Mid-Low,4,3-5,0,0-1,0,0,1,0,0.7327875056156166,High Risk
+42,Male,Married,Research & Development,Research Scientist,1,No,0,2936,Mid-Low,10,6-10,6,6-10,2,0,0,0,0.18764852682902686,Low Risk
+47,Female,Single,Research & Development,Laboratory Technician,1,No,0,2105,Low,7,6-10,2,2-3,0,0,0,0,0.3562801242251186,Low Risk
+46,Male,Divorced,Research & Development,Manufacturing Director,3,No,0,8578,High,12,11-20,9,6-10,1,0,0,0,0.2468617369494963,Low Risk
+28,Male,Divorced,Human Resources,Human Resources,1,No,0,2706,Low,3,3-5,3,2-3,1,0,0,0,0.3639951326518081,Low Risk
+29,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,6384,Mid-High,11,11-20,7,6-10,2,0,0,0,0.22331150159134797,Low Risk
+42,Male,Single,Research & Development,Laboratory Technician,1,No,0,3968,Mid-Low,8,6-10,0,0-1,0,0,1,0,0.6405400192235812,Medium Risk
+32,Male,Single,Sales,Sales Executive,2,Yes,1,9907,High,7,6-10,2,2-3,0,0,0,1,0.6107356121476912,Medium Risk
+46,Female,Divorced,Sales,Sales Executive,4,No,0,13225,High,25,21+,19,11+,1,0,0,0,0.18969262021022482,Low Risk
+27,Female,Married,Sales,Sales Representative,2,No,0,3540,Mid-Low,9,6-10,9,6-10,1,0,0,0,0.37140435940330846,Low Risk
+29,Male,Married,Human Resources,Human Resources,1,No,0,2804,Low,1,0-2,1,0-1,0,0,1,0,0.7528890694155487,High Risk
+43,Female,Married,Research & Development,Manager,5,No,0,19392,High,21,21+,16,11+,0,0,0,0,0.2608552149794558,Low Risk
+48,Male,Married,Research & Development,Research Director,5,No,0,19665,High,29,21+,22,11+,0,0,0,0,0.21266156198231048,Low Risk
+29,Male,Single,Research & Development,Research Scientist,1,Yes,1,2439,Low,1,0-2,1,0-1,0,1,1,1,0.9596307766275138,High Risk
+46,Female,Married,Sales,Sales Executive,3,No,0,7314,Mid-High,14,11-20,8,6-10,3,0,0,1,0.11765781596348984,Low Risk
+27,Female,Married,Research & Development,Research Scientist,1,No,0,4774,Mid-Low,8,6-10,7,6-10,1,0,0,0,0.32354577363326564,Low Risk
+39,Male,Divorced,Research & Development,Research Scientist,2,No,0,3902,Mid-Low,7,6-10,2,2-3,3,0,0,0,0.1520220176591947,Low Risk
+55,Male,Married,Research & Development,Research Scientist,1,No,0,2662,Low,19,11-20,5,4-5,1,0,0,0,0.17751692916280581,Low Risk
+28,Female,Married,Sales,Sales Representative,1,No,0,2856,Low,1,0-2,1,0-1,1,0,1,0,0.6644176065459537,Medium Risk
+30,Male,Single,Sales,Sales Representative,1,No,0,1081,Low,1,0-2,1,0-1,0,0,1,1,0.7657281949570018,High Risk
+22,Male,Single,Research & Development,Research Scientist,1,Yes,1,2472,Low,1,0-2,1,0-1,0,1,1,1,0.9647784278361704,High Risk
+36,Female,Married,Sales,Sales Executive,2,Yes,1,5673,Mid-High,10,6-10,10,6-10,1,0,0,0,0.5391387146442046,Medium Risk
+31,Male,Divorced,Research & Development,Laboratory Technician,2,No,0,4197,Mid-Low,10,6-10,10,6-10,1,0,0,0,0.3410653843066213,Low Risk
+34,Male,Married,Sales,Sales Executive,3,Yes,1,9713,High,9,6-10,5,4-5,3,0,0,0,0.310841185148352,Low Risk
+29,Male,Single,Research & Development,Laboratory Technician,1,No,0,2062,Low,11,11-20,3,2-3,0,0,0,0,0.4206396139920424,Medium Risk
+37,Male,Married,Research & Development,Research Scientist,2,Yes,1,4284,Mid-Low,16,11-20,5,4-5,1,0,0,0,0.4949635550023174,Medium Risk
+35,Female,Married,Research & Development,Manufacturing Director,2,Yes,1,4788,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.680261277543669,Medium Risk
+45,Female,Married,Research & Development,Manufacturing Director,2,No,0,5906,Mid-High,10,6-10,9,6-10,2,0,0,0,0.18292396552593387,Low Risk
+36,Male,Single,Human Resources,Human Resources,2,No,0,3886,Mid-Low,10,6-10,10,6-10,0,0,0,0,0.4265679667859627,Medium Risk
+40,Male,Divorced,Research & Development,Manager,4,No,0,16823,High,22,21+,19,11+,1,0,0,0,0.19240901126724413,Low Risk
+26,Female,Married,Research & Development,Research Scientist,1,Yes,1,2933,Mid-Low,1,0-2,1,0-1,1,0,1,0,0.8475693712444377,High Risk
+27,Female,Single,Sales,Sales Executive,2,No,0,6500,Mid-High,9,6-10,8,6-10,0,0,0,0,0.43890208084198756,Medium Risk
+48,Female,Divorced,Research & Development,Manager,4,No,0,17174,High,24,21+,22,11+,1,0,0,0,0.16299408017659672,Low Risk
+44,Male,Married,Research & Development,Healthcare Representative,2,No,0,5033,Mid-High,10,6-10,2,2-3,1,0,0,0,0.255892974479781,Low Risk
+34,Male,Married,Research & Development,Research Scientist,1,Yes,1,2307,Low,5,3-5,5,4-5,1,1,0,1,0.7930874507846323,High Risk
+56,Male,Single,Research & Development,Laboratory Technician,1,No,0,2587,Low,5,3-5,4,4-5,0,0,0,1,0.32722303828631455,Low Risk
+36,Male,Married,Sales,Sales Executive,2,No,0,5507,Mid-High,12,11-20,4,4-5,2,0,0,0,0.19644130378507998,Low Risk
+41,Female,Married,Sales,Sales Executive,2,No,0,4393,Mid-Low,14,11-20,5,4-5,1,0,0,0,0.25970791584482394,Low Risk
+42,Male,Married,Research & Development,Research Director,3,No,0,13348,High,18,11-20,13,11+,1,0,0,0,0.19722102481805906,Low Risk
+31,Female,Divorced,Sales,Sales Executive,2,Yes,1,6583,Mid-High,8,6-10,5,4-5,1,0,0,0,0.551330868391119,Medium Risk
+34,Female,Married,Sales,Sales Executive,2,Yes,1,8103,Mid-High,9,6-10,4,4-5,0,0,0,0,0.6160809364738019,Medium Risk
+31,Female,Divorced,Research & Development,Laboratory Technician,1,No,0,3978,Mid-Low,4,3-5,2,2-3,1,0,0,0,0.3258749527046058,Low Risk
+26,Male,Married,Research & Development,Laboratory Technician,1,No,0,2544,Low,8,6-10,7,6-10,1,0,0,0,0.3544460847189015,Low Risk
+45,Male,Single,Research & Development,Healthcare Representative,2,No,0,5399,Mid-High,12,11-20,4,4-5,0,0,0,0,0.3340556148529604,Low Risk
+33,Male,Single,Sales,Sales Executive,2,No,0,5487,Mid-High,10,6-10,10,6-10,0,0,0,0,0.42099101668685707,Medium Risk
+28,Male,Married,Sales,Sales Executive,2,Yes,1,6834,Mid-High,7,6-10,7,6-10,1,0,0,0,0.5761405192528779,Medium Risk
+29,Male,Single,Sales,Sales Representative,1,No,0,1091,Low,1,0-2,1,0-1,0,0,1,1,0.7692920563886035,High Risk
+39,Female,Married,Sales,Sales Executive,2,No,0,5736,Mid-High,10,6-10,3,2-3,1,0,0,0,0.27097774834892546,Low Risk
+27,Male,Married,Research & Development,Research Scientist,1,No,0,2226,Low,6,6-10,5,4-5,1,0,0,0,0.3608193683723204,Low Risk
+34,Male,Married,Research & Development,Research Scientist,2,Yes,1,5747,Mid-High,16,11-20,15,11+,0,0,0,0,0.6308835482341029,Medium Risk
+28,Female,Single,Sales,Sales Executive,2,Yes,1,9854,High,6,6-10,2,2-3,0,0,0,1,0.6372004621222629,Medium Risk
+47,Male,Married,Research & Development,Research Scientist,2,No,0,5467,Mid-High,16,11-20,8,6-10,1,0,0,0,0.22334836605776628,Low Risk
+56,Female,Married,Sales,Sales Executive,2,No,0,5380,Mid-High,6,6-10,0,0-1,1,0,1,0,0.49334714611440433,Medium Risk
+39,Male,Married,Research & Development,Manufacturing Director,2,No,0,5151,Mid-High,10,6-10,10,6-10,1,0,0,0,0.2946716431457154,Low Risk
+38,Female,Divorced,Research & Development,Research Scientist,2,Yes,1,2133,Low,20,11-20,20,11+,1,1,0,0,0.7657378196153672,High Risk
+58,Female,Married,Sales,Manager,4,Yes,1,17875,High,29,21+,1,0-1,1,0,1,0,0.4842097852436271,Medium Risk
+32,Female,Single,Research & Development,Research Scientist,1,Yes,1,2432,Low,8,6-10,4,4-5,0,1,0,1,0.8494689562504176,High Risk
+38,Male,Divorced,Research & Development,Research Scientist,1,No,0,4771,Mid-Low,10,6-10,5,4-5,2,0,0,0,0.18357361205225467,Low Risk
+49,Male,Married,Research & Development,Research Director,5,No,0,19161,High,28,21+,5,4-5,0,0,0,0,0.18484746757553366,Low Risk
+42,Male,Divorced,Sales,Sales Executive,2,Yes,1,5087,Mid-High,14,11-20,0,0-1,2,0,1,0,0.6452879100422976,Medium Risk
+27,Female,Married,Human Resources,Human Resources,1,No,0,2863,Low,1,0-2,1,0-1,0,0,1,1,0.7598708797554389,High Risk
+35,Male,Married,Sales,Sales Executive,2,No,0,5561,Mid-High,6,6-10,5,4-5,1,0,0,0,0.31827458875707754,Low Risk
+28,Male,Single,Research & Development,Research Scientist,1,No,0,2144,Low,5,3-5,5,4-5,0,0,0,0,0.4722400871646259,Medium Risk
+31,Male,Divorced,Research & Development,Research Scientist,1,Yes,1,3065,Mid-Low,4,3-5,4,4-5,1,0,0,0,0.5845440069586967,Medium Risk
+36,Male,Married,Research & Development,Laboratory Technician,1,No,0,2810,Low,5,3-5,5,4-5,0,0,0,0,0.4230575387505232,Medium Risk
+34,Male,Single,Sales,Sales Executive,3,No,0,9888,High,14,11-20,14,11+,0,0,0,0,0.38124937750628524,Low Risk
+34,Male,Divorced,Sales,Sales Executive,3,No,0,8628,High,9,6-10,8,6-10,1,0,0,0,0.3099747343723888,Low Risk
+26,Male,Single,Research & Development,Laboratory Technician,1,No,0,2867,Low,8,6-10,7,6-10,0,0,0,0,0.45815560808240896,Medium Risk
+29,Male,Married,Research & Development,Healthcare Representative,2,No,0,5373,Mid-High,6,6-10,5,4-5,1,0,0,0,0.34778010200703047,Low Risk
+32,Female,Divorced,Research & Development,Healthcare Representative,2,No,0,6667,Mid-High,9,6-10,5,4-5,1,0,0,0,0.3009895728312496,Low Risk
+31,Male,Married,Research & Development,Research Scientist,2,No,0,5003,Mid-High,10,6-10,10,6-10,0,0,0,0,0.43727934418729536,Medium Risk
+28,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2367,Low,6,6-10,4,4-5,1,0,0,1,0.351596367181573,Low Risk
+38,Male,Single,Sales,Sales Representative,1,No,0,2858,Low,20,11-20,1,0-1,0,0,1,0,0.5972488075151207,Medium Risk
+35,Female,Married,Sales,Sales Executive,2,Yes,1,5204,Mid-High,10,6-10,10,6-10,0,0,0,0,0.6572085011295912,Medium Risk
+27,Male,Single,Sales,Sales Executive,2,No,0,4105,Mid-Low,7,6-10,7,6-10,0,0,0,0,0.48109113334890585,Medium Risk
+32,Male,Single,Research & Development,Manufacturing Director,2,No,0,9679,High,8,6-10,1,0-1,0,0,1,0,0.6556409258815339,Medium Risk
+31,Male,Married,Sales,Sales Executive,2,Yes,1,5617,Mid-High,10,6-10,10,6-10,0,0,0,1,0.6706488762702916,Medium Risk
+53,Male,Single,Sales,Sales Executive,3,Yes,1,10448,High,15,11-20,2,2-3,0,0,0,1,0.47923323683395325,Medium Risk
+54,Female,Married,Research & Development,Research Scientist,2,No,0,2897,Low,9,6-10,4,4-5,2,0,0,0,0.17421055924352635,Low Risk
+33,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,5968,Mid-High,9,6-10,9,6-10,3,0,0,0,0.15779964148109285,Low Risk
+43,Male,Married,Research & Development,Healthcare Representative,3,No,0,7510,Mid-High,10,6-10,10,6-10,1,0,0,0,0.28306828850419474,Low Risk
+38,Male,Married,Human Resources,Human Resources,1,Yes,1,2991,Mid-Low,7,6-10,6,6-10,1,0,0,0,0.5355218999859921,Medium Risk
+55,Male,Married,Human Resources,Manager,5,Yes,1,19636,High,35,21+,10,6-10,1,0,0,0,0.22797374185457123,Low Risk
+31,Female,Divorced,Research & Development,Laboratory Technician,1,Yes,1,1129,Low,1,0-2,1,0-1,3,1,1,0,0.8641385393897213,High Risk
+39,Male,Single,Sales,Sales Executive,4,No,0,13341,High,21,21+,20,11+,0,0,0,0,0.322702598913868,Low Risk
+42,Male,Single,Research & Development,Research Scientist,2,No,0,4332,Mid-Low,20,11-20,20,11+,0,0,0,0,0.35438627412943013,Low Risk
+31,Female,Married,Research & Development,Research Director,3,No,0,11031,High,13,11-20,11,11+,1,0,0,0,0.28077947979193213,Low Risk
+54,Female,Single,Research & Development,Manufacturing Director,2,Yes,1,4440,Mid-Low,9,6-10,5,4-5,0,0,0,0,0.5666526975353051,Medium Risk
+24,Male,Single,Research & Development,Healthcare Representative,2,No,0,4617,Mid-Low,4,3-5,4,4-5,0,0,0,0,0.5015230756925432,Medium Risk
+23,Male,Single,Research & Development,Laboratory Technician,1,No,0,2647,Low,5,3-5,5,4-5,0,0,0,0,0.4912126482426909,Medium Risk
+40,Female,Married,Research & Development,Laboratory Technician,2,No,0,6323,Mid-High,10,6-10,10,6-10,1,0,0,0,0.2778723505467929,Low Risk
+40,Female,Married,Sales,Sales Executive,2,No,0,5677,Mid-High,15,11-20,11,11+,1,0,0,0,0.2594348415124612,Low Risk
+25,Female,Married,Human Resources,Human Resources,1,No,0,2187,Low,6,6-10,2,2-3,0,0,0,0,0.4708240226800008,Medium Risk
+30,Male,Married,Research & Development,Laboratory Technician,1,No,0,3748,Mid-Low,12,11-20,12,11+,0,0,0,0,0.414142444359005,Medium Risk
+25,Male,Divorced,Research & Development,Laboratory Technician,1,Yes,1,3977,Mid-Low,7,6-10,2,2-3,1,0,0,0,0.5763263667137809,Medium Risk
+47,Male,Single,Research & Development,Healthcare Representative,3,No,0,8633,High,25,21+,17,11+,0,0,0,0,0.27764490938644665,Low Risk
+33,Male,Divorced,Research & Development,Laboratory Technician,1,No,0,2008,Low,1,0-2,1,0-1,3,0,1,0,0.4323232274129731,Medium Risk
+38,Male,Married,Sales,Sales Executive,2,No,0,4440,Mid-Low,16,11-20,15,11+,2,0,0,0,0.20255347867352996,Low Risk
+31,Male,Married,Sales,Sales Representative,1,No,0,3067,Mid-Low,3,3-5,2,2-3,1,0,0,0,0.3427926037252549,Low Risk
+38,Male,Married,Research & Development,Manufacturing Director,2,No,0,5321,Mid-High,10,6-10,8,6-10,1,0,0,0,0.2919684486249345,Low Risk
+42,Male,Divorced,Research & Development,Research Scientist,2,Yes,1,5410,Mid-High,9,6-10,4,4-5,1,0,0,0,0.500503578029528,Medium Risk
+41,Male,Married,Research & Development,Research Scientist,1,No,0,2782,Low,12,11-20,5,4-5,1,0,0,0,0.2580129737996801,Low Risk
+47,Female,Married,Research & Development,Research Director,3,No,0,11957,High,14,11-20,13,11+,2,0,0,0,0.14558932791473617,Low Risk
+35,Male,Married,Research & Development,Laboratory Technician,1,Yes,1,2660,Low,5,3-5,2,2-3,1,1,0,0,0.7803426212086264,High Risk
+22,Male,Single,Research & Development,Research Scientist,1,No,0,3375,Mid-Low,4,3-5,3,2-3,0,0,0,0,0.48761494065626065,Medium Risk
+35,Male,Single,Research & Development,Research Scientist,2,No,0,5098,Mid-High,10,6-10,10,6-10,0,0,0,0,0.4160004363346756,Medium Risk
+33,Female,Married,Research & Development,Healthcare Representative,2,Yes,1,4878,Mid-Low,10,6-10,9,6-10,1,0,0,0,0.5616745536121088,Medium Risk
+32,Female,Single,Research & Development,Laboratory Technician,1,No,0,2837,Low,6,6-10,6,6-10,0,0,0,0,0.4389551333625405,Medium Risk
+40,Male,Married,Research & Development,Laboratory Technician,1,No,0,2406,Low,8,6-10,1,0-1,2,0,1,0,0.4540521928772888,Medium Risk
+32,Male,Married,Sales,Sales Representative,1,No,0,2269,Low,3,3-5,2,2-3,1,0,0,0,0.34766099316946364,Low Risk
+39,Male,Single,Research & Development,Research Scientist,2,No,0,4108,Mid-Low,18,11-20,7,6-10,0,0,0,0,0.3474551306848841,Low Risk
+38,Female,Married,Research & Development,Research Director,3,No,0,13206,High,20,11-20,18,11+,1,0,0,0,0.2126729240702331,Low Risk
+32,Female,Married,Sales,Sales Executive,3,No,0,10422,High,14,11-20,14,11+,2,0,0,0,0.20278557155716675,Low Risk
+37,Female,Married,Research & Development,Research Director,3,Yes,1,13744,High,16,11-20,16,11+,1,0,0,0,0.44189231958986624,Medium Risk
+25,Female,Divorced,Sales,Sales Executive,2,Yes,1,4907,Mid-Low,6,6-10,5,4-5,1,0,0,0,0.6161909492525695,Medium Risk
+52,Male,Divorced,Sales,Sales Representative,1,No,0,3482,Mid-Low,16,11-20,9,6-10,2,0,0,0,0.13818213458448356,Low Risk
+44,Male,Single,Research & Development,Research Scientist,1,Yes,1,2436,Low,6,6-10,4,4-5,0,1,0,0,0.8235101408719769,High Risk
+21,Male,Single,Sales,Sales Representative,1,Yes,1,2380,Low,2,0-2,2,2-3,0,1,1,0,0.9651032130365299,High Risk
+39,Male,Single,Research & Development,Manager,5,No,0,19431,High,21,21+,6,6-10,0,0,0,0,0.2526531849164501,Low Risk
+23,Male,Married,Sales,Sales Representative,1,No,0,1790,Low,1,0-2,1,0-1,1,0,1,1,0.6988223326052211,Medium Risk
+36,Female,Married,Sales,Sales Executive,3,No,0,7644,Mid-High,10,6-10,9,6-10,2,0,0,0,0.22201810165042105,Low Risk
+36,Female,Divorced,Research & Development,Manufacturing Director,2,No,0,5131,Mid-High,18,11-20,4,4-5,3,0,0,0,0.11858422446953165,Low Risk
+56,Male,Divorced,Research & Development,Healthcare Representative,2,No,0,6306,Mid-High,13,11-20,13,11+,1,0,0,0,0.20926286544066833,Low Risk
+29,Male,Married,Research & Development,Research Scientist,1,Yes,1,4787,Mid-Low,4,3-5,2,2-3,3,0,0,1,0.3474113269080829,Low Risk
+42,Male,Married,Research & Development,Manager,5,No,0,18880,High,24,21+,22,11+,0,0,0,0,0.26807414833900073,Low Risk
+56,Male,Married,Research & Development,Laboratory Technician,1,No,0,2339,Low,14,11-20,10,6-10,1,0,0,1,0.20831831160282402,Low Risk
+41,Female,Married,Research & Development,Manufacturing Director,4,No,0,13570,High,21,21+,20,11+,1,0,0,0,0.22387263893701312,Low Risk
+34,Female,Married,Sales,Sales Executive,2,No,0,6712,Mid-High,8,6-10,8,6-10,2,0,0,0,0.2192844802880547,Low Risk
+36,Male,Divorced,Sales,Sales Executive,2,No,0,5406,Mid-High,15,11-20,15,11+,1,0,0,0,0.28833937401227056,Low Risk
+41,Male,Divorced,Sales,Sales Executive,2,No,0,8938,High,14,11-20,5,4-5,1,0,0,0,0.21637644536791886,Low Risk
+32,Male,Single,Research & Development,Research Scientist,1,No,0,2439,Low,4,3-5,4,4-5,0,0,0,0,0.4519123519535092,Medium Risk
+35,Female,Single,Human Resources,Human Resources,3,Yes,1,8837,High,9,6-10,9,6-10,0,0,0,0,0.65135946309191,Medium Risk
+38,Female,Married,Sales,Sales Executive,2,No,0,5343,Mid-High,10,6-10,10,6-10,1,0,0,0,0.2968347426765392,Low Risk
+50,Male,Divorced,Sales,Sales Executive,2,No,0,6728,Mid-High,12,11-20,6,6-10,2,0,0,1,0.14989619820930708,Low Risk
+36,Female,Married,Sales,Sales Executive,2,No,0,6652,Mid-High,8,6-10,6,6-10,1,0,0,0,0.29245976549100877,Low Risk
+45,Female,Single,Sales,Sales Executive,2,No,0,4850,Mid-Low,8,6-10,5,4-5,0,0,0,0,0.368994437821392,Low Risk
+40,Male,Single,Research & Development,Research Scientist,1,No,0,2809,Low,8,6-10,2,2-3,0,0,0,0,0.3744500707031039,Low Risk
+35,Male,Married,Research & Development,Healthcare Representative,2,Yes,1,5689,Mid-High,10,6-10,10,6-10,2,0,0,0,0.43235113079971116,Medium Risk
+40,Female,Married,Research & Development,Research Scientist,1,No,0,2001,Low,20,11-20,5,4-5,3,0,0,0,0.10749565879764715,Low Risk
+35,Female,Married,Research & Development,Research Scientist,1,No,0,2977,Mid-Low,4,3-5,4,4-5,1,0,0,0,0.32484720576453335,Low Risk
+29,Male,Married,Research & Development,Laboratory Technician,2,Yes,1,4025,Mid-Low,10,6-10,4,4-5,1,0,0,0,0.5777222859421097,Medium Risk
+29,Female,Single,Research & Development,Research Scientist,1,No,0,3785,Mid-Low,5,3-5,5,4-5,0,0,0,0,0.4456905398562143,Medium Risk
+50,Male,Divorced,Sales,Sales Executive,3,Yes,1,10854,High,20,11-20,3,2-3,1,0,0,1,0.3498499392308209,Low Risk
+39,Female,Married,Sales,Sales Executive,4,No,0,12031,High,21,21+,20,11+,1,0,0,0,0.2457945906959202,Low Risk
+31,Male,Single,Research & Development,Manufacturing Director,2,No,0,9936,High,10,6-10,9,6-10,0,0,0,0,0.3718321735117219,Low Risk
+26,Female,Single,Sales,Sales Representative,1,No,0,2966,Mid-Low,5,3-5,4,4-5,0,0,0,0,0.4686041461968636,Medium Risk
+36,Male,Married,Research & Development,Laboratory Technician,2,No,0,2571,Low,17,11-20,5,4-5,1,0,0,0,0.2822913109567505,Low Risk
+39,Male,Married,Research & Development,Healthcare Representative,3,No,0,9991,High,9,6-10,7,6-10,1,0,0,0,0.27153899144547855,Low Risk
+27,Male,Married,Research & Development,Manufacturing Director,2,Yes,1,6142,Mid-High,6,6-10,6,6-10,1,0,0,0,0.5937881640758237,Medium Risk
+49,Male,Married,Sales,Sales Executive,2,No,0,5390,Mid-High,17,11-20,9,6-10,0,0,0,0,0.29940138197697236,Low Risk
+34,Male,Married,Research & Development,Laboratory Technician,2,No,0,4404,Mid-Low,6,6-10,4,4-5,0,0,0,0,0.4393600822094227,Medium Risk

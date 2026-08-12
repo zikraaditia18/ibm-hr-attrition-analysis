@@ -3,7 +3,7 @@
 End-to-end data science project analyzing employee attrition with predictive 
 modeling, risk scoring, and cost-benefit interventions.
 
-🔗 **[Live Dashboard](https://your-username-ibm-hr-dashboard.streamlit.app)**
+🔗 **[Live Dashboard](https://your-username-ibm-hr-dashboard.streamlit.app](https://ibm-hr-attrition-analysis-c2nn4zswp6dzfbkddyxef6.streamlit.app/)**
 
 ## Key Findings
 - **Overtime** is the strongest attrition driver (30.5% vs 10.4%)
@@ -18,7 +18,12 @@ modeling, risk scoring, and cost-benefit interventions.
 - **Target:** Attrition from 16.1% → below 10%
 
 ## Dashboard Preview
-![Executive Dashboard](assets/dashboard_preview.png)
+
+### Executive View
+![Executive Dashboard](assets/dashboard_preview-1.png)
+
+### HR Action View
+![HR Action Dashboard](assets/dashboard_preview-2.png)
 
 Two-page interactive dashboard (Streamlit):
 - **Executive View** — KPIs, driver breakdown, risk distribution, ROI
@@ -68,4 +73,4 @@ streamlit run dashboard.py
 
 ## Author
 **Zikra Aditia** — People Analytics & Data Science  
-[LinkedIn](https://linkedin.com/in/your-url)
+[LinkedIn](https://linkedin.com/in/zikra-aditia)
